@@ -1,0 +1,13 @@
+title: Pierrick Jeanjean
+email: pierrick.jeanjean@gmail.com
+description: >-
+  This blog will be where I will log everything I will discover during my career in IT :)
+baseurl: ""
+url: ""
+twitter_username: 
+github_username:  pierrick-jeanjean
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
