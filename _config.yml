@@ -1,11 +1,10 @@
 title: Pierrick Jeanjean
 email: pierrick.jeanjean@gmail.com
-description: >-
-  This blog will be where I will log everything I will discover during my career in IT :)
+description: Personal blog
 baseurl: ""
 url: ""
 twitter_username: 
-github_username:  pierrick-jeanjean
+github_username:
 
 # Build settings
 theme: minima

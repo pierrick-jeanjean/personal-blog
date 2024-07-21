@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+👋 Hi, I'm Pierrick, nice to meet you 👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a solution architect at Volvo Group, where I design and build IT solution based on requirements/problematics gathered from the business.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My background includes a strong experience as developer and as technical leader, helping me to encounter and resolve a lot of issue during development stage.
 
-
-[jekyll-organization]: https://github.com/jekyll
+In my free time, you'll find me playing tennis/basket or reading a book/watching a movie. I also like to discover new countries, next trip is already set to Edinburgh in Scotland
