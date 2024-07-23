@@ -29,7 +29,7 @@ bundle exec jekyll serve
 ```
 And voilà! My blog came alive at http://localhost:4000
 
-## Making it accessible for everyone
+### Making it accessible for everyone
 
 Since I am already experienced with Azure, I decided to host my blog on it. For that, I only had to create a *free* static webapp and directly refer the sources to my GitHub project.
 
