@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Writing with Markdown
-date:   2024-07-22 09:00:00 +0100
+date:   2024-07-23 09:00:00 +0100
 categories: blog jekyll
 ---
 
