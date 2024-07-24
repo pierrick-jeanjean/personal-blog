@@ -152,3 +152,5 @@ Strikethrough
 ```markdown
 ~~striked through text~~
 ```
+
+Cheers!
