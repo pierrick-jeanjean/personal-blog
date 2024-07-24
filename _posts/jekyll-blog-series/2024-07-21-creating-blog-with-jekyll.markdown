@@ -5,8 +5,7 @@ date:   2024-07-21 09:00:00 +0100
 categories: blog jekyll
 ---
 
-Today, I decided to start my own blog. I’ve always wanted a space to share things I discovered and learned during the day at work or outside during my free time.
-In order to make it quick, I looked for static site generators and based on the popularity, I selected [Jekyll](https://jekyllrb.com/){:target="_blank"}
+Today, I’ve made the decision to start my own blog. I’ve always wanted a platform to share my discoveries and learnings from both work and my free time. To expedite the process, I researched static site generators and ultimately chose [Jekyll]{:target=”_blank"} due to its popularity.
 
 ### Pre-requisites
 
@@ -31,10 +30,12 @@ And voilà! My blog came alive at http://localhost:4000
 
 ### Making it accessible for everyone
 
-Since I am already experienced with Azure, I decided to host my blog on it. For that, I only had to create a *free* static webapp and directly refer the sources to my GitHub project.
+Given my existing experience with Azure, I opted to host my blog there. 
 
-In the background, Azure/GitHub set up a GitHub action to deploy my blog, magic ✨
+The process was straightforward: I created a free static web app and linked it directly to my GitHub project. 
 
-Next step will obviously be about customizing it, but it will be for another day
+Behind the scenes, Azure and GitHub collaborated to set up a magical GitHub action for deploying my blog. 
+
+The next step, of course, will involve customization, but that’s a task for another day
 
 Cheers!
