@@ -5,11 +5,11 @@ date:   2024-07-21 09:00:00 +0100
 categories: blog jekyll
 ---
 
-Today, I’ve made the decision to start my own blog. I’ve always wanted a platform to share my discoveries and learnings from both work and my free time. To expedite the process, I researched static site generators and ultimately chose [Jekyll]{:target=”_blank"} due to its popularity.
+Today, I’ve made the decision to start my own blog. I’ve always wanted a platform to share my discoveries and learnings from both work and my free time. To expedite the process, I researched static site generators and ultimately chose Jekyll due to its popularity.
 
 ### Pre-requisites
 
-I began by installing [Ruby](https://rubyinstaller.org/){:target="_blank"} and Jekyll by running this command:
+I began by installing [Ruby](https://rubyinstaller.org/){:target="_blank"} and [Jekyll](https://jekyllrb.com){:target="_blank"} by running this command:
 ```shell
 gem install jekyll bundler
 ```
