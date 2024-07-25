@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![image](/assets/avatar.png)
+![image](/assets/about/avatar.png)
 
 <br/>
 👋 Hi, I'm Pierrick, nice to meet you 👋
