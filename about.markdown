@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![image](/assets/about/avatar.png)
+<img src="/assets/about/avatar.png" style="width: 25%; height: auto">
 
-<br/>
 👋 Hi, I'm Pierrick, nice to meet you 👋
 
 I'm a solution architect at Volvo Group, where I design and build IT solution based on requirements/problematics gathered from the business.
