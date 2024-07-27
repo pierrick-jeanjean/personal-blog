@@ -26,7 +26,7 @@ Then, in order to see the result, I just had to run:
 ```shell
 bundle exec jekyll serve
 ```
-And voilà! My blog came alive at http://localhost:4000
+And voilà! My blog came alive at [http://localhost:4000](http://localhost:4000){:target="_blank"}
 
 ### Making it accessible for everyone
 
