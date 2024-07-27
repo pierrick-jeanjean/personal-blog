@@ -5,7 +5,7 @@ date:   2024-07-28 09:00:00 +0100
 categories: blog jekyll
 ---
 
-In order to write content for the Jekyll blog, I had to learn Markdown. It is definitely not a complicated language but as my brain seems to not be able to remember about it easily, so I decided to create a "cheat sheet" of most used symbols. Enjoy!
+To create content for my Jekyll blog, I needed to learn Markdown. While it’s not a complicated language, I often find it hard to remember the syntax. So, I decided to make a “cheat sheet” of the most commonly used symbols. Enjoy!
 
 ### Code
 
