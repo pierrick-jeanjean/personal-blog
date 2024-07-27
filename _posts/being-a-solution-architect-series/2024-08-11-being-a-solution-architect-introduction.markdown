@@ -19,7 +19,7 @@ Lastly, I emphasized *staying up-to-date with new features* introduced by librar
 
 ### The decision
 
-![image](/assets/2024-08-10-being-a-solution-architect-introduction/the-decision-lebron-james.jpeg)
+![image](/assets/2024-08-11-being-a-solution-architect-introduction/the-decision-lebron-james.jpeg)
 
 <br/>
 At the end of 2021, due to a company reorganization, I faced a decision: remain in software development or transition to solution architecture
