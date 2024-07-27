@@ -32,6 +32,6 @@ Two and a half years later, I find myself working as a solution architect—thou
 
 Some days, I’m completely lost, while others, I grasp my responsibilities clearly. 
 
-In this series of posts, I’ll document everything, hoping to gain greater clarity about my duties and activities.” 12
+In this series of posts, I'll document everything, hoping to gain greater clarity about my duties and activities.
 
 Cheers!
