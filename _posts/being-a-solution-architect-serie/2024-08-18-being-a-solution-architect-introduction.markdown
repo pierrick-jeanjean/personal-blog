@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Being a solution architect - Introduction"
+title:  🧱 Being a solution architect - Introduction
 date:   2024-08-18 09:00:00 +0100
 categories: job solution architect
 ---

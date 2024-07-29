@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cooking a "ratatouille"
+title:  👨‍🍳 Cooking ratatouille
 date:   2024-08-04 09:00:00 +0100
 categories: august sides
 ---

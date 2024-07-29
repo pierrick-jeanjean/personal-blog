@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cooking "green beans with shallots"
+title:  👨‍🍳 Cooking green beans with shallots
 date:   2024-08-04 09:00:00 +0100
 categories: august sides
 ---

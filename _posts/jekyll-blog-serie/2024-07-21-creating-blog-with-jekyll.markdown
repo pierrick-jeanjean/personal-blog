@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating a blog with Jekyll"
+title:  👨‍💻 Creating a blog with Jekyll
 date:   2024-07-21 09:00:00 +0100
 categories: blog jekyll
 ---
