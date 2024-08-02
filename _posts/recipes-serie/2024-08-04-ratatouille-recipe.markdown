@@ -25,3 +25,11 @@ Ratatouille is a perfect summer dish, made with fresh, seasonal vegetables like 
 4. **Tomatoes and seasoning**: Add the tomatoes, herbes de Provence, salt, and pepper. Mix well and let simmer on low heat for 20-25 minutes, until the vegetables are tender.
 5. **Finish**: Adjust the seasoning and add a bit more olive oil if needed.
 6. **Serve**: Serve hot.
+
+### Calories (per serving):
+
+| **Calories** | 226 |
+| ----------- | ----------- |
+| *Carbs* | 22g |
+| *Fat* | 15g |
+| *Protein* | 4g |

@@ -23,3 +23,11 @@ Green beans with shallots is an ideal summer side dish because it highlights the
 5. **Finish cooking**: Remove the lid and increase the heat to high. Cook, stirring frequently, until the liquid evaporates, the beans are tender, and the shallots are jammy, about 6 minutes.
 6. **Season**: Taste and adjust the seasoning with salt and pepper if needed.
 7. **Serve**: Serve warm as a side dish.
+
+### Calories (per serving):
+
+| **Calories** | 196 |
+| ----------- | ----------- |
+| *Carbs* | 22g |
+| *Fat* | 14g |
+| *Protein* | 4g |
