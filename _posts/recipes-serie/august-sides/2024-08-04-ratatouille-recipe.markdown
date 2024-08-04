@@ -2,7 +2,7 @@
 layout: post
 title:  👨‍🍳 Ratatouille
 date:   2024-08-04 09:00:00 +0100
-categories: august sides
+categories: recipes
 ---
 
 Ratatouille is a perfect summer dish, made with fresh, seasonal vegetables like eggplant, zucchini, bell peppers, and tomatoes. It’s light, flavorful, and a great way to enjoy the abundance of summer produce. Enjoy it as a side or a vegetarian main!

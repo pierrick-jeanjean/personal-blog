@@ -2,7 +2,7 @@
 layout: post
 title:  👨‍🍳 Piperade
 date:   2024-08-04 09:00:00 +0100
-categories: august sides
+categories: recipes
 ---
 
 Piperade is a vibrant Basque dish that combines bell peppers, onions, garlic, and tomatoes. Slow-cooked to perfection, it’s bursting with flavor and pairs wonderfully with crusty bread or as a side for meats and fish. 

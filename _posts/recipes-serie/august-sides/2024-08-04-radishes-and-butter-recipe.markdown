@@ -2,7 +2,7 @@
 layout: post
 title:  👨‍🍳 Radishes and butter
 date:   2024-08-04 09:00:00 +0100
-categories: august sides
+categories: recipes
 ---
 
 Radish and butter is a classic French side dish that combines crisp radishes with creamy butter. It’s simple, refreshing, and celebrates seasonal flavors. The peppery bite of radishes pairs beautifully with the smooth richness of high-quality butter. A pinch of flaky sea salt enhances the overall experience. Bon appétit! 🇫🇷🌱🧈
