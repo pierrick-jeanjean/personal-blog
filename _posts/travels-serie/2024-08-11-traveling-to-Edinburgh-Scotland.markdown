@@ -29,14 +29,20 @@ On my third day in Edinburgh, I began by exploring the picturesque Dean Village,
 
 After reaching the end of the Leith River, I treated myself to a comforting chai latte, a perfect reward after the exercise. Refreshed, I decided to head to Granton Beach.
 
-At Granton Beach, I spent a relaxing afternoon walking along the shoreline, taking in the fresh sea breeze and the beautiful views. 
+At Granton Beach, I spent a relaxing afternoon walking along the shoreline, taking in the fresh sea breeze and the beautiful views. I ended up the day with a fish and chips on the beach, seems appropriate
 
 ### Day 4: Grassmarket, a cemetery, a dog, and a hike 
 
+On the fourth day in Edinburgh, I began my adventure at the vibrant Grassmarket, where the sound of bagpipes filled the air, creating a truly Scottish atmosphere. From there, I made my way to Greyfriars Kirkyard, a historic cemetery known for its Harry Potter references. I also paid my respects to Greyfriars Bobby, the loyal dog who guarded his master’s grave for 14 years.
+
+Next, I explored the National Museum of Scotland, which offered a fascinating glimpse into the country’s rich history and culture. The museum houses a diverse collection, including artifacts from Scottish antiquities, natural history, science, technology, and world cultures.
+
+With the sun shining brightly, I decided to hike up to Arthur’s Seat, an extinct volcano. The hike was pleasant and manageable, and the panoramic view from the summit was absolutely breathtaking.
+
 ### Day 5: Memories
 
-### Day 6: The departure
+During my stay in Edinburgh, I had a photoshoot at iconic spots like Edinburgh Castle, Victoria Street, and Calton Hill. The city’s charm and stunning backdrops made for some unforgettable photos.
 
+I couldn’t leave Scotland without trying haggis. In a cozy pub, I enjoyed a traditional plate of haggis, neeps, and tatties. The rich flavors were a delightful culinary experience.
 
-
-
+Before leaving, I visited gift shops and found beautiful scarves made from authentic Scottish wool. The vibrant tartan patterns and soft texture made them perfect souvenirs.
