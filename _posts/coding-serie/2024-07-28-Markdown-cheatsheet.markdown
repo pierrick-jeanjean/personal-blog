@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  👨‍💻 Writing with Markdown
+title:  👨‍💻 Markdown cheatsheet
 date:   2024-07-28 09:00:00 +0100
 categories: blog jekyll
 ---

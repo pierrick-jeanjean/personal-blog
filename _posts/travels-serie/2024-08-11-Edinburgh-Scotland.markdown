@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  🌍 Traveling to Edinburgh, Scotland
+title:  🌍 Edinburgh, Scotland
 date:   2024-08-11 09:00:00 +0100
 categories: travel edinburgh
 ---
