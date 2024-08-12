@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  👨‍🍳 Green beans with shallots
-date:   2024-08-04 09:00:00 +0100
+date:   2024-07-28 09:00:00 +0100
 categories: recipes
 ---
 
