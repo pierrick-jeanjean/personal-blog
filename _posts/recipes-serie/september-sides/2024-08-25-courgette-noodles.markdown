@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  👨‍🍳 Courgette noodles
-date:   2024-08-25 09:00:00 +0100
+title: 👨‍🍳 Courgette noodles
+date: 2024-08-25 09:00:00 +0100
 categories: recipes
 ---
 
