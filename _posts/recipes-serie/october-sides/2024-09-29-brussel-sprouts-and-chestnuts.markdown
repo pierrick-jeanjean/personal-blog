@@ -7,7 +7,6 @@ categories: recipes
 
 Brussel sprouts and chestnuts is perfect for October in France because it uses fresh, seasonal Brussels sprouts and chestnuts. This hearty dish combines earthy, sweet, and savory flavors, making it a comforting choice as the weather cools. It’s a delicious way to celebrate autumn’s bounty. 🍂🍽️
 
-
 ### Ingredients (for 3 persons):
 - 300 grams of Brussel sprouts
 - 120 grams of chestnuts (cooked and peeled)
