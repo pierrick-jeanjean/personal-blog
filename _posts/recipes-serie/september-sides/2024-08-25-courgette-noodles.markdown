@@ -21,7 +21,7 @@ Courgette noodles are a healthy, low-carb alternative to pasta, and September is
 
 ### Calories (per serving):
 
-| **Calories** | 165 |
+| **Calories** | 165kcal |
 | ----------- | ----------- |
 | *Carbs* | 7g |
 | *Fat* | 15g |

@@ -25,7 +25,7 @@ Eating Greek salad in September is ideal because the ingredients like tomatoes, 
 
 ### Calories (per serving):
 
-| **Calories** | 337 |
+| **Calories** | 337kcal |
 | ----------- | ----------- |
 | *Carbs* | 11g |
 | *Fat* | 29g |

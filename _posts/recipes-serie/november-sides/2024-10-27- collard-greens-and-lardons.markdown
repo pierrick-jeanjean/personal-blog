@@ -27,7 +27,7 @@ Eating collard greens with lardons in November is a wonderful way to embrace the
 
 ### Calories (per serving):
 
-| **Calories** | 104 |
+| **Calories** | 104kcal |
 | ----------- | ----------- |
 | *Carbs* | 14.5g |
 | *Fat* | 3.2g |

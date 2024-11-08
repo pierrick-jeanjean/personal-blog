@@ -28,7 +28,7 @@ Ratatouille is a perfect summer dish, made with fresh, seasonal vegetables like 
 
 ### Calories (per serving):
 
-| **Calories** | 226 |
+| **Calories** | 226kcal |
 | ----------- | ----------- |
 | *Carbs* | 22g |
 | *Fat* | 15g |

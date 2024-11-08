@@ -23,7 +23,7 @@ Eating carrot purée in October is a great way to enjoy the season’s fresh pro
 
 ### Calories (per serving):
 
-| **Calories** | 286 |
+| **Calories** | 286kcal |
 | ----------- | ----------- |
 | *Carbs* | 20g |
 | *Fat* | 23g |

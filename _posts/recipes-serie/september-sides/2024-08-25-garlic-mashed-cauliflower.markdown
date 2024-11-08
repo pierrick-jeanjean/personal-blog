@@ -25,7 +25,7 @@ Garlic mashed cauliflower is a delicious, low-carb alternative to mashed potatoe
 
 ### Calories (per serving):
 
-| **Calories** | 198 |
+| **Calories** | 198kcal |
 | ----------- | ----------- |
 | *Carbs* | 12.7g |
 | *Fat* | 13.9g |

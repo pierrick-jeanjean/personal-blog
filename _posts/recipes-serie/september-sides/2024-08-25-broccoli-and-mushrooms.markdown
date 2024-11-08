@@ -26,7 +26,7 @@ Eating broccoli and mushrooms in September is beneficial because they are in sea
 
 ### Calories (per serving):
 
-| **Calories** | 180 |
+| **Calories** | 180kcal |
 | ----------- | ----------- |
 | *Carbs* | 8g |
 | *Fat* | 14g |

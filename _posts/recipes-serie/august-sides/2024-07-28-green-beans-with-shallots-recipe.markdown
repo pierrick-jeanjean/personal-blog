@@ -26,7 +26,7 @@ Green beans with shallots is an ideal summer side dish because it highlights the
 
 ### Calories (per serving):
 
-| **Calories** | 196 |
+| **Calories** | 196kcal |
 | ----------- | ----------- |
 | *Carbs* | 22g |
 | *Fat* | 14g |

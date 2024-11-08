@@ -25,7 +25,7 @@ Roasted pumpkin is ideal for October in France because it’s peak season, offer
 
 ### Calories (per serving):
 
-| **Calories** | 151 |
+| **Calories** | 151kcal |
 | ----------- | ----------- |
 | *Carbs* | 16g |
 | *Fat* | 10g |

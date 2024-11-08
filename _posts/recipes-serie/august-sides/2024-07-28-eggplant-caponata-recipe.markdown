@@ -29,7 +29,7 @@ categories: recipes
 
 ### Calories (per serving)
 
-| **Calories** | 219 |
+| **Calories** | 219kcal |
 | ----------- | ----------- |
 | *Carbs* | 25g |
 | *Fat* | 14g |

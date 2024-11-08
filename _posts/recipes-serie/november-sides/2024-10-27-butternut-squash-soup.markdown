@@ -28,7 +28,7 @@ Eating butternut squash soup in November is perfect for the season. The squash i
 
 ### Calories (per serving):
 
-| **Calories** | 101 |
+| **Calories** | 101kcal |
 | ----------- | ----------- |
 | *Carbs* | 16g |
 | *Fat* | 4g |

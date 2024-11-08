@@ -24,7 +24,7 @@ Eating turnip purée in November is perfect because turnips are in peak season, 
 
 ### Calories (per serving):
 
-| **Calories** | 248 |
+| **Calories** | 248kcal |
 | ----------- | ----------- |
 | *Carbs* | 12.3g |
 | *Fat* | 19.5g |

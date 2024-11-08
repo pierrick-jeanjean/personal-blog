@@ -26,7 +26,7 @@ Brussel sprouts and chestnuts is perfect for October in France because it uses f
 
 ### Calories (per serving):
 
-| **Calories** | 226 |
+| **Calories** | 226kcal |
 | ----------- | ----------- |
 | *Carbs* | 24g |
 | *Fat* | 12g |

@@ -29,7 +29,7 @@ Piperade is a vibrant Basque dish that combines bell peppers, onions, garlic, an
 
 ### Calories (per serving):
 
-| **Calories** | 167 |
+| **Calories** | 167kcal |
 | ----------- | ----------- |
 | *Carbs* | 19g |
 | *Fat* | 10g |

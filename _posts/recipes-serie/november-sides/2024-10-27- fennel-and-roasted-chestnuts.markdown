@@ -26,7 +26,7 @@ Eating fennel and roasted chestnuts in November is perfect for the season. Fenne
 
 ### Calories (per serving):
 
-| **Calories** | 355 |
+| **Calories** | 355kcal |
 | ----------- | ----------- |
 | *Carbs* | 56.5g |
 | *Fat* | 12.3g |

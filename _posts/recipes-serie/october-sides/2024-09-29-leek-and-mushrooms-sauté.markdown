@@ -27,7 +27,7 @@ Leek and mushroom sauté is perfect for October in France because it highlights 
 
 ### Calories (per serving):
 
-| **Calories** | 84 |
+| **Calories** | 84kcal |
 | ----------- | ----------- |
 | *Carbs* | 6.5g |
 | *Fat* | 5.8g |
