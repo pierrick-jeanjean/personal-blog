@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 👨‍🍳 Celeriac puree
-date: 2024-10-27 09:00:00 +0100
+date: 2024-11-24 09:00:00 +0100
 categories: recipes
 ---
 
