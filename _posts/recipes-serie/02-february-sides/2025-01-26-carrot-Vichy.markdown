@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Carrot Vichy
-date: 2025-01-26 09:00:00 +0100
+date: 2025-02-01 09:00:00 +0100
 categories: recipes
+tags: [side, february, carrot]
 ---
 
 Eating carrot Vichy in February in France is a delightful way to enjoy seasonal produce while benefiting from its nutritional value. Carrots are typically harvested in the cooler months, making them fresh and abundant during winter. This dish, with its sweet and buttery glaze, provides a comforting and warming side that pairs well with many winter meals. Additionally, carrots are rich in vitamins A and C, which can help boost your immune system during the colder months. The simplicity and elegance of Carrot Vichy make it a perfect choice for a nutritious and delicious winter side dish.

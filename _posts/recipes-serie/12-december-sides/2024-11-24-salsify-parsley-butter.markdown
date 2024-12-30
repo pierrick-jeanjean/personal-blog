@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Salsify parsley butter
-date: 2024-11-24 09:00:00 +0100
+date: 2024-12-01 09:00:00 +0100
 categories: recipes
+tags: [side, december, salsify]
 ---
 
 Eating salsify with butter and parsley in December is ideal because salsify is in season, making it fresh and nutritious. This warm, comforting dish is rich in fiber, vitamins, and minerals, perfect for the colder months. Its unique flavor adds a festive touch to winter meals, making it both healthy and delicious.

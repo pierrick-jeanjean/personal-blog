@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Creamed spinach
-date: 2024-12-29 09:00:00 +0100
+date: 2025-01-01 09:00:00 +0100
 categories: recipes
+tags: [side, january, spinach]
 ---
 
 Creamed spinach is perfect for January in France because spinach is in season, making it fresh and nutritious. It's packed with vitamins and minerals, boosting your health during winter. 

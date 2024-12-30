@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Fennel and roasted chestnuts
-date: 2024-10-27 09:00:00 +0100
+date: 2024-11-01 09:00:00 +0100
 categories: recipes
+tags: [side, november, fennel]
 ---
 
 Eating fennel and roasted chestnuts in November is perfect for the season. Fennel and chestnuts are at their best in autumn, offering a comforting and nutritious dish. Fennel provides fiber and antioxidants, while chestnuts add complex carbs and minerals, making this a wholesome and warming side for cooler days.

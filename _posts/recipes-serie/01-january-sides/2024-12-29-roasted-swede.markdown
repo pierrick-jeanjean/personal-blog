@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Roasted swede
-date: 2024-12-29 09:00:00 +0100
+date: 2025-01-01 09:00:00 +0100
 categories: recipes
+tags: [side, january, swede]
 ---
 
 Roasted swede is a perfect winter side dish in France. It's seasonal, fresh, and packed with nutrients like vitamin C and fiber. Roasting enhances its natural sweetness, making it a delicious and comforting addition to any meal. Enjoying roasted swede in January supports local produce and keeps you nourished during the colder months.

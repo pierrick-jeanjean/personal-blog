@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Garlic mashed cauliflower
-date: 2024-08-25 09:00:00 +0100
+date: 2024-09-01 09:00:00 +0100
 categories: recipes
+tags: [side, september, cauliflower]
 ---
 
 Garlic mashed cauliflower is a delicious, low-carb alternative to mashed potatoes that’s easy to make, nutrient-rich, and versatile. It’s packed with vitamins, has a creamy texture, and pairs well with various main dishes, making it a great choice for a healthy and flavorful side dish. Plus, cauliflower is in peak season in September, ensuring the freshest and most flavorful produce for your dish.

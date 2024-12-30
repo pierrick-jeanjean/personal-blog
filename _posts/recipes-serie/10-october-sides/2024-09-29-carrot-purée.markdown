@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Carrot purée
-date: 2024-09-29 09:00:00 +0100
+date: 2024-10-01 09:00:00 +0100
 categories: recipes
+tags: [side, october, carrot]
 ---
 
 Eating carrot purée in October is a great way to enjoy the season’s fresh produce. Carrots are at their sweetest, and this creamy dish provides warmth and comfort as the weather cools. Plus, its vibrant color adds a festive touch to your autumn meals. 🥕

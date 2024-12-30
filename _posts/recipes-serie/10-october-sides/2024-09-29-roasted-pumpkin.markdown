@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Roasted pumpkin
-date: 2024-09-29 09:00:00 +0100
+date: 2024-10-01 09:00:00 +0100
 categories: recipes
+tags: [side, october, pumpkin]
 ---
 
 Roasted pumpkin is ideal for October in France because it’s peak season, offering fresh and flavorful produce. The warm dish suits the cooler weather and provides essential nutrients. Its versatility with herbs and spices makes it a delicious and nutritious addition to any meal. 🍂🎃

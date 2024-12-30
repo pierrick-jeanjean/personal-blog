@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  👨‍🍳 Green beans with shallots
-date:   2024-07-28 09:00:00 +0100
+date: 2024-08-01 09:00:00 +0100
 categories: recipes
+tags: [side, august, green-bean]
 ---
 
 Green beans with shallots is an ideal summer side dish because it highlights the fresh, vibrant flavors of the season. During summer, green beans are at their peak, offering a crisp texture and sweet taste that pairs perfectly with the delicate, caramelized shallots. This dish is light, refreshing, and easy to prepare, making it a great complement to summer meals, whether you’re grilling outdoors or enjoying a light dinner. Plus, its simplicity allows the natural flavors of the fresh produce to shine, embodying the essence of summer cuisine. 🌞

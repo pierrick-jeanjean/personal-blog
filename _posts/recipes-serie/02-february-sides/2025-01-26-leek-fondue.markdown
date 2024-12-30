@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Leek fondue
-date: 2025-01-26 09:00:00 +0100
+date: 2025-02-01 09:00:00 +0100
 categories: recipes
+tags: [side, february, leek]
 ---
 
 Eating leek fondue in February in France is ideal because leeks are in peak season, making them fresh and flavorful. This warm, creamy dish is perfect for the cold weather, providing comfort and satisfaction. Leeks are also nutritious, rich in fiber, vitamins, and antioxidants, which help boost the immune system and aid digestion. Additionally, leek fondue pairs well with various main dishes, making it a versatile and healthy choice for winter meals.

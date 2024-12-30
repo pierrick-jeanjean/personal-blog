@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Celeriac puree
-date: 2024-11-24 09:00:00 +0100
+date: 2024-12-01 09:00:00 +0100
 categories: recipes
+tags: [side, december, celeriac]
 ---
 
 Eating celeriac purée in December is great because celeriac is in season, making it fresh and flavorful. It’s nutritious, with vitamins K and C, and low in calories. Plus, using seasonal produce supports local farmers and is environmentally friendly.

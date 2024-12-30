@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Courgette noodles
-date: 2024-08-25 09:00:00 +0100
+date: 2024-09-01 09:00:00 +0100
 categories: recipes
+tags: [side, september, courgette]
 ---
 
 Courgette noodles are a healthy, low-carb alternative to pasta, and September is the best time to enjoy them. With courgettes in peak season, they're fresher, mmore flavorful, and packed with nutrients.

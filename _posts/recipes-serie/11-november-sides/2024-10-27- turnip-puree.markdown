@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Turnip purée
-date: 2024-10-27 09:00:00 +0100
+date: 2024-11-01 09:00:00 +0100
 categories: recipes
+tags: [side, november turnip]
 ---
 
 Eating turnip purée in November is perfect because turnips are in peak season, making them fresh and flavorful. This dish is nutritious, rich in vitamins, and provides a cozy, comforting side for autumn meals. 🍂

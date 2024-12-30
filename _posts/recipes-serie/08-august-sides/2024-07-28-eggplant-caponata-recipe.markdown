@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  👨‍🍳 Eggplant caponata
-date:   2024-07-28 09:00:00 +0100
+title: 👨‍🍳 Eggplant caponata
+date: 2024-08-01 09:00:00 +0100
 categories: recipes
+tags: [side, august, eggplant]
 ---
 
 ### Ingredients (for 3 persons):

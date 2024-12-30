@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Butternut squash soup
-date: 2024-10-27 09:00:00 +0100
+date: 2024-11-01 09:00:00 +0100
 categories: recipes
+tags: [side, november, butternut]
 ---
 
 Eating butternut squash soup in November is perfect for the season. The squash is at its freshest, providing rich flavor and nutrients like vitamin A and fiber. This warm, comforting soup is ideal for chilly autumn days, supporting your immune system and bringing cozy vibes to your meals. 🍂

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Brussel sprouts and chestnuts
-date: 2024-09-29 09:00:00 +0100
+date: 2024-10-01 09:00:00 +0100
 categories: recipes
+tags: [side, october, brussel-sprout]
 ---
 
 Brussel sprouts and chestnuts is perfect for October in France because it uses fresh, seasonal Brussels sprouts and chestnuts. This hearty dish combines earthy, sweet, and savory flavors, making it a comforting choice as the weather cools. It’s a delicious way to celebrate autumn’s bounty. 🍂

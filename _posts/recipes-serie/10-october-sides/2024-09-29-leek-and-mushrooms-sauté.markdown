@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Leek and mushrooms sauté
-date: 2024-09-29 09:00:00 +0100
+date: 2024-10-01 09:00:00 +0100
 categories: recipes
+tags: [side, october, leek]
 ---
 
 Leek and mushroom sauté is perfect for October in France because it highlights the fresh, seasonal flavors of leeks and mushrooms. As the weather cools, this warm, earthy dish provides comfort and pairs well with hearty autumn meals. 🍂🍄

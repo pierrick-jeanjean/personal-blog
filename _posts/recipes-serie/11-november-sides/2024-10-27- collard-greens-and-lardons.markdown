@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Collard greens and lardons
-date: 2024-10-27 09:00:00 +0100
+date: 2024-11-01 09:00:00 +0100
 categories: recipes
+tags: [side, november, collard-green]
 ---
 
 Eating collard greens with lardons in November is a wonderful way to embrace the season’s bounty and warmth. As the weather cools, this hearty dish provides comfort and nourishment, thanks to the rich flavors of the lardons and the nutritious collard greens. Collard greens are in peak season during the fall, making them fresher and more flavorful. Additionally, the dish’s warm, savory profile is perfect for cozying up on chilly November evenings, offering a delicious way to enjoy seasonal produce while staying warm and satisfied. 🍂🥘

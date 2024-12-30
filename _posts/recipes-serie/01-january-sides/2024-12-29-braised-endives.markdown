@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 👨‍🍳 Braised endives
-date: 2024-12-29 09:00:00 +0100
+date: 2025-01-01 09:00:00 +0100
 categories: recipes
+tags: [side, january, endive]
 ---
 
 Eating braised endives in France during January is a wonderful way to enjoy seasonal produce. Endives are at their best in winter, and braising them brings out a rich, caramelized flavor that pairs perfectly with hearty winter meals. This dish not only warms you up but also showcases the French tradition of using fresh, local ingredients. Bon appétit! 🍽️
