@@ -2,7 +2,7 @@
 layout: post
 title:  🌍 Edinburgh, Scotland
 date:   2024-08-11 09:00:00 +0100
-categories: travel edinburgh
+categories: travels
 ---
 
 One of my personal goals is to visit as many countries as possible. This summer, I decided to spend part of my vacation exploring Scotland, with a special focus on Edinburgh
