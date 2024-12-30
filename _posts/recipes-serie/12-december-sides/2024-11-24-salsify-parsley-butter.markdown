@@ -24,3 +24,9 @@ Eating salsify with butter and parsley in December is ideal because salsify is i
 4. **Finish and serve**: Season with salt and pepper to taste. Sprinkle with chopped parsley and toss to combine.Serve warm as a side dish.
 
 ### Calories (per serving):
+
+| **Calories** | 349kcal |
+| ----------- | ----------- |
+| *Carbs* | 46.2g |
+| *Fat* | 20.7g |
+| *Protein* | 7g |
