@@ -5,6 +5,7 @@ baseurl: ""
 url: ""
 twitter_username: 
 github_username:
+permalink: /:categories/:title/
 
 # Build settings
 theme: minima
