@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  👨‍🍳 Piperade
-date: 2024-08-01 09:00:00 +0100
 categories: recipes
 tags: [side, august, bell-pepper]
 ---

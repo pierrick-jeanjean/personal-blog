@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 👨‍🍳 Cabbage soup
-date: 2024-12-01 09:00:00 +0100
 categories: recipes
 tags: [side, december, cabbage]
 ---

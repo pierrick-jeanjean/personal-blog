@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 👨‍🍳 Butternut squash soup
-date: 2024-11-01 09:00:00 +0100
 categories: recipes
 tags: [side, november, butternut]
 ---

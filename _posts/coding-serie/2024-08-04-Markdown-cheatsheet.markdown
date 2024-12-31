@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  👨‍💻 Markdown cheatsheet
-date:   2024-08-04 09:00:00 +0100
 categories: coding
 ---
 

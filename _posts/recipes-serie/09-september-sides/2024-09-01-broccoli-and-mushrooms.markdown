@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 👨‍🍳 Broccoli and mushrooms
-date: 2024-09-01 09:00:00 +0100
 categories: recipes
 tags: [side, september, broccoli]
 ---

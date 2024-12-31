@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 👨‍🍳 Leek fondue
-date: 2025-02-01 09:00:00 +0100
 categories: recipes
 tags: [side, february, leek]
 ---

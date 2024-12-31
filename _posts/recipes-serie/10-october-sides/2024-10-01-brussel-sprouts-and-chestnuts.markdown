@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 👨‍🍳 Brussel sprouts and chestnuts
-date: 2024-10-01 09:00:00 +0100
 categories: recipes
 tags: [side, october, brussel-sprout]
 ---

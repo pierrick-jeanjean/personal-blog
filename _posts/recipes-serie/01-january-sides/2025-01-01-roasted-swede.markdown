@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 👨‍🍳 Roasted swede
-date: 2025-01-01 09:00:00 +0100
 categories: recipes
 tags: [side, january, swede]
 ---
