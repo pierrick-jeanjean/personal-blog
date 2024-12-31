@@ -7,6 +7,12 @@ twitter_username:
 github_username:
 permalink: /:categories/:title/
 
+collections:
+  categories:
+    output: true
+  tags:
+    output: true
+
 # Build settings
 theme: minima
 plugins:
