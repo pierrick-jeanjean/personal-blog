@@ -1,19 +1,20 @@
 title: Pierrick Jeanjean
-email: pierrick.jeanjean@gmail.com
-description: Daily use blog for writing down what I learned (coding, recipes, travels, ...) and more to come! 
+
 baseurl: ""
 url: ""
-twitter_username: 
-github_username:
+
+author: 
+  name: Pierrick Jeanjean
+  email: pierrick.jeanjean@gmail.com
+
 permalink: /:categories/:title/
-
-show_excerpts: true
-
 collections:
   categories:
     output: true
   tags:
     output: true
+
+show_excerpts: true
 
 # Build settings
 theme: minima
