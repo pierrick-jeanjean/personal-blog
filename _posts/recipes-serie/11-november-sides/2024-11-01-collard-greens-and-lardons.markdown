@@ -8,12 +8,12 @@ tags: [side, november, collard-green]
 Eating collard greens with lardons in November is a wonderful way to embrace the season’s bounty and warmth. As the weather cools, this hearty dish provides comfort and nourishment, thanks to the rich flavors of the lardons and the nutritious collard greens. Collard greens are in peak season during the fall, making them fresher and more flavorful. Additionally, the dish’s warm, savory profile is perfect for cozying up on chilly November evenings, offering a delicious way to enjoy seasonal produce while staying warm and satisfied. 🍂🥘
 
 ### Ingredients (for 3 persons):
-- 0.75 lb collard greens, washed and chopped
-- 3 oz lardons (or diced bacon)
+- 350g collard greens, washed and chopped
+- 80g lardons (or diced bacon)
 - 1 small onion, finely chopped
 - 1.5 cloves garlic, minced
-- 3 cups chicken broth
-- 0.75 tbsp apple cider vinegar
+- 710ml of chicken broth
+- 10ml apple cider vinegar
 - Salt and pepper to taste
 
 ### Instructions:

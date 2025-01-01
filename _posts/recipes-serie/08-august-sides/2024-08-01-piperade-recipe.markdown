@@ -11,11 +11,11 @@ Piperade is a vibrant Basque dish that combines bell peppers, onions, garlic, an
 - 2 large bell peppers (red, yellow, or green), sliced thickly
 - 1 large sweet onion, sliced thickly
 - 3 cloves garlic, mashed
-- 2 tablespoons olive oil
-- 1 teaspoon herbes de Provence
-- 1 teaspoon paprika
+- 30ml of olive oil
+- herbes de Provence
+- paprika
 - Salt, to taste
-- 1 cup pureed San Marzano tomatoes
+- 250g of pureed San Marzano tomatoes
 
 ### Instructions:
 

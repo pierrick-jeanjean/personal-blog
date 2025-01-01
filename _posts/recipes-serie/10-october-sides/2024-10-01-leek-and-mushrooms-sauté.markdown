@@ -11,8 +11,8 @@ Leek and mushroom sauté is perfect for October in France because it highlights 
 - 1 large leek, cleaned and sliced into thin rounds
 - 150 grams of mushrooms, sliced
 - 1 clove of garlic, minced
-- 1 tablespoon of olive oil
-- 1/4 teaspoon of dried thyme
+- 15ml of olive oil
+- Dried thyme to taste
 - Salt and pepper to taste
 - a splash of white wine
 

@@ -8,12 +8,11 @@ tags: [side, august, green-bean]
 Green beans with shallots is an ideal summer side dish because it highlights the fresh, vibrant flavors of the season. During summer, green beans are at their peak, offering a crisp texture and sweet taste that pairs perfectly with the delicate, caramelized shallots. This dish is light, refreshing, and easy to prepare, making it a great complement to summer meals, whether you’re grilling outdoors or enjoying a light dinner. Plus, its simplicity allows the natural flavors of the fresh produce to shine, embodying the essence of summer cuisine. 🌞
 
 ### Ingredients:
-- 3 tablespoons extra virgin olive oil or unsalted butter
+- 45ml of extra virgin olive oil or unsalted butter
 - 3 large shallots, thinly sliced
-- ¾ cup water
-- 1 pound (16 ounces) French green beans (haricots verts), trimmed
-- ¾ teaspoon salt
-- ½ teaspoon freshly ground black pepper
+- 180ml of water
+- 450g French green beans, trimmed
+- Salt and pepper to taste
 
 ### Instructions:
 1. **Heat the oil**: In a large skillet over medium-low heat, add the olive oil or butter.

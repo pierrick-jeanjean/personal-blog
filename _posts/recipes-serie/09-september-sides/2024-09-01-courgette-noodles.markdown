@@ -9,9 +9,9 @@ Courgette noodles are a healthy, low-carb alternative to pasta, and September is
 
 ### Ingredients (for 3 persons):
 - 3 medium-sized courgettes
-- 3 tablespoons olive oil
+- 45ml of olive oil
 - 3 cloves of minced garlic
-- 1 tablespoon of lemon juice
+- 15ml of lemon juice
 
 ### Instructions:
 

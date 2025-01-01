@@ -9,9 +9,9 @@ Eating leek fondue in February in France is ideal because leeks are in peak seas
 
 ### Ingredients (for 3 persons):
 - 3 large leeks
-- 1.5 tablespoons butter
-- 1/3 cup dry white wine
-- 1/3 cup heavy cream
+- 20g butter
+- 80ml dry white wine
+- 80ml heavy cream
 - Salt and pepper to taste
 - Optional: a pinch of nutmeg
 

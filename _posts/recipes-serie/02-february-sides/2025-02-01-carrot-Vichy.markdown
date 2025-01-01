@@ -8,12 +8,12 @@ tags: [side, february, carrot]
 Eating carrot Vichy in February in France is a delightful way to enjoy seasonal produce while benefiting from its nutritional value. Carrots are typically harvested in the cooler months, making them fresh and abundant during winter. This dish, with its sweet and buttery glaze, provides a comforting and warming side that pairs well with many winter meals. Additionally, carrots are rich in vitamins A and C, which can help boost your immune system during the colder months. The simplicity and elegance of Carrot Vichy make it a perfect choice for a nutritious and delicious winter side dish.
 
 ### Ingredients (for 3 persons):
-- 300 grams of carrots (preferably Chantenay, trimmed and halved lengthways)
-- 12 grams of butter
-- 1 teaspoon of caster sugar
+- 300g of carrots (preferably Chantenay, trimmed and halved lengthways)
+- 12g of butter
+- 4g of caster sugar
 - A squeeze of lemon juice
-- 1 tablespoon of chopped parsley (or chives)
-- 2/3 cup of water (sparkling water if you want to be traditional)
+- 4g of chopped parsley (or chives)
+- 150ml of water (sparkling water if you want to be traditional)
 
 ### Instructions:
 

@@ -8,11 +8,11 @@ tags: [side, september, broccoli]
 Eating broccoli and mushrooms in September is beneficial because they are in season, ensuring peak freshness and nutritional value. Broccoli boosts immunity and supports heart and bone health, while mushrooms enhance metabolism and promote heart health. Enjoy these nutrient-dense veggies for a healthy diet! 🥦🍄
 
 ### Ingredients (for 3 persons):
-- 3 cups broccoli florets
-- 1.5 cups mushrooms, sliced
-- 3 tablespoons olive oil
+- 210g of broccoli florets
+- 180g of mushrooms, sliced
+- 45ml of olive oil
 - 3 gloves garlic
-- 3 tablespoons soy sauce
+- 45ml of soy sauce
 
 ### Instructions:
 

@@ -12,8 +12,8 @@ Brussel sprouts and chestnuts is perfect for October in France because it uses f
 - 120 grams of chestnuts (cooked and peeled)
 - 60 grams lardons
 - 1 small shallot, finely choped
-- 1 tablespoon butter
-- 2/3 cup chicken stock
+- 15g of butter
+- 150ml chicken stock
 - Salt and pepper to taste
 
 ### Instructions:

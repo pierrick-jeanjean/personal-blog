@@ -9,9 +9,9 @@ Roasted swede is a perfect winter side dish in France. It's seasonal, fresh, and
 
 ### Ingredients (for 3 persons):
 - 1 medium swede (rutabaga), peeled and cut into chunks
-- 1.5 tablespoons olive oil
-- 1.5 teaspoons honey
-- 0.5 teaspoon dried thyme (or a few fresh thyme sprigs)
+- 20ml olive oil
+- 10g honey
+- 0.5g dried thyme (or a few fresh thyme sprigs)
 - Salt and pepper to taste
 - Optional: 1 clove garlic, minced
 

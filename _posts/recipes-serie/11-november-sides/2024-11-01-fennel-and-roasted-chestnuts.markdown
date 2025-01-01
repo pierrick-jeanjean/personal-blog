@@ -9,7 +9,7 @@ Eating fennel and roasted chestnuts in November is perfect for the season. Fenne
 
 
 ### Ingredients (for 3 persons):
-- 2 tablespoons of olive oil
+- 30ml of olive oil
 - 2 fennel bulbs, cut in half
 - 1 small onion, sliced
 - 1 large carrot, sliced

@@ -8,11 +8,10 @@ tags: [side, october, pumpkin]
 Roasted pumpkin is ideal for October in France because it’s peak season, offering fresh and flavorful produce. The warm dish suits the cooler weather and provides essential nutrients. Its versatility with herbs and spices makes it a delicious and nutritious addition to any meal. 🍂🎃
 
 ### Ingredients (for 3 persons):
-- 1 small pumpkin (about 2.2 lbs)
-- 2 tablespoons of olive oil
+- 1kg of small pumpkin
+- 30ml of olive oil
 - Salt and pepper to taste
-- 2 teaspoons of thyme
-- 2 teaspoons of paprika
+- Dried thyme and paprika to taste
 
 ### Instructions:
 

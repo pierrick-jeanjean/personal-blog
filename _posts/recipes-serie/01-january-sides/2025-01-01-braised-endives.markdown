@@ -9,8 +9,8 @@ Eating braised endives in France during January is a wonderful way to enjoy seas
 
 ### Ingredients (for 3 persons):
 - 3 endives
-- 1 tablespoon butter
-- 1/2 tablespoon sugar
+- 15g butter
+- 7g sugar
 - 1/2 lemon (juice)
 - Salt and pepper to taste
 - Optional: a splash of white wine or chicken broth

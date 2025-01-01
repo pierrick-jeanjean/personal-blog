@@ -8,11 +8,11 @@ tags: [side, october, carrot]
 Eating carrot purée in October is a great way to enjoy the season’s fresh produce. Carrots are at their sweetest, and this creamy dish provides warmth and comfort as the weather cools. Plus, its vibrant color adds a festive touch to your autumn meals. 🥕
 
 ### Ingredients (for 3 persons):
-- 1.5 pounds of carrots, peeled and cut into 1/4-inch thick slices
-- 1 1/8 cups of water
-- 6 tablespoons of butter
-- 1.5 teaspoons of salt
-- 1 to 3 tablespoons of lemon juice
+- 700g of carrots, peeled and cut into thick slices
+- 260ml of water
+- 80g of butter
+- Salt to taste
+- 45ml of lemon juice
 
 ### Instructions:
 

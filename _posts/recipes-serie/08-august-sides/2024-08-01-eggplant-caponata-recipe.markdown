@@ -9,15 +9,15 @@ Eating eggplant caponata in August in France is ideal because eggplants are at t
 
 ### Ingredients (for 3 persons):
 
-- 1 large eggplant (about 1 lb / 450 g), cubed
+- 1 large eggplant (about 450 g), cubed
 - 1 medium onion, finely chopped
 - 2 cloves garlic, minced
 - 2 large tomatoes, chopped (or 1 can of diced tomatoes)
-- 1/2 cup pitted green olives, chopped
-- 2 tablespoons capers
-- 2 tablespoons red wine vinegar
-- 1 tablespoon sugar
-- 2 tablespoons olive oil
+- 90g of pitted green olives, chopped
+- 15g of capers
+- 30ml of red wine vinegar
+- 12.5g of sugar
+- 30ml of olive oil
 - Salt and pepper, to taste
 
 ### Instructions

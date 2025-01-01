@@ -9,12 +9,11 @@ Garlic mashed cauliflower is a delicious, low-carb alternative to mashed potatoe
 
 ### Ingredients (for 3 persons):
 - 1.5 heads of cauliflower, cut into florets
-- 1.5 tablespoons olive oil
+- 20ml of olive oil
 - 1.5 cloves garlic, smashed
-- 6 tablespoons grated Parmesan cheese
-- 1.5 tablespoons reduced-fat cream cheese
-- ¾ teaspoon kosher salt
-- ¼ teaspoon freshly ground black pepper
+- 30g of grated Parmesan cheese
+- 20g reduced-fat cream cheese
+- Salt and pepper to taste
 
 ### Instructions:
 

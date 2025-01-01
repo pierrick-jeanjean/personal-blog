@@ -8,12 +8,12 @@ tags: [side, december, jerusalem-artichoke]
 Eating Jerusalem artichoke soup in December is a great idea because these vegetables are in season, making them fresh and flavorful. The soup is nutritious, packed with iron, potassium, and fiber, perfect for staying healthy in winter. Its warm, comforting texture is ideal for cold days, and using seasonal produce supports local farmers and reduces environmental impact. Enjoying this soup is a delicious way to embrace the winter season in France.
 
 ### Ingredients (for 3 persons):
-- 2 tablespoons extra-virgin olive oil
+- 30ml extra-virgin olive oil
 - 1 small leek, white and pale green parts, rinsed and finely chopped
-- 1/3 cup finely chopped white onion
+- 50g of finely chopped white onion
 - 600g of Jerusalem artichokes, peeled and rinsed
-- 3 cups vegetable stock
-- 1/2 teaspoon sea salt
+- 710ml of vegetable stock
+- Sea salt, to taste
 
 ### Instructions:
 

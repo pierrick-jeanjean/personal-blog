@@ -10,7 +10,7 @@ Eating salsify with butter and parsley in December is ideal because salsify is i
 ### Ingredients (for 3 persons):
 - 750g salsify roots
 - 75g unsalted butter
-- 3 tablespoons fresh parsley, chopped
+- 10g fresh parsley, chopped
 - 1-2 garlic cloves, minced (optional)
 - Salt and pepper to taste
 - Lemon juice (optional, to prevent browning)
