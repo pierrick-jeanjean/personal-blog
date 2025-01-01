@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Salsify parsley butter
+title:  Salsify parsley butter
 categories: recipes
 tags: [side, december, salsify]
 ---

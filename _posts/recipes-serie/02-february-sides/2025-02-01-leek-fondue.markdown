@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Leek fondue
+title:  Leek fondue
 categories: recipes
 tags: [side, february, leek]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  👨‍🍳 Piperade
+title:   Piperade
 categories: recipes
 tags: [side, august, bell-pepper]
 ---

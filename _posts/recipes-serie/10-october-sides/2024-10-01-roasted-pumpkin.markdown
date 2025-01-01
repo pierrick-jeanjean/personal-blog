@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Roasted pumpkin
+title:  Roasted pumpkin
 categories: recipes
 tags: [side, october, pumpkin]
 ---

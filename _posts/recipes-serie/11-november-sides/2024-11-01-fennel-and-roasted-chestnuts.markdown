@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Fennel and roasted chestnuts
+title:  Fennel and roasted chestnuts
 categories: recipes
 tags: [side, november, fennel]
 ---

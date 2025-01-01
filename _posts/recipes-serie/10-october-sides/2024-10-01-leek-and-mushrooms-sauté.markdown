@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Leek and mushrooms sauté
+title:  Leek and mushrooms sauté
 categories: recipes
 tags: [side, october, leek]
 ---

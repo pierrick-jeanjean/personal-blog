@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Cabbage soup
+title:  Cabbage soup
 categories: recipes
 tags: [side, december, cabbage]
 ---

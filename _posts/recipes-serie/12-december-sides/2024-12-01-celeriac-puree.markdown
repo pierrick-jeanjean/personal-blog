@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Celeriac puree
+title:  Celeriac puree
 categories: recipes
 tags: [side, december, celeriac]
 ---

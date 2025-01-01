@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Roasted swede
+title: Roasted swede
 categories: recipes
 tags: [side, january, swede]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Courgette noodles
+title:  Courgette noodles
 categories: recipes
 tags: [side, september, courgette]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Carrot purée
+title:  Carrot purée
 categories: recipes
 tags: [side, october, carrot]
 ---

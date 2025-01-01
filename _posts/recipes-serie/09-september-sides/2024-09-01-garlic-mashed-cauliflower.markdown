@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Garlic mashed cauliflower
+title:  Garlic mashed cauliflower
 categories: recipes
 tags: [side, september, cauliflower]
 ---

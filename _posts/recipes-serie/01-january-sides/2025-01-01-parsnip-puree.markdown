@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Parsnip purée
+title: Parsnip purée
 categories: recipes
 tags: [side, january, parsnip]
 ---

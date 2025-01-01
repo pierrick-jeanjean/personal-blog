@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Braised endives
+title: Braised endives
 categories: recipes
 tags: [side, january, endive]
 ---

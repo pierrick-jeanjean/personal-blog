@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  👨‍💻 Markdown cheatsheet
+title: Markdown cheatsheet
 categories: coding
 ---
 

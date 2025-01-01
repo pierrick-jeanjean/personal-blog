@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Creamed spinach
+title: Creamed spinach
 categories: recipes
 tags: [side, january, spinach]
 ---

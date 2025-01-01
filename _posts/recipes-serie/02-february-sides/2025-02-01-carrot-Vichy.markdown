@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Carrot Vichy
+title: Carrot Vichy
 categories: recipes
 tags: [side, february, carrot]
 ---

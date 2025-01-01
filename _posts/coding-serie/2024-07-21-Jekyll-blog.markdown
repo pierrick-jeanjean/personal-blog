@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  👨‍💻 Jekyll blog
+title: Jekyll blog
 categories: coding
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  👨‍🍳 Green beans with shallots
+title:   Green beans with shallots
 categories: recipes
 tags: [side, august, green-bean]
 ---

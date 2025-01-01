@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Butternut squash soup
+title:  Butternut squash soup
 categories: recipes
 tags: [side, november, butternut]
 ---

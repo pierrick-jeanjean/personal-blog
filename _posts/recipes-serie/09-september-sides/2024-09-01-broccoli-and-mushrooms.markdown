@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Broccoli and mushrooms
+title:  Broccoli and mushrooms
 categories: recipes
 tags: [side, september, broccoli]
 ---

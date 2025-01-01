@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Jerusalem artichoke soup
+title:  Jerusalem artichoke soup
 categories: recipes
 tags: [side, december, jerusalem-artichoke]
 ---

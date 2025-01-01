@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Eggplant caponata
+title:  Eggplant caponata
 categories: recipes
 tags: [side, august, eggplant]
 ---

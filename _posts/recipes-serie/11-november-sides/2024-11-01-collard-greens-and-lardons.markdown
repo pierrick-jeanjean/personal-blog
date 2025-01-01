@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Collard greens and lardons
+title:  Collard greens and lardons
 categories: recipes
 tags: [side, november, collard-green]
 ---

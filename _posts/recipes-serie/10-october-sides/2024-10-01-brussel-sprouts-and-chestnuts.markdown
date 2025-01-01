@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Brussel sprouts and chestnuts
+title:  Brussel sprouts and chestnuts
 categories: recipes
 tags: [side, october, brussel-sprout]
 ---

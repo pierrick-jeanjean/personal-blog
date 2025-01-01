@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍🍳 Turnip purée
+title:  Turnip purée
 categories: recipes
 tags: [side, november, turnip]
 ---
