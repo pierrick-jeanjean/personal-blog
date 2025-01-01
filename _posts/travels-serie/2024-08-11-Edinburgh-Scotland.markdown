@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🌍 Edinburgh, Scotland
+title: Edinburgh, Scotland
 categories: travels
 ---
 
