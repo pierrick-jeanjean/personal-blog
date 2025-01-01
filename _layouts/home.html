@@ -1,68 +1,24 @@
 ---
 layout: default
 ---
-<div class="home">
-    {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%}
+<img src="/assets/about/avatar.png" alt="Description of image" style="display: block; margin: 0 auto 5% auto; width: 25%">
 
-    {{ content }}
+<h3 style="font-weight: bold; text-align: center;">👋 Hi, I'm Pierrick, nice to meet you 👋</h3>
+
+<p style="text-align: justify">
+    I'm a solution architect at Volvo Group, where I design and build IT solution based on requirements/problematics
+    gathered from the business.
+    
+    My background includes a strong experience as developer and as technical leader, helping me to encounter and resolve a
+    lot of issue during development stage.
+    
+    In my free time, you'll find me playing tennis/basket or reading a book/watching a movie. I also like to discover new
+    countries, next trip is already set to Edinburgh in Scotland
+</p>
 
 
-    {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-    {% else %}
-    {% assign posts = site.posts %}
-    {% endif %}
-
-
-    {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-    <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {%- for post in posts -%}
-        <li>
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                </a>
-            </h3>
-            {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-            {%- endif -%}
-        </li>
-        {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-    <div class="pager">
-        <ul class="pagination">
-            {%- if paginator.previous_page %}
-            <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{
-                    paginator.previous_page }}</a></li>
-            {%- else %}
-            <li>
-                <div class="pager-edge">•</div>
-            </li>
-            {%- endif %}
-            <li>
-                <div class="current-page">{{ paginator.page }}</div>
-            </li>
-            {%- if paginator.next_page %}
-            <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a>
-            </li>
-            {%- else %}
-            <li>
-                <div class="pager-edge">•</div>
-            </li>
-            {%- endif %}
-        </ul>
-    </div>
-    {%- endif %}
-
-    {%- endif -%}
-
+<div style="width: 30%; margin: 0 auto; display: flex; align-items: center; justify-content: space-around;">
+    <a style="font-size: 3rem; text-decoration: none;" href="/categories/coding">👨‍💻</a>
+    <a style="font-size: 3rem; text-decoration: none;" href="/categories/recipes">👨‍🍳</a>
+    <a style="font-size: 3rem; text-decoration: none;" href="/categories/travels">🌍</a>
 </div>
