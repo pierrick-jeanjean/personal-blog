@@ -7,6 +7,8 @@ twitter_username:
 github_username:
 permalink: /:categories/:title/
 
+show_excerpts: true
+
 collections:
   categories:
     output: true
