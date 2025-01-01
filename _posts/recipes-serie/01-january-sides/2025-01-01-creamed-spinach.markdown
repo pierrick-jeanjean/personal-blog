@@ -8,6 +8,8 @@ tags: [side, january, spinach]
 Creamed spinach is perfect for January in France because spinach is in season, making it fresh and nutritious. It's packed with vitamins and minerals, boosting your health during winter. 
 Plus, its creamy, comforting texture pairs well with hearty winter meals, adding a touch of warmth and luxury to your table.
 
+*Paired wonderfully with <a href="/recipes/roasted-potatoes">roasted potatoes</a>*
+
 ### Ingredients (for 3 persons):
 - 300g fresh spinach leaves
 - 1/2 small onion, finely chopped
