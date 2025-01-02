@@ -5,7 +5,7 @@ categories: recipes
 tags: [starchy, january, potato]
 ---
 
-*Paired wonderfully with <a href="/recipes/braised-endives">braised endives</a> and <a href="/recipes/roasted-chicken">roasted chicken</a>
+*Paired wonderfully with <a href="/recipes/braised-endives">braised endives</a> and <a href="/recipes/roasted-chicken">roasted chicken</a>*
 
 Mashed potatoes are a comforting and nutritious side dish. They provide energy through carbohydrates and are rich in vitamins and minerals like vitamin C, B6, and potassium. When made with milk and butter, they also offer calcium and healthy fats. Enjoying mashed potatoes can support your overall health while satisfying your taste buds. 🥔✨
 
