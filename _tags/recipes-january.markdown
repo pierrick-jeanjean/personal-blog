@@ -2,5 +2,5 @@
 layout: tag
 category: recipes
 tag: january
-grouping-tag-index: 0
+grouping-tags-list: [protein, side, starchy]
 ---
