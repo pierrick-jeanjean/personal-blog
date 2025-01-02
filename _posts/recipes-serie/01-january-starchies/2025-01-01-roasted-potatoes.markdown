@@ -7,11 +7,11 @@ tags: [starchy, january, potato]
 
 Eating roasted potatoes in January is great because they are hearty and comforting, perfect for cold weather. They provide essential nutrients like vitamin C and potassium, boosting your immune system. Plus, their warmth and crispiness add a cozy touch to winter meals, making them a delicious and nutritious choice. 🥔🍽️
 
-*Paired wonderfully with <a href="/recipes/creamed-spinach">creamed spinach</a>*
+*Paired wonderfully with <a href="/recipes/creamed-spinach">creamed spinach</a> and <a href="/recipes/grilled-salmon">grilled salmon</a>
 
 ### Ingredients (for 3 persons):
 - 700g of Yukon Gold potatoes
-- 20ml tablespoons of olive oil
+- 20ml of olive oil
 - Garlic powder and paprika, to taste
 - Fresh herbs (like rosemary, thyme, or parsley), chopped
 - Salt and pepper to taste
