@@ -5,9 +5,9 @@ categories: recipes
 tags: [side, january, parsnip]
 ---
 
-Eating parsnip purée in January in France is perfect for the season. Parsnips are at their best in winter, offering fresh, nutritious, and comforting flavors. This creamy dish warms you up on cold days and supports local farmers by using seasonal produce. Bon appétit! 🍽️
-
 *Paired wonderfully with <a href="/recipes/wild-rice-pilaf">wild rice pilaf</a> and <a href="/recipes/roast-duck">roast duck</a>*
+
+Eating parsnip purée in January in France is perfect for the season. Parsnips are at their best in winter, offering fresh, nutritious, and comforting flavors. This creamy dish warms you up on cold days and supports local farmers by using seasonal produce. Bon appétit! 🍽️
 
 ### Ingredients (for 3 persons):
 - 300g parsnips, peeled and chopped

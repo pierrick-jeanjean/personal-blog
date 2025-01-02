@@ -5,9 +5,9 @@ categories: recipes
 tags: [protein, january, salmon]
 ---
 
-Grilled salmon is rich in omega-3 fatty acids, which support heart health and reduce inflammation. It's also a great source of high-quality protein, vitamins, and minerals. Grilling preserves its nutrients and adds a delicious smoky flavor without extra fats, making it a nutritious and tasty meal option. 🐟
-
 *Paired wonderfully with <a href="/recipes/creamed-spinach">creamed spinach</a> and <a href="/recipes/roasted-potatoes">roasted potatoes</a>*
+
+Grilled salmon is rich in omega-3 fatty acids, which support heart health and reduce inflammation. It's also a great source of high-quality protein, vitamins, and minerals. Grilling preserves its nutrients and adds a delicious smoky flavor without extra fats, making it a nutritious and tasty meal option. 🐟
 
 ### Ingredients (for 3 persons):
 - 3 salmon fillets

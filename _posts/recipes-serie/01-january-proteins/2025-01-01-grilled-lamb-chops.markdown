@@ -5,9 +5,9 @@ categories: recipes
 tags: [protein, january, lamb]
 ---
 
-Grilled lamb chops are delicious and nutritious. They provide high-quality protein, vitamin B12, zinc, and iron, which are essential for muscle repair, immune function, and energy. The grilling process enhances the lamb's natural flavors, making it tender and juicy, while fresh herbs add a burst of flavor without heavy sauces. Enjoying grilled lamb chops is a tasty and healthy meal option.
-
 *Paired wonderfully with <a href="/recipes/roasted-swede">roasted swede</a> and <a href="/recipes/quinoa">quinoa</a>*
+
+Grilled lamb chops are delicious and nutritious. They provide high-quality protein, vitamin B12, zinc, and iron, which are essential for muscle repair, immune function, and energy. The grilling process enhances the lamb's natural flavors, making it tender and juicy, while fresh herbs add a burst of flavor without heavy sauces. Enjoying grilled lamb chops is a tasty and healthy meal option.
 
 ### Ingredients (for 3 persons):
 - 6 lamb chops
