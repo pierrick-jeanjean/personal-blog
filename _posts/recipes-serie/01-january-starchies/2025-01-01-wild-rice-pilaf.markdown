@@ -7,7 +7,7 @@ tags: [starchy, january, rice]
 
 Eating wild rice pilaf in January is great because it’s a hearty, nutritious dish that provides essential nutrients like protein and fiber. The warm, comforting flavors of the pilaf, combined with seasonal vegetables, make it perfect for cold winter days. Plus, it’s versatile and pairs well with various proteins, helping you stay energized and healthy during the winter season.
 
-*Paired wonderfully with <a href="/recipes/parsnip-puree">parsnip purée</a>*
+*Paired wonderfully with <a href="/recipes/parsnip-puree">parsnip purée</a> and <a href="/recipes/roast-duck">roast duck</a>*
 
 ### Ingredients (for 3 persons):
 - 1 cup wild rice blend
