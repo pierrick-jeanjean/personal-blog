@@ -5,6 +5,8 @@ categories: recipes
 tags: [side, february, turnip]
 ---
 
+*Paired wonderfully with <a href="/recipes/garlic-breadsticks">garlic breadsticks</a> and <a href="/recipes/grilled-sausages">grilled sausages</a>*
+
 Turnip soup is a nutritious and comforting dish, rich in vitamins C and K, fiber, and antioxidants. It’s perfect for boosting your immune system and supporting digestion during the colder months. The combination of turnips, potato, and apple creates a deliciously sweet and creamy flavor, making it an ideal seasonal meal for February. Enjoying this soup warms you up and nourishes your body.
 
 ### Ingredients (for 3 persons):
