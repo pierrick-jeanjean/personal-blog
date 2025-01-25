@@ -5,6 +5,8 @@ categories: recipes
 tags: [side, february, spinach]
 ---
 
+*Paired wonderfully with <a href="/recipes/cranberry-quinoa">cranberry quinoa</a> and <a href="/recipes/grilled-steak">grilled steak</a>*
+
 Spinach and mushroom sauté is a nutritious side dish rich in vitamins, minerals, and antioxidants. Spinach provides vitamins A, C, and K, while mushrooms offer B vitamins and minerals like selenium. This flavorful, low-calorie dish supports overall health and is quick to prepare.
 
 ### Ingredients (for 3 persons):
