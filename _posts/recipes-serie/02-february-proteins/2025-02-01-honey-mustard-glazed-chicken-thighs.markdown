@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Honey mustard chicken thighs
+title: Honey mustard glazed chicken thighs
 categories: recipes
 tags: [protein, february, chicken]
 ---
 
-*Paired wonderfully with <a href="/recipes/carrot-Vichy">carrot Vichy</a> and <a href="/recipes/honey-mustard-chicken-thighs">roasted chicken</a>*
+*Paired wonderfully with <a href="/recipes/carrot-Vichy">carrot Vichy</a> and <a href="/recipes/truffle-mashed-potatoes">truffle mashed potatoes</a>*
 
 Honey mustard chicken thighs are a delicious and nutritious meal. The sweet and tangy marinade enhances the juicy chicken, which is rich in protein and essential vitamins. This dish is flavorful, easy to prepare, and perfect for a balanced diet. 
 

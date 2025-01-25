@@ -5,7 +5,7 @@ categories: recipes
 tags: [starchy, february, potato]
 ---
 
-*Paired wonderfully with <a href="/recipes/carrot-Vichy">carrot Vichy</a> and <a href="/recipes/honey-mustard-chicken-thighs">roasted chicken</a>*
+*Paired wonderfully with <a href="/recipes/carrot-Vichy">carrot Vichy</a> and <a href="/recipes/honey-mustard-glazed-chicken-thighs">honey mustard glazed chicken thighs</a>*
 
 Mashed potatoes are a comforting and nutritious side dish. They provide energy through carbohydrates and are rich in vitamins and minerals like vitamin C, B6, and potassium. When made with milk and butter, they also offer calcium and healthy fats. Enjoying mashed potatoes can support your overall health while satisfying your taste buds and the truffle oil adds a luxurious and earthy flavor
 
