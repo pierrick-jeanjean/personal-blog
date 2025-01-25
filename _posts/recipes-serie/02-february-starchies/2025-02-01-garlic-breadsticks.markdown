@@ -5,7 +5,7 @@ categories: recipes
 tags: [starchy, february, bread]
 ---
 
-*Paired wonderfully with <a href="/recipes/turnip-soup">turnip soup</a> and <a href="/recipes/grilled-sausages">grilled-sausages</a>*
+*Paired wonderfully with <a href="/recipes/turnip-soup">turnip soup</a> and <a href="/recipes/grilled-sausages">grilled sausages</a>*
 
 Garlic breadsticks are a delicious and comforting side that pairs perfectly with soups and stews. They provide a satisfying crunch and a burst of flavor from the garlic and butter. The addition of fresh parsley and Parmesan cheese adds extra depth and richness. These breadsticks are easy to make and can elevate any meal, making them a delightful treat.
 
