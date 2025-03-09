@@ -2,7 +2,7 @@
 layout: post
 title: Creamy polenta
 categories: recipes
-tags: [starchy, february, cornmeal]
+tags: [starchy, february, corn]
 ---
 
 *Paired wonderfully with <a href="/recipes/leek-fondue">leek fondue</a> and <a href="/recipes/pan-seared-salmon">pan-seared salmon</a>*
