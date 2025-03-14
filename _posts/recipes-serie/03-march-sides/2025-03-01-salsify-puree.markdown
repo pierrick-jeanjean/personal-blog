@@ -28,8 +28,14 @@ Salsify, often referred to as the "oyster plant" due to its subtle oyster-like f
 
 ### Calories (per serving):
 
-| **Calories** | kcal |
+| **Calories** | 343 kcal |
 | ----------- | ----------- |
-| *Carbs* | g |
-| *Fat* | g |
-| *Protein* | g |
+| *Carbs* | 29 g |
+| *Fat* | 26.5 g |
+| *Protein* | 5.3 g |
+
+<div style="display: flex; align-items:center; justify-content: center">
+<figure>
+    <img src="/assets/2025-03-01-salsify-puree/salsify-puree.jpg" alt="description" style="width:30%; margin: 0 auto; border: 2px solid #4d4d4d; border-radius: 4px">
+    <figcaption style="margin-top: 10px; color:#4d4d4d; font-style: italic; text-align: center">Salsify puree</figcaption>
+</figure>
