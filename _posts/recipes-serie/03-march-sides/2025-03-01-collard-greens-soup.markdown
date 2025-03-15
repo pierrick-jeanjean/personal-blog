@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Green collards soup
+title: Collard greens soup
 categories: recipes
 tags: [side, march, collard-green]
 ---
 
 *Paired wonderfully with <a href="/recipes/cornbread">cornbread</a> and <a href="/recipes/smoked-turkey">smoked turkey</a>*
 
-Green collard soup is nutritious and delicious. It's rich in vitamins A, C, and K, which support your immune system, skin, and bones. The fiber aids digestion, and the antioxidants help reduce inflammation. Plus, it's low in calories, making it a healthy and satisfying meal. 
+Collard greens soup is nutritious and delicious. It's rich in vitamins A, C, and K, which support your immune system, skin, and bones. The fiber aids digestion, and the antioxidants help reduce inflammation. Plus, it's low in calories, making it a healthy and satisfying meal. 
 
 ### Ingredients (for 3 persons):
 - 1 bunch of collard greens, chopped (400-500g)
