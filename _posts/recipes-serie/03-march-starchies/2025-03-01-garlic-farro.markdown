@@ -25,8 +25,15 @@ Garlic farro is a nutritious and tasty alternative to traditional side dishes. F
 
 ### Calories (per serving):
 
-| **Calories** | kcal |
+| **Calories** | 262 kcal |
 | ----------- | ----------- |
-| *Carbs* | g |
-| *Fat* | g |
-| *Protein* | g |
+| *Carbs* | 43.2 g |
+| *Fat* | 10.4 g |
+| *Protein* | 7.9 g |
+
+<div style="display: flex; align-items:center; justify-content: center">
+<figure>
+    <img src="/assets/2025-03-01-garlic-farro/garlic-farro.jpg" alt="description" style="width:50%; margin: 0 auto; border-bottom: 4px solid #4d4d4d;border-top: 4px solid #4d4d4d; border-radius: 4px">
+    <figcaption style="margin-top: 10px; color:#4d4d4d; font-style: italic; text-align: center">Garlic farro</figcaption>
+</figure>
+</div>

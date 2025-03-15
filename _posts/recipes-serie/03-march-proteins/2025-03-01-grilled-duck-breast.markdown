@@ -29,8 +29,15 @@ Grilled duck breast is a delicious and nutritious choice. It’s rich in high-qu
 
 ### Calories (per serving):
 
-| **Calories** | kcal |
+| **Calories** | 288 kcal |
 | ----------- | ----------- |
-| *Carbs* | g |
-| *Fat* | g |
-| *Protein* | g |
+| *Carbs* | 9.8 g |
+| *Fat* | 20 g |
+| *Protein* | 18 g |
+
+<div style="display: flex; align-items:center; justify-content: center">
+<figure>
+    <img src="/assets/2025-03-01-grilled-duck-breast/grilled-duck-breast.jpg" alt="description" style="width:50%; margin: 0 auto; border-bottom: 4px solid #4d4d4d;border-top: 4px solid #4d4d4d; border-radius: 4px">
+    <figcaption style="margin-top: 10px; color:#4d4d4d; font-style: italic; text-align: center">Grilled duck breast</figcaption>
+</figure>
+</div>

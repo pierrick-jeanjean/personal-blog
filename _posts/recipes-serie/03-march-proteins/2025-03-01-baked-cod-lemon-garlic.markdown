@@ -30,8 +30,15 @@ Baked cod with lemon and garlic is not only delicious but also highly nutritious
 
 ### Calories (per serving):
 
-| **Calories** | kcal |
+| **Calories** | 236 kcal |
 | ----------- | ----------- |
 | *Carbs* | g |
-| *Fat* | g |
-| *Protein* | g |
+| *Fat* | 15 g |
+| *Protein* | 25.1 g |
+
+<div style="display: flex; align-items:center; justify-content: center">
+<figure>
+    <img src="/assets/2025-03-01-baked-cod-lemon-garlic/baked-cod-lemon-garlic.jpg" alt="description" style="width:50%; margin: 0 auto; border-bottom: 4px solid #4d4d4d;border-top: 4px solid #4d4d4d; border-radius: 4px">
+    <figcaption style="margin-top: 10px; color:#4d4d4d; font-style: italic; text-align: center">Baked cod lemon garlic</figcaption>
+</figure>
+</div>
