@@ -32,3 +32,10 @@ Roasted celeriac is nutritious and delicious. It’s high in fiber, aiding diges
 | *Carbs* | g |
 | *Fat* | g |
 | *Protein* | g |
+
+<div style="display: flex; align-items:center; justify-content: center">
+<figure>
+    <img src="/assets/2025-03-01-roasted-celeriac/roasted-celeriac.jpg" alt="description" style="width:50%; margin: 0 auto; border-bottom: 4px solid #4d4d4d;border-top: 4px solid #4d4d4d; border-radius: 4px">
+    <figcaption style="margin-top: 10px; color:#4d4d4d; font-style: italic; text-align: center">Roasted celeriac</figcaption>
+</figure>
+</div>
