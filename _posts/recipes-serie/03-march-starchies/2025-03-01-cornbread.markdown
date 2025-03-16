@@ -5,7 +5,7 @@ categories: recipes
 tags: [starchy, march, corn]
 ---
 
-*Paired wonderfully with <a href="/recipes/collard-greens-soup">collard greens soup</a> and <a href="/recipes/smoked-turkey">smoked-turkey</a>*
+*Paired wonderfully with <a href="/recipes/collard-greens-soup">collard greens soup</a> and <a href="/recipes/roasted-pork-loin">oasted pork loin</a>*
 
 Cornbread is a delightful and versatile dish that can be enjoyed as a side or a snack. It's rich in fiber, thanks to the cornmeal, which aids in digestion and helps maintain a healthy gut. Cornbread also provides essential nutrients like iron, magnesium, and B vitamins, which are important for energy production and overall health. Plus, it's a great comfort food that pairs well with a variety of meals, making it a staple in many households. Enjoying cornbread can bring a sense of warmth and satisfaction, making it a wonderful addition to your diet.
 
