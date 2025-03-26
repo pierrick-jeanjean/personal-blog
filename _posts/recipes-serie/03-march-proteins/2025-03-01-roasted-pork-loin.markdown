@@ -30,11 +30,11 @@ Roasted pork loin is a delicious and nutritious choice for a meal. It's a lean c
 
 ### Calories (per serving):
 
-| **Calories** |  kcal |
+| **Calories** | 292 kcal |
 | ----------- | ----------- |
-| *Carbs* |  g |
-| *Fat* |  g |
-| *Protein* |  g |
+| *Carbs* |  3.2 g |
+| *Fat* |  12.8 g |
+| *Protein* |  47.3 g |
 
 <div style="display: flex; align-items:center; justify-content: center">
 <figure>

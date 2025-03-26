@@ -32,8 +32,15 @@ Collard greens soup is nutritious and delicious. It's rich in vitamins A, C, and
 
 ### Calories (per serving):
 
-| **Calories** | kcal |
+| **Calories** | 244 kcal |
 | ----------- | ----------- |
-| *Carbs* | g |
-| *Fat* | g |
-| *Protein* | g |
+| *Carbs* | 42.8 g |
+| *Fat* | 6.1 g |
+| *Protein* | 8.5 g |
+
+<div style="display: flex; align-items:center; justify-content: center">
+<figure>
+    <img src="/assets/2025-03-01-collard-greens-soup/collard-greens-soup.jpg" alt="description" style="width:50%; margin: 0 auto; border-bottom: 4px solid #4d4d4d;border-top: 4px solid #4d4d4d; border-radius: 4px">
+    <figcaption style="margin-top: 10px; color:#4d4d4d; font-style: italic; text-align: center">Collard greens soup</figcaption>
+</figure>
+</div>
