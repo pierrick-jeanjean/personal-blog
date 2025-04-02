@@ -5,6 +5,8 @@ categories: recipes
 tags: [side, april, radish]
 ---
 
+*Paired wonderfully with <a href="/recipes/crique">crique</a> and <a href="/recipes/grilled-chicken-breast">grilled chicken breast</a>*
+
 Radish salad is great because radishes are low in calories and high in nutrients like vitamin C and fiber. They help with digestion, boost the immune system, and add a refreshing crunch to meals. Enjoying radish salad is a tasty way to stay healthy! 🌿
 
 ### Ingredients (for 3 persons):

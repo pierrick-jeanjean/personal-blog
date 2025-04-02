@@ -5,7 +5,7 @@ categories: recipes
 tags: [protein, march, chicken]
 ---
 
-*Paired wonderfully with <a href="/recipes/collard-greens-soup">collard greens soup</a> and <a href="/recipes/cornbread">cornbread</a>*
+*Paired wonderfully with <a href="/recipes/radish-salad">radish-salad</a> and <a href="/recipes/crique">crique</a>*
 
 Roasted pork loin is a delicious and nutritious choice for a meal. It's a lean cut of meat, which means it's lower in fat compared to other pork cuts, making it a healthier option. Pork loin is also rich in protein, essential for muscle growth and repair, and provides important vitamins and minerals such as B vitamins, zinc, and selenium. Additionally, roasting enhances the natural flavors of the pork, creating a tender and juicy dish that's both satisfying and versatile. Whether paired with vegetables, grains, or enjoyed on its own, roasted pork loin is a wholesome and flavorful addition to any diet
 
