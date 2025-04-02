@@ -2,7 +2,7 @@
 layout: post
 title: Grilled chicken breast
 categories: recipes
-tags: [protein, march, chicken]
+tags: [protein, april, chicken]
 ---
 
 *Paired wonderfully with <a href="/recipes/radish-salad">radish-salad</a> and <a href="/recipes/crique">crique</a>*
