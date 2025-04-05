@@ -7,7 +7,7 @@ tags: [protein, april, chicken]
 
 *Paired wonderfully with <a href="/recipes/radish-salad">radish-salad</a> and <a href="/recipes/crique">crique</a>*
 
-Roasted pork loin is a delicious and nutritious choice for a meal. It's a lean cut of meat, which means it's lower in fat compared to other pork cuts, making it a healthier option. Pork loin is also rich in protein, essential for muscle growth and repair, and provides important vitamins and minerals such as B vitamins, zinc, and selenium. Additionally, roasting enhances the natural flavors of the pork, creating a tender and juicy dish that's both satisfying and versatile. Whether paired with vegetables, grains, or enjoyed on its own, roasted pork loin is a wholesome and flavorful addition to any diet
+Grilled chicken breast is an excellent choice for a healthy and delicious meal. It's a lean source of protein, which is essential for muscle repair and growth, making it a great option for those looking to maintain or build muscle mass. Additionally, the marinade used in this recipe, which includes olive oil, lemon juice, and various herbs and spices, not only enhances the flavor but also provides beneficial nutrients. Olive oil is rich in healthy fats that support heart health, while garlic and herbs like oregano and thyme offer antioxidants and anti-inflammatory properties. Grilling the chicken helps to retain its natural juices and flavors without adding unnecessary fats, making it a lighter and more nutritious option compared to frying. Overall, this dish is not only tasty but also supports a balanced diet and a healthy lifestyle.
 
 ### Ingredients (for 3 persons):
 - 3 boneless, skinless chicken breasts
@@ -28,15 +28,9 @@ Roasted pork loin is a delicious and nutritious choice for a meal. It's a lean c
 
 ### Calories (per serving):
 
-| **Calories** | 292 kcal |
+| **Calories** | kcal |
 | ----------- | ----------- |
-| *Carbs* |  3.2 g |
-| *Fat* |  12.8 g |
-| *Protein* |  47.3 g |
+| *Carbs* |  g |
+| *Fat* |  g |
+| *Protein* |  g |
 
-<div style="display: flex; align-items:center; justify-content: center">
-<figure>
-    <img src="/assets/2025-03-01-roasted-pork-loin/roasted-pork-loin.jpg" alt="description" style="width:50%; margin: 0 auto; border-bottom: 4px solid #4d4d4d;border-top: 4px solid #4d4d4d; border-radius: 4px">
-    <figcaption style="margin-top: 10px; color:#4d4d4d; font-style: italic; text-align: center">Roasted pork loin</figcaption>
-</figure>
-</div>
