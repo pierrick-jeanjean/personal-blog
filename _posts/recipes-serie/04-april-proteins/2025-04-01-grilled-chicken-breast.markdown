@@ -5,7 +5,7 @@ categories: recipes
 tags: [protein, april, chicken]
 ---
 
-*Paired wonderfully with <a href="/recipes/radish-salad">radish-salad</a> and <a href="/recipes/crique">crique</a>*
+*Paired wonderfully with <a href="/recipes/radish-salad">radish salad</a> and <a href="/recipes/crique">crique</a>*
 
 Grilled chicken breast is an excellent choice for a healthy and delicious meal. It's a lean source of protein, which is essential for muscle repair and growth, making it a great option for those looking to maintain or build muscle mass. Additionally, the marinade used in this recipe, which includes olive oil, lemon juice, and various herbs and spices, not only enhances the flavor but also provides beneficial nutrients. Olive oil is rich in healthy fats that support heart health, while garlic and herbs like oregano and thyme offer antioxidants and anti-inflammatory properties. Grilling the chicken helps to retain its natural juices and flavors without adding unnecessary fats, making it a lighter and more nutritious option compared to frying. Overall, this dish is not only tasty but also supports a balanced diet and a healthy lifestyle.
 
