@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lemon brown rice with garlic and thyme
+title: Lemon brown rice with garlic and thyme
 categories: recipes
 tags: [starchy, april, rice]
 ---
