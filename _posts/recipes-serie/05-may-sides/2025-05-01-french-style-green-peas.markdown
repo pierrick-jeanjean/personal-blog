@@ -5,7 +5,7 @@ categories: recipes
 tags: [side, may, green-pea]
 ---
 
-*Paired wonderfully with <a href="/recipes/sour-cream-chive-mashed-potatoes"></a> and <a href="/recipes/spicy-cajun-roasted-chicken"></a>*
+*Paired wonderfully with <a href="/recipes/sour-cream-chive-mashed-potatoes">sour cream and chives mashed potatoes</a> and <a href="/recipes/spicy-cajun-roasted-chicken">spicy cajun roasted chicken</a>*
 
 French-style green peas are not only delicious but also packed with nutrients like vitamins A, C, K, and B vitamins, minerals such as iron and phosphorus, and are high in fiber and protein. They contain antioxidants and anti-inflammatory compounds that help protect against chronic diseases, support eye health, and promote weight management. Enjoying this dish is a tasty way to incorporate these health benefits into your diet! 😊
 
