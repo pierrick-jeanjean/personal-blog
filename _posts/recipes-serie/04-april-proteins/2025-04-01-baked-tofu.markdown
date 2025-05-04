@@ -5,7 +5,7 @@ categories: recipes
 tags: [protein, april, tofu]
 ---
 
-*Paired wonderfully with <a href="/recipes/"></a> and <a href="/recipes/"></a>*
+*Paired wonderfully with <a href="/recipes/spinach-and-mushrooms-sauté">spinach and mushrooms sauté</a> and <a href="/recipes/lemon-brown-rice-garlic-thyme">lemon brown rice with garlic and thyme</a>*
 
 Eating baked tofu is a great choice because it's a rich source of plant-based protein, low in calories, and packed with essential nutrients like iron and calcium. Baking tofu makes it crispy and delicious without needing much oil, keeping it healthy. Plus, it's versatile and can be seasoned to suit various tastes, making it a delightful and nutritious addition to any meal. 🌱
 
