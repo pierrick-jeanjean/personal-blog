@@ -5,7 +5,7 @@ categories: recipes
 tags: [starchy, april, rice]
 ---
 
-*Paired wonderfully with <a href="/recipes/"></a> and <a href="/recipes/"></a>*
+*Paired wonderfully with <a href="/recipes/spinach-and-mushrooms-sauté">spinach and mushrooms sauté</a> and <a href="/recipes/baked-tofu">baked tofu</a>*
 
 Eating Lemon Brown Rice with Garlic and Thyme is beneficial because it combines nutrient-rich brown rice with antioxidant-packed garlic and thyme, which support immune health. The lemon adds a refreshing flavor and a boost of vitamin C, promoting overall well-being. This dish is both delicious and nutritious, making it a great addition to your diet. 🍋🍚
 

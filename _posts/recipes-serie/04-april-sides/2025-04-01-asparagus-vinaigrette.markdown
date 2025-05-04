@@ -5,7 +5,7 @@ categories: recipes
 tags: [side, april, asparagus]
 ---
 
-*Paired wonderfully with <a href="/recipes/roasted-new-potatoes-parmesan-fresh-herbs"></a> and <a href="/recipes/poached-eggs">poached eggs</a>*
+*Paired wonderfully with <a href="/recipes/roasted-new-potatoes-parmesan-fresh-herbs">roasted new potatoes with parmesan and fresh herbs</a> and <a href="/recipes/poached-eggs">poached eggs</a>*
 
 Asparagus with vinaigrette is great because it's nutrient-rich, low in calories, and high in fiber, which helps you feel full. It contains antioxidants that protect your cells, supports digestive health, and is good for your heart due to its folate and potassium content. Additionally, asparagus acts as a natural diuretic, helping to reduce bloating.
 

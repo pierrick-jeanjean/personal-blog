@@ -5,7 +5,7 @@ categories: recipes
 tags: [protein, april, tofu]
 ---
 
-*Paired wonderfully with <a href="/recipes/"></a> and <a href="/recipes/"></a>*
+*Paired wonderfully with <a href="/recipes/endive-and-mushrooms-stir-fry">endive and mushrooms stir fry</a> and <a href="/recipes/buttered-herbed-rice">buttered herbed rice</a>*
 
 Scrambled tofu is a nutritious and versatile dish. It's high in plant-based protein, essential amino acids, and various vitamins and minerals. Tofu is low in calories and cholesterol-free, promoting heart health and weight management. Adding turmeric boosts its anti-inflammatory and antioxidant properties. Overall, it's a healthy and delicious option for any meal. 😊
 

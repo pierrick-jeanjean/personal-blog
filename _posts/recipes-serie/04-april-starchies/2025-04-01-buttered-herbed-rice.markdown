@@ -5,7 +5,7 @@ categories: recipes
 tags: [starchy, april, rice]
 ---
 
-*Paired wonderfully with <a href="/recipes/"></a> and <a href="/recipes/"></a>*
+*Paired wonderfully with <a href="/recipes/endive-and-mushrooms-stir-fry">endive and mushrooms stir fry</a> and <a href="/recipes/scrambled-tofu">scrambled tofu</a>*
 
 Buttered herbed rice is a nutritious and flavorful dish. Rice provides energy through complex carbohydrates, while herbs like thyme, parsley, and rosemary offer antioxidants and vitamins. Butter adds richness and satisfaction. Using chicken broth enhances the nutritional value with added protein and minerals. This easy-to-prepare dish is versatile and pairs well with various proteins and vegetables, making it a wholesome meal. 🍚
 

@@ -2,10 +2,10 @@
 layout: post
 title: Spinach and mushrooms sauté
 categories: recipes
-tags: [side, april, spanish]
+tags: [side, april, spinach]
 ---
 
-*Paired wonderfully with <a href="/recipes/"></a> and <a href="/recipes/"></a>*
+*Paired wonderfully with <a href="/recipes/lemon-brown-rice-garlic-thyme">lemon brown rice with garlic and thyme</a> and <a href="/recipes/baked-tofu">baked tofu</a>*
 
 Spinach and mushrooms are packed with nutrients. Spinach provides vitamins A, C, and K, along with iron and calcium, supporting immune function and bone health. Mushrooms offer B vitamins and antioxidants, aiding energy production and cell protection. Together, they create a low-calorie, fiber-rich dish that boosts digestion and keeps you full longer. This sauté is a tasty way to enhance your overall health! 🌱🍄
 

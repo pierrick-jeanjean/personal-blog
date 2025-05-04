@@ -5,7 +5,7 @@ categories: recipes
 tags: [side, april, endive]
 ---
 
-*Paired wonderfully with <a href="/recipes/"></a> and <a href="/recipes/"></a>*
+*Paired wonderfully with <a href="/recipes/buttered-herbed-rice">buttered herbed rice</a> and <a href="/recipes/scrambled-tofu">scrambled tofu</a>*
 
 Eating an endive and mushroom stir-fry is great for your health. Endives are low in calories and high in fiber, aiding digestion and weight management. They also provide vitamins A and K for eye and bone health. Mushrooms offer antioxidants and essential minerals like selenium and copper, boosting your immune system and skin health. The ginger and garlic add anti-inflammatory benefits, making this dish a nutritious and flavorful choice. 🌱🍄
 
