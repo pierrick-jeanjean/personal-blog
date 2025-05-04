@@ -5,7 +5,7 @@ categories: recipes
 tags: [protein, may, chicken]
 ---
 
-*Paired wonderfully with <a href="/recipes/"></a> and <a href="/recipes/"></a>*
+*Paired wonderfully with <a href="/recipes/french-style-green-peas"></a> and <a href="/recipes/sour-cream-chive-mashed-potatoes"></a>*
 
 Spicy Cajun Roast Chicken is a flavorful and nutritious dish. The blend of spices like paprika and cayenne pepper adds a delicious kick while offering antioxidant benefits. Chicken provides lean protein, essential for muscle growth and repair. This easy-to-prepare dish can be cooked in one pan, simplifying both cooking and cleanup. Plus, it offers a taste of Louisiana's rich culinary tradition, making your meals more exciting and enjoyable. 🍗
 

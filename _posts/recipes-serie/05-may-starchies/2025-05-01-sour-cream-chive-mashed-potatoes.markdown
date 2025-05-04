@@ -5,7 +5,10 @@ categories: recipes
 tags: [starchy, may, potato]
 ---
 
+*Paired wonderfully with <a href="/recipes/french-style-green-peas"></a> and <a href="/recipes/sour-cream-chive-mashed-potatoes"></a>*
+
 Sour cream and chive mashed potatoes are not only delicious but also offer several benefits. The creamy texture and tangy flavor of sour cream enhance the taste, making it a comforting and satisfying dish. Chives add a fresh, mild onion-like flavor and are rich in vitamins A and C, which support immune health. Potatoes themselves are a good source of potassium, which helps regulate blood pressure. This combination creates a balanced side dish that is both nutritious and enjoyable, perfect for any meal. 🥔🌿
+
 ### Ingredients (for 3 persons):
 
 - 680 grams Yukon Gold potatoes, peeled and quartered
