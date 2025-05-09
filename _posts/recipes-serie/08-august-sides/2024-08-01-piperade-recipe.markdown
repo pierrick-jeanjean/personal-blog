@@ -7,7 +7,7 @@ tags: [side, august, bell-pepper]
 
 Piperade is a vibrant Basque dish that combines bell peppers, onions, garlic, and tomatoes. Slow-cooked to perfection, it’s bursting with flavor and pairs wonderfully with crusty bread or as a side for meats and fish. 
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 2 large bell peppers (red, yellow, or green), sliced thickly
 - 1 large sweet onion, sliced thickly
 - 3 cloves garlic, mashed
@@ -17,7 +17,7 @@ Piperade is a vibrant Basque dish that combines bell peppers, onions, garlic, an
 - Salt, to taste
 - 250g of pureed San Marzano tomatoes
 
-### Instructions:
+#### Instructions
 
 1. Preheat the oven to 350°F (175°C).
 2. In a large, ovenproof Dutch oven, warm olive oil over medium-high heat.
@@ -27,7 +27,7 @@ Piperade is a vibrant Basque dish that combines bell peppers, onions, garlic, an
 6. Transfer the Dutch oven to the oven and let it cook for about 30 minutes until everything is fully cooked and soft.
 7. Serve hot as a side dish or with crusty bread.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 167kcal |
 | ----------- | ----------- |

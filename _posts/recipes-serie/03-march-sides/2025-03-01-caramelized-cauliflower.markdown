@@ -9,7 +9,7 @@ tags: [side, march, cauliflower]
 
 Caramelized cauliflower is not only delicious but also packed with health benefits. Cauliflower is rich in vitamins C and K, which support immune function and bone health. It's also high in fiber, aiding digestion and promoting a feeling of fullness, which can help with weight management. The caramelization process enhances the natural sweetness of the cauliflower, making it a tasty and nutritious addition to your diet. Plus, it's a versatile dish that can be enjoyed as a side or a main course, making it a great choice for any meal. Enjoy!
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 1 medium cauliflower (about 600 grams)
 - 30 ml olive oil
 - 15 ml honey
@@ -17,7 +17,7 @@ Caramelized cauliflower is not only delicious but also packed with health benefi
 - Salt and pepper to taste
 - Fresh parsley for garnish (optional)
 
-### Instructions:
+#### Instructions
 
 1. **Preheat your oven** to 220°C.
 2. **Wash and cut** the cauliflower into florets.
@@ -27,7 +27,7 @@ Caramelized cauliflower is not only delicious but also packed with health benefi
 6. **Roast** in the preheated oven for 25-30 minutes, turning halfway through, until the cauliflower is golden brown and caramelized.
 6. **Garnish** with fresh parsley if desired and serve warm.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

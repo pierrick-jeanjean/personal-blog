@@ -10,7 +10,7 @@ tags: [side, january, spinach]
 Creamed spinach is perfect for January in France because spinach is in season, making it fresh and nutritious. It's packed with vitamins and minerals, boosting your health during winter. 
 Plus, its creamy, comforting texture pairs well with hearty winter meals, adding a touch of warmth and luxury to your table.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 300g fresh spinach leaves
 - 1/2 small onion, finely chopped
 - 1 clove garlic, minced
@@ -19,7 +19,7 @@ Plus, its creamy, comforting texture pairs well with hearty winter meals, adding
 - A pinch of nutmeg
 - Salt and pepper to taste
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the spinach**: Wash the spinach thoroughly and remove any tough stems. Blanch the spinach in boiling water for about 1-2 minutes until wilted. Drain and immediately plunge into ice water to stop the cooking process. Squeeze out excess water and chop the spinach roughly.
 2. **Cook the aromatics**: In a large pan, melt the butter over medium heat. Add the finely chopped onion and cook until soft and translucent, about 5 minutes. Add the minced garlic and cook for another minute until fragrant.
@@ -27,7 +27,7 @@ Plus, its creamy, comforting texture pairs well with hearty winter meals, adding
 4. **Season**: Add a pinch of nutmeg, and season with salt and pepper to taste. Stir well and cook for another 2-3 minutes until the spinach is fully coated in the creamy sauce.
 5. **Serve**: Transfer the creamed spinach to a serving dish and enjoy it hot as a delicious side to your main course.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 122kcal |
 | ----------- | ----------- |

@@ -9,7 +9,7 @@ tags: [side, february, turnip]
 
 Turnip soup is a nutritious and comforting dish, rich in vitamins C and K, fiber, and antioxidants. It’s perfect for boosting your immune system and supporting digestion during the colder months. The combination of turnips, potato, and apple creates a deliciously sweet and creamy flavor, making it an ideal seasonal meal for February. Enjoying this soup warms you up and nourishes your body.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 10 ml olive oil
 - 1 small onion, diced (about 70 grams)
 - 450 grams turnips, peeled and diced
@@ -19,7 +19,7 @@ Turnip soup is a nutritious and comforting dish, rich in vitamins C and K, fiber
 - 3 grams kosher salt (or to taste)
 - 1 gram curry powder
 
-### Instructions:
+#### Instructions
 
 1. **Sauté the onion**: Heat the olive oil in a large pot over medium heat. Add the diced onion and sauté until it becomes tender and translucent.
 2. **Add the vegetables and apple**: Add the diced turnips, potato, and apple to the pot. Stir well to combine with the onions.
@@ -27,7 +27,7 @@ Turnip soup is a nutritious and comforting dish, rich in vitamins C and K, fiber
 4. **Blend the soup**: Use an immersion blender to blend the soup until smooth and creamy. If you don’t have an immersion blender, you can carefully transfer the soup to a countertop blender in batches.
 5. **Serve**: Ladle the soup into bowls and garnish with fresh herbs or croutons if desired. Enjoy your warm, creamy turnip soup!
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 155kcal |
 | ----------- | ----------- |

@@ -9,7 +9,7 @@ tags: [starchy, april, potato]
 
 Crique is a delightful way to enjoy a nutritious and satisfying meal. Made primarily from potatoes, it provides a good source of carbohydrates, which are essential for energy. The addition of eggs offers high-quality protein, while onions add a dose of vitamins and antioxidants. Cooking with olive oil not only enhances the flavor but also contributes healthy fats, which are beneficial for heart health. Plus, the crispy texture and savory taste make crique a comforting and enjoyable dish that can be easily paired with a variety of sides or enjoyed on its own. Bon appétit! 😊
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 750 g potatoes (about 3 medium-sized potatoes)
 - 2 large eggs
 - 1 small onion, finely chopped
@@ -18,14 +18,14 @@ Crique is a delightful way to enjoy a nutritious and satisfying meal. Made prima
 - 45 ml olive oil
 - Fresh herbs (like parsley or chives), chopped (optional)
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the potatoes**: Peel and grate the potatoes. Place the grated potatoes in a clean kitchen towel and squeeze out as much liquid as possible.
 2. **Mix the ingredients**: In a large bowl, combine the grated potatoes, finely chopped onion, eggs, flour, salt, and pepper. Mix well until all ingredients are evenly distributed.
 3. **Cook the crique**: Heat 1 tablespoon of olive oil in a large non-stick skillet over medium heat. Add a portion of the potato mixture to the skillet, flattening it with a spatula to form a pancake about 1 cm thick. Cook for about 5-7 minutes on each side, or until golden brown and crispy. Repeat with the remaining potato mixture, adding more oil as needed.
 4. **Serve**: Garnish with fresh herbs if desired and serve hot
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

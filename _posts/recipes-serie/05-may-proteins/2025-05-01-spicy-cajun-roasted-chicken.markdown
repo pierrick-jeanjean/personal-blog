@@ -9,7 +9,7 @@ tags: [protein, may, chicken]
 
 Spicy Cajun Roast Chicken is a flavorful and nutritious dish. The blend of spices like paprika and cayenne pepper adds a delicious kick while offering antioxidant benefits. Chicken provides lean protein, essential for muscle growth and repair. This easy-to-prepare dish can be cooked in one pan, simplifying both cooking and cleanup. Plus, it offers a taste of Louisiana's rich culinary tradition, making your meals more exciting and enjoyable. 🍗
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 6 chicken thighs or 6 chicken drumsticks (or a mix of both)
 - 30 ml olive oil
 - 15 grams tablespoon smoked paprika
@@ -25,7 +25,7 @@ Spicy Cajun Roast Chicken is a flavorful and nutritious dish. The blend of spice
 - 1 onion, sliced
 - Fresh parsley for garnish (optional)
 
-### Instructions:
+#### Instructions
 
 1. **Preheat the oven**: Preheat your oven to 400°F (200°C).
 2. **Prepare the spice mix**: In a small bowl, combine the smoked paprika, garlic powder, onion powder, thyme, oregano, cayenne pepper, black pepper, and salt. Mix well.
@@ -35,7 +35,7 @@ Spicy Cajun Roast Chicken is a flavorful and nutritious dish. The blend of spice
 6. **Roast the chicken**: Roast in the preheated oven for about 35-40 minutes, or until the internal temperature reaches 165°F (74°C) and the skin is crispy.
 7. **Rest the chicken**: Once cooked, remove the chicken from the oven and let it rest for a few minutes before serving.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

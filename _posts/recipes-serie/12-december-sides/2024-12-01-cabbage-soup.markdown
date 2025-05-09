@@ -8,7 +8,7 @@ tags: [side, december, cabbage]
 Cabbage soup is perfect for December in France because cabbage is in season, making it fresh and flavorful. It’s a warm, comforting dish ideal for cold weather, and it’s packed with vitamins and nutrients to boost your immune system during flu season. Plus, it’s economical and nutritious, perfect for sharing with family and friends.
 
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 15ml olive oil
 - 1/2 large onion, chopped
 - 1-2 carrots, peeled and sliced
@@ -21,7 +21,7 @@ Cabbage soup is perfect for December in France because cabbage is in season, mak
 - Dried thyme and dried parsley, to taste
 - Salt and pepper, to taste
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the vegetables**: Chop the cabbage, onion, carrots, celery, and potatoes into bite-sized pieces. Mince the garlic.
 2. **Sauté the onion and garlic**: In a large soup pot or Dutch oven, heat 15ml of olive oil over medium heat. Add the onion and sauté for about 3-4 minutes, until softened. Then add the garlic and cook for another 30 seconds until fragrant.
@@ -31,7 +31,7 @@ Cabbage soup is perfect for December in France because cabbage is in season, mak
 6. **Taste and adjust**: Taste the soup and adjust the seasoning as needed. Add more salt or pepper if desired.
 7. **Serve**: Ladle the soup into bowls and serve hot. You can garnish with fresh parsley or a drizzle of olive oil if desired.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 164kcal |
 | ----------- | ----------- |

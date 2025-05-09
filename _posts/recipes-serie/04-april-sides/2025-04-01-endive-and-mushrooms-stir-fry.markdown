@@ -9,7 +9,7 @@ tags: [side, april, endive]
 
 Eating an endive and mushroom stir-fry is great for your health. Endives are low in calories and high in fiber, aiding digestion and weight management. They also provide vitamins A and K for eye and bone health. Mushrooms offer antioxidants and essential minerals like selenium and copper, boosting your immune system and skin health. The ginger and garlic add anti-inflammatory benefits, making this dish a nutritious and flavorful choice. 🌱🍄
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 10 mL canola oil
 - 8 g  minced fresh ginger
 - 3 cloves garlic, minced
@@ -19,7 +19,7 @@ Eating an endive and mushroom stir-fry is great for your health. Endives are low
 - 25 mL soy sauce
 - 5 mL chili-garlic sauce
 
-### Instructions:
+#### Instructions
 
 1. **Heat the oil**: In a large nonstick skillet over medium-high heat, heat the canola oil.
 2. **Cook the aromatics**: Add the minced ginger and cook, stirring, for 1 minute. Then add the minced garlic and cook for an additional 30 seconds.
@@ -28,7 +28,7 @@ Eating an endive and mushroom stir-fry is great for your health. Endives are low
 5. **Season**: Stir in the soy sauce and chili-garlic sauce. Mix well to combine.
 6. **Serve**: Serve hot as a side dish or with rice or noodles for a complete meal.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

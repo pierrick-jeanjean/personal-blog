@@ -9,7 +9,7 @@ tags: [starchy, february, bread]
 
 Garlic breadsticks are a delicious and comforting side that pairs perfectly with soups and stews. They provide a satisfying crunch and a burst of flavor from the garlic and butter. The addition of fresh parsley and Parmesan cheese adds extra depth and richness. These breadsticks are easy to make and can elevate any meal, making them a delightful treat.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 150 g all-purpose flour
 -1 tsp instant yeast
 - 1/2 tsp salt
@@ -21,7 +21,7 @@ Garlic breadsticks are a delicious and comforting side that pairs perfectly with
 - 1 tbsp fresh parsley, chopped (optional)
 - Grated Parmesan cheese (optional)
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the dough**: In a large bowl, combine the flour, yeast, salt, and sugar. Add the warm water and olive oil, and mix until a dough forms.
 2. **Knead the dough**: Turn the dough out onto a floured surface and knead for about 5-7 minutes, until smooth and elastic.
@@ -32,7 +32,7 @@ Garlic breadsticks are a delicious and comforting side that pairs perfectly with
 7. **Brush with garlic butter**: As soon as the breadsticks come out of the oven, brush them with the garlic butter. Sprinkle with fresh parsley and grated Parmesan cheese if desired.
 8. **Serve warm**: Enjoy the breadsticks warm, perfect for dipping into turnip soup.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

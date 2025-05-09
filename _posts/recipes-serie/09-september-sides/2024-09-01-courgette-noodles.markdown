@@ -7,19 +7,19 @@ tags: [side, september, courgette]
 
 Courgette noodles are a healthy, low-carb alternative to pasta, and September is the best time to enjoy them. With courgettes in peak season, they're fresher, mmore flavorful, and packed with nutrients.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 3 medium-sized courgettes
 - 45ml of olive oil
 - 3 cloves of minced garlic
 - 15ml of lemon juice
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the courgette noodles**: Use a spiralizer or a peeler to create long, thin noodles from the courgettes
 2. **Sauté the noodles**: Heat the olive oil in a large skillet over medium heat, add garlic and sauté until fragrant, then add the courgette noodles for 3 to 4 minutes until slightly softened
 3. **Drizzle with lemon juice**: Add lemon juice and serve it
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 165kcal |
 | ----------- | ----------- |

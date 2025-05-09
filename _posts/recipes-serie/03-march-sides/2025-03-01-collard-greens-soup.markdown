@@ -9,7 +9,7 @@ tags: [side, march, collard-green]
 
 Collard greens soup is nutritious and delicious. It's rich in vitamins A, C, and K, which support your immune system, skin, and bones. The fiber aids digestion, and the antioxidants help reduce inflammation. Plus, it's low in calories, making it a healthy and satisfying meal. 
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 1 bunch of collard greens, chopped (400-500g)
 - 1 medium onion, diced
 - 2 cloves garlic, minced
@@ -20,7 +20,7 @@ Collard greens soup is nutritious and delicious. It's rich in vitamins A, C, and
 - Salt and pepper to taste
 - Optional: 5 grams smoked paprika for extra flavor
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the vegetables**: Wash and chop the collard greens, dice the onion, mince the garlic, peel and dice the potatoes, and slice the carrot.
 2. **Sauté the onion and garlic**: In a large pot, heat the olive oil over medium heat. Add the diced onion and minced garlic, and sauté until the onion is translucent.
@@ -30,7 +30,7 @@ Collard greens soup is nutritious and delicious. It's rich in vitamins A, C, and
 6. **Blend**: For a smoother texture, use an immersion blender to blend the soup until it reaches your desired consistency.
 7. **Serve**: Ladle the soup into bowls and enjoy!
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 244 kcal |
 | ----------- | ----------- |

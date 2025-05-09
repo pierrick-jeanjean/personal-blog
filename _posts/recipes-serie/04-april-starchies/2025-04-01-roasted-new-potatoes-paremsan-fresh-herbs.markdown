@@ -9,7 +9,7 @@ tags: [starchy, april, potato]
 
 Roasted new potatoes with Parmesan and fresh herbs are nutritious and delicious. They are rich in vitamins, minerals, and antioxidants, which support overall health. The fiber in potatoes aids digestion and helps you feel full longer. Fresh herbs and Parmesan add extra nutrients and flavor, making this dish both tasty and beneficial.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 450 grams new potatoes, washed, dried, and cut in half
 - 30 ml olive oil
 - 1 small clove garlic, minced
@@ -18,7 +18,7 @@ Roasted new potatoes with Parmesan and fresh herbs are nutritious and delicious.
 - 15 g freshly minced herbs (such as parsley and thyme)
 - 15 g tablespoon finely grated fresh Parmesan cheese
 
-### Instructions:
+#### Instructions
 
 1. **Preheat the oven**: Preheat your oven to 220°C (425°F).
 2. **Prepare the potatoes**: Toss the halved new potatoes with olive oil, minced garlic, freshly ground black pepper, and salt.
@@ -26,7 +26,7 @@ Roasted new potatoes with Parmesan and fresh herbs are nutritious and delicious.
 4. **Add herbs and cheese**: Once the potatoes are done, toss them with the finely chopped herbs and grated Parmesan cheese.
 5. **Serve**: Serve immediately while hot and enjoy!
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

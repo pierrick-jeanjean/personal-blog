@@ -9,13 +9,13 @@ tags: [protein, january, duck]
 
 Roasted duck is a delicious and nutritious dish. It's rich in protein, healthy fats, and iron, which support muscle growth, heart health, and energy levels. The combination of tender meat and crispy skin makes it a delightful meal for special occasions or a hearty dinner with loved ones.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 *To be filled in later*
 
-### Instructions:
+#### Instructions
 *To be filled in later*
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 293kcal |
 | ----------- | ----------- |

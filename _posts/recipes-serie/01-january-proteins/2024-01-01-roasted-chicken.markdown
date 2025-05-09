@@ -9,13 +9,13 @@ tags: [protein, january, chicken]
 
 Roasted chicken is a nutritious choice, providing high-quality protein and essential vitamins like B vitamins and selenium. It's a healthier option compared to frying, as it uses less added fat and retains more nutrients. Plus, it's versatile and delicious, making it easy to pair with various vegetables for a balanced meal. 🍗
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 *To be filled in later*
 
-### Instructions:
+#### Instructions
 *To be filled in later*
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 223kcal |
 | ----------- | ----------- |

@@ -9,7 +9,7 @@ tags: [side, february, spinach]
 
 Spinach and mushroom sauté is a nutritious side dish rich in vitamins, minerals, and antioxidants. Spinach provides vitamins A, C, and K, while mushrooms offer B vitamins and minerals like selenium. This flavorful, low-calorie dish supports overall health and is quick to prepare.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 45ml olive oil
 - 3 cloves garlic, minced
 - 300 grams cremini mushrooms, sliced
@@ -17,7 +17,7 @@ Spinach and mushroom sauté is a nutritious side dish rich in vitamins, minerals
 - Salt and pepper to taste
 - Optional: 15 ml balsamic vinegar
 
-### Instructions:
+#### Instructions
 
 1. **Heat the oil** in a large skillet over medium-high heat.
 2. **Add the mushrooms and sauté** until they are tender and golden brown, about 5-7 minutes.
@@ -26,7 +26,7 @@ Spinach and mushroom sauté is a nutritious side dish rich in vitamins, minerals
 5. **Season** with salt and pepper to taste.
 6. **Drizzle** with balsamic vinegar before serving.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 191kcal |
 | ----------- | ----------- |

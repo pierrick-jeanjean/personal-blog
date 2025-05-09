@@ -9,7 +9,7 @@ tags: [side, march, celeriac]
 
 Roasted celeriac is nutritious and delicious. It’s high in fiber, aiding digestion, and rich in vitamins C and K, which support immune function and bone health. Low in calories, it’s a great alternative to potatoes, making it perfect for weight management.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 1 medium celeriac (about 500g)
 - 30 ml olive oil
 - 5 g salt
@@ -17,7 +17,7 @@ Roasted celeriac is nutritious and delicious. It’s high in fiber, aiding diges
 - 5 g dried thyme (optional)
 - Fresh parsley for garnish (optional)
 
-### Instructions:
+#### Instructions
 
 1. **Preheat your oven**: 220°C.
 2. **Prepare the celeriac**: Peel the celeriac and cut it into 2.5cm cubes.
@@ -25,7 +25,7 @@ Roasted celeriac is nutritious and delicious. It’s high in fiber, aiding diges
 4. **Roast**: Spread the seasoned celeriac cubes in a single layer on a baking sheet. Roast in the preheated oven for 25-30 minutes, or until the celeriac is golden brown and tender, stirring halfway through.
 5. **Serve**: Garnish with fresh parsley if desired and serve hot.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

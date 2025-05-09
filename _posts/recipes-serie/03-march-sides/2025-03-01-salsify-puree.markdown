@@ -9,7 +9,7 @@ tags: [side, march, salsify]
 
 Salsify, often referred to as the "oyster plant" due to its subtle oyster-like flavor, is a nutritious root vegetable that offers several health benefits. It is rich in dietary fiber, which aids in digestion and helps maintain a healthy gut. Salsify is also a good source of vitamins and minerals, including vitamin C, potassium, and iron, which support immune function, heart health, and red blood cell production. Additionally, salsify contains inulin, a type of prebiotic fiber that promotes the growth of beneficial gut bacteria. Incorporating salsify puree into your diet can be a delicious and nutritious way to enjoy these health benefits.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 450 g of salsify (peeled and chopped)
 - 300 ml of vegetable or chicken stock
 - 50 g of unsalted butter
@@ -17,7 +17,7 @@ Salsify, often referred to as the "oyster plant" due to its subtle oyster-like f
 - Salt and pepper to taste
 - A squeeze of lemon juice (optional)
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the salsify**: Peel and chop the salsify into small pieces.
 2. **Cook the salsify**: In a medium saucepan, add the salsify and stock. Bring to a boil, then reduce the heat and simmer for about 20 minutes, or until the salsify is tender.
@@ -26,7 +26,7 @@ Salsify, often referred to as the "oyster plant" due to its subtle oyster-like f
 5. **Season**: Season with salt, pepper, and a squeeze of lemon juice if desired.
 6. **Serve**: Serve the puree warm as a side dish.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 343 kcal |
 | ----------- | ----------- |

@@ -9,7 +9,7 @@ tags: [starchy, march, corn]
 
 Cornbread is a delightful and versatile dish that can be enjoyed as a side or a snack. It's rich in fiber, thanks to the cornmeal, which aids in digestion and helps maintain a healthy gut. Cornbread also provides essential nutrients like iron, magnesium, and B vitamins, which are important for energy production and overall health. Plus, it's a great comfort food that pairs well with a variety of meals, making it a staple in many households. Enjoying cornbread can bring a sense of warmth and satisfaction, making it a wonderful addition to your diet.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 150g cornmeal
 - 60g all-purpose flour
 - 120ml milk
@@ -19,7 +19,7 @@ Cornbread is a delightful and versatile dish that can be enjoyed as a side or a 
 - 5g baking powder
 - 2.5g salt
 
-### Instructions:
+#### Instructions
 
 1. **Preheat your oven** to 200°C.
 2. **Mix dry elements**:  In a large bowl, mix together the cornmeal, flour, sugar, baking powder, and salt.
@@ -29,7 +29,7 @@ Cornbread is a delightful and versatile dish that can be enjoyed as a side or a 
 6. **Bake** for 20-25 minutes, or until a toothpick inserted into the center comes out clean.
 Let it cool slightly before serving..
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

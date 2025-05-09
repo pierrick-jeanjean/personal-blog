@@ -7,7 +7,7 @@ tags: [side, august, eggplant]
 
 Eating eggplant caponata in August in France is ideal because eggplants are at their peak freshness. Local markets are full of seasonal produce like tomatoes and bell peppers, making the dish especially flavorful and nutritious. Bon appétit!
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 
 - 1 large eggplant (about 450 g), cubed
 - 1 medium onion, finely chopped
@@ -29,7 +29,7 @@ Eating eggplant caponata in August in France is ideal because eggplants are at t
 5. Fold in eggplant
 6. Simmer, let the caponata simmer for 10 minutes
 
-### Calories (per serving)
+#### Calories (per serving)
 
 | **Calories** | 219kcal |
 | ----------- | ----------- |

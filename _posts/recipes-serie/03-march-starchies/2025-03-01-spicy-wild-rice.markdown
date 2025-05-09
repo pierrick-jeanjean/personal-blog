@@ -9,7 +9,7 @@ tags: [starchy, march, rice]
 
 Spicy wild rice is not only delicious but also packed with nutrients. Wild rice is a whole grain that is high in protein, fiber, and essential minerals like magnesium and phosphorus. The addition of vegetables and spices enhances the dish's nutritional profile, providing vitamins, antioxidants, and anti-inflammatory benefits. The spiciness can also boost metabolism and improve digestion. Overall, this dish is a wholesome, flavorful option that supports a balanced and healthy diet.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 180 g wild rice
 - 15 ml olive oil
 - 1 small onion, finely chopped
@@ -24,7 +24,7 @@ Spicy wild rice is not only delicious but also packed with nutrients. Wild rice 
 - Salt and pepper to taste
 - Fresh cilantro, chopped (for garnish)
 
-### Instructions:
+#### Instructions
 
 1. **Rinse the wild rice** under cold water.
 2. **Heat the olive oil** in a medium saucepan over medium heat.
@@ -35,7 +35,7 @@ Spicy wild rice is not only delicious but also packed with nutrients. Wild rice 
 7. **Season** with salt and pepper to taste.
 8. **Garnish** with fresh cilantro before serving.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 308 kcal |
 | ----------- | ----------- |

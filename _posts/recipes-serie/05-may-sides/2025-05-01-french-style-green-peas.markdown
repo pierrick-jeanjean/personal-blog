@@ -9,7 +9,7 @@ tags: [side, may, green-pea]
 
 French-style green peas are not only delicious but also packed with nutrients like vitamins A, C, K, and B vitamins, minerals such as iron and phosphorus, and are high in fiber and protein. They contain antioxidants and anti-inflammatory compounds that help protect against chronic diseases, support eye health, and promote weight management. Enjoying this dish is a tasty way to incorporate these health benefits into your diet! 😊
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 
 - 40 grams butter
 - 12 small white pearl onions or 3 spring onions, chopped
@@ -28,7 +28,7 @@ French-style green peas are not only delicious but also packed with nutrients li
 5. **Add the crème fraîche** just before the end of the cooking time and gently mix. Allow to heat through for about 1-2 minutes.
 6. **Check the seasoning** once more and adjust to taste. Serve immediately with sprigs of fresh mint on top.
 
-### Calories (per serving)
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

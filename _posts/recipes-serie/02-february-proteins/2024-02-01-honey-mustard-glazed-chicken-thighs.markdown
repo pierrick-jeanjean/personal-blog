@@ -9,7 +9,7 @@ tags: [protein, february, chicken]
 
 Honey mustard chicken thighs are a delicious and nutritious meal. The sweet and tangy marinade enhances the juicy chicken, which is rich in protein and essential vitamins. This dish is flavorful, easy to prepare, and perfect for a balanced diet. 
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 6 bone-in, skin-on chicken thighs
 - 45 g Dijon mustard
 - 45 g whole grain mustard
@@ -19,7 +19,7 @@ Honey mustard chicken thighs are a delicious and nutritious meal. The sweet and 
 - 2g fresh rosemary, chopped
 Salt and pepper to taste
 
-### Instructions:
+#### Instructions
 
 1. **Preheat** your oven to 200°C (400°F).
 2. **Prepare the marinade**: In a small bowl, whisk together the Dijon mustard, whole grain mustard, honey, olive oil, minced garlic, and chopped rosemary (if using).
@@ -29,7 +29,7 @@ Salt and pepper to taste
 6. **Baste with marinade**: Halfway through roasting, baste the chicken thighs with any remaining marinade for extra flavor.
 7. **Rest and serve**: Let the chicken thighs rest for a few minutes before serving. Garnish with additional fresh rosemary if desired.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

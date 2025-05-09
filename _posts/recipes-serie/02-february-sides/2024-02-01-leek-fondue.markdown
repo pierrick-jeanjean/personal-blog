@@ -9,7 +9,7 @@ tags: [side, february, leek]
 
 Eating leek fondue in February in France is ideal because leeks are in peak season, making them fresh and flavorful. This warm, creamy dish is perfect for the cold weather, providing comfort and satisfaction. Leeks are also nutritious, rich in fiber, vitamins, and antioxidants, which help boost the immune system and aid digestion. Additionally, leek fondue pairs well with various main dishes, making it a versatile and healthy choice for winter meals.
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 3 large leeks
 - 20g butter
 - 80ml dry white wine
@@ -17,7 +17,7 @@ Eating leek fondue in February in France is ideal because leeks are in peak seas
 - Salt and pepper to taste
 - Optional: a pinch of nutmeg
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the leeks**: Trim the leeks, removing the dark green tops and the root ends. Slice the leeks lengthwise and rinse thoroughly under cold water to remove any dirt or sand. Slice the leeks into thin half-moons
 2. **Cook the leeks**: In a large skillet or saucepan, melt the butter over medium heat. Add the sliced leeks and cook, stirring occasionally, until they begin to soften, about 5-7 minutes
@@ -25,7 +25,7 @@ Eating leek fondue in February in France is ideal because leeks are in peak seas
 4. **Add cream and season**: Stir in the heavy cream and continue to cook over low heat until the mixture is creamy and the leeks are fully cooked, about 5 minutes.Season with salt, pepper, and a pinch of nutmeg if using.
 5. **Serve**: Serve the leek fondue warm as a side dish. It pairs wonderfully with roasted meats, fish, or even as a topping for baked potatoes or pasta.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 210kcal |
 | ----------- | ----------- |

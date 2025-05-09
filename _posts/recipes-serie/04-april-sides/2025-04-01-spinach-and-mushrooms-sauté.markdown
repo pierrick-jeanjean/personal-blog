@@ -9,7 +9,7 @@ tags: [side, april, spinach]
 
 Spinach and mushrooms are packed with nutrients. Spinach provides vitamins A, C, and K, along with iron and calcium, supporting immune function and bone health. Mushrooms offer B vitamins and antioxidants, aiding energy production and cell protection. Together, they create a low-calorie, fiber-rich dish that boosts digestion and keeps you full longer. This sauté is a tasty way to enhance your overall health! 🌱🍄
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 300 grams fresh spinach, washed and trimmed
 - 250 grams mushrooms, sliced (button or cremini work well)
 - 30 ml olive oil
@@ -18,7 +18,7 @@ Spinach and mushrooms are packed with nutrients. Spinach provides vitamins A, C,
 - Salt and pepper to taste
 - Optional: a squeeze of lemon juice or a sprinkle of grated Parmesan cheese
 
-### Instructions:
+#### Instructions
 
 1. **Heat the olive oil**: in a large skillet over medium heat.
 2. **Add the onion and garlic**: sauté until the onion is translucent and the garlic is fragrant, about 2-3 minutes.
@@ -27,7 +27,7 @@ Spinach and mushrooms are packed with nutrients. Spinach provides vitamins A, C,
 5. **Season** with salt and pepper to taste. If desired, add a squeeze of lemon juice or sprinkle with Parmesan cheese.
 6. **Serve** immediately as a side dish
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

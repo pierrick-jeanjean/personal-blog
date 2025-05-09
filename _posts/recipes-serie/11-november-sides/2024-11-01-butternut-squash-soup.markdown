@@ -7,7 +7,7 @@ tags: [side, november, butternut]
 
 Eating butternut squash soup in November is perfect for the season. The squash is at its freshest, providing rich flavor and nutrients like vitamin A and fiber. This warm, comforting soup is ideal for chilly autumn days, supporting your immune system and bringing cozy vibes to your meals. 🍂
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 450g of small butternut squash
 - 1/2 large onion
 - 1 clove garlic
@@ -18,7 +18,7 @@ Eating butternut squash soup in November is perfect for the season. The squash i
 - Salt and pepper to taste
 
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the squash**: Peel the butternut squash, cut it in half, remove the seeds, and chop it into cubes. You can soften the squash in the microwave for a few minutes to make peeling easier
 2. **Sauté the vegetables**: In a medium pot, heat the butter over medium heat.Add the chopped onion, garlic, carrot, and celery. Sauté until the vegetables are softened and the onions are translucent, about 5-7 minutes.
@@ -26,7 +26,7 @@ Eating butternut squash soup in November is perfect for the season. The squash i
 3. **Blend the soup**: Use an immersion blender to puree the soup directly in the pot until smooth. Alternatively, you can transfer the soup in batches to a blender and blend until smooth. Be careful with hot liquids.
 4. **Season and Serve**: Season the soup with salt, pepper, and any optional spices you like. Serve hot, garnished with a dollop of crème fraîche, croutons, or toasted pumpkin seeds for added texture and flavor.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 101kcal |
 | ----------- | ----------- |

@@ -9,7 +9,7 @@ tags: [protein, march, salmon]
 
 Honey garlic salmon is not only delicious but also packed with nutrients. Salmon is an excellent source of high-quality protein, omega-3 fatty acids, and essential vitamins and minerals like vitamin D and selenium. Omega-3 fatty acids are known for their heart health benefits, including reducing inflammation and lowering blood pressure. The honey and garlic add a delightful flavor while also providing antioxidants and antimicrobial properties. This dish is a perfect balance of taste and health, making it a great addition to your diet. Enjoy!
 
-### Ingredients (for 3 persons):
+#### Ingredients (for 3 persons)
 - 3 salmon fillets (about 150-200 grams each)
 - 45 ml honey
 - 45 ml soy sauce
@@ -19,7 +19,7 @@ Honey garlic salmon is not only delicious but also packed with nutrients. Salmon
 - Salt and pepper to taste
 - Fresh parsley, chopped (for garnish)
 
-### Instructions:
+#### Instructions
 
 1. **Prepare the marinade**: In a small bowl, mix honey, soy sauce, lemon juice, and minced garlic.
 2. **Marinate the salmon**: Place the salmon fillets in a shallow dish and pour the marinade over them. Let them marinate for at least 15-20 minutes.
@@ -27,7 +27,7 @@ Honey garlic salmon is not only delicious but also packed with nutrients. Salmon
 4. **Add the marinade**: Pour the reserved marinade into the pan and let it simmer for a couple of minutes until it thickens slightly.
 5. **Serve**: Plate the salmon fillets and drizzle the thickened sauce over them. Garnish with chopped parsley.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | kcal |
 | ----------- | ----------- |

@@ -14,7 +14,7 @@ Green beans with shallots is an ideal summer side dish because it highlights the
 - 450g French green beans, trimmed
 - Salt and pepper to taste
 
-### Instructions:
+#### Instructions
 1. **Heat the oil**: In a large skillet over medium-low heat, add the olive oil or butter.
 2. **Cook the shallots**: Add the thinly sliced shallots and cook, stirring frequently, until they are soft and translucent, about 8 minutes. Be careful not to brown them.
 3. **Add the beans**: Add the trimmed green beans, salt, pepper, and water to the skillet. Bring to a boil.
@@ -23,7 +23,7 @@ Green beans with shallots is an ideal summer side dish because it highlights the
 6. **Season**: Taste and adjust the seasoning with salt and pepper if needed.
 7. **Serve**: Serve warm as a side dish.
 
-### Calories (per serving):
+#### Calories (per serving):
 
 | **Calories** | 196kcal |
 | ----------- | ----------- |
