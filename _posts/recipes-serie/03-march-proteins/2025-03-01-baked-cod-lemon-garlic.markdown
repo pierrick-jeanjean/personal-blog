@@ -28,7 +28,7 @@ Baked cod with lemon and garlic is not only delicious but also highly nutritious
 6. **Bake** in the preheated oven for 15-20 minutes, or until the cod is cooked through and flakes easily with a fork.
 7. **Garnish** with fresh parsley before serving
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 236 kcal |
 | ----------- | ----------- |

@@ -26,7 +26,7 @@ Salsify, often referred to as the "oyster plant" due to its subtle oyster-like f
 5. **Season**: Season with salt, pepper, and a squeeze of lemon juice if desired.
 6. **Serve**: Serve the puree warm as a side dish.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 343 kcal |
 | ----------- | ----------- |

@@ -26,7 +26,7 @@ Asparagus with vinaigrette is great because it's nutrient-rich, low in calories,
 2. **Make the vinaigrette**: In a small bowl, whisk together the Dijon mustard, champagne vinegar, and sugar.Season with a pinch of salt and pepper. Gradually whisk in the olive oil until the vinaigrette is well combined. Add the lemon zest and tarragon (if using), and whisk to combine. Adjust seasoning to taste.
 3. **Combine and serve**: Arrange the asparagus on a serving platter. Drizzle the vinaigrette over the asparagus. Serve immediately, or let stand at room temperature for up to 30 minutes before serving.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

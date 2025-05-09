@@ -27,7 +27,7 @@ Plus, its creamy, comforting texture pairs well with hearty winter meals, adding
 4. **Season**: Add a pinch of nutmeg, and season with salt and pepper to taste. Stir well and cook for another 2-3 minutes until the spinach is fully coated in the creamy sauce.
 5. **Serve**: Transfer the creamed spinach to a serving dish and enjoy it hot as a delicious side to your main course.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 122kcal |
 | ----------- | ----------- |

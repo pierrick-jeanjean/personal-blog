@@ -15,7 +15,7 @@ Roasted chicken is a nutritious choice, providing high-quality protein and essen
 #### Instructions
 *To be filled in later*
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 223kcal |
 | ----------- | ----------- |

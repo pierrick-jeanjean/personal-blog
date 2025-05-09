@@ -21,7 +21,7 @@ Eating carrot purée in October is a great way to enjoy the season’s fresh pro
 3. **Blend the carrots**: Once the carrots are soft, transfer them to a blender using a slotted spoon. Add the cooking liquid gradually to achieve the desired consistency. Blend until smooth.
 4. **Finish the purée**: Add lemon juice to taste and blend again. Adjust the seasoning with more salt if needed 
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 286kcal |
 | ----------- | ----------- |

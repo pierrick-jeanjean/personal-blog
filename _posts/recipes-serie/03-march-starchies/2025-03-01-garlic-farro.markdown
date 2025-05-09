@@ -23,7 +23,7 @@ Garlic farro is a nutritious and tasty alternative to traditional side dishes. F
 4. **Simmer**: Let the farro simmer on low-medium heat for 18 minutes, then remove it from heat and let it sit for another 5 minutes before taking the lid off.
 5. **Fluff the farro** with a fork, remove the garlic, and serve it hot.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 262 kcal |
 | ----------- | ----------- |

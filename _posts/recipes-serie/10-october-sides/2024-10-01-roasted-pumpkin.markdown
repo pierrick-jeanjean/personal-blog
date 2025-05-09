@@ -22,7 +22,7 @@ Roasted pumpkin is ideal for October in France because it’s peak season, offer
 5. **Roast**: Spread the pumpkin pieces out in a single layer on the baking sheet. Roast in the preheated oven for about 25-30 minutes, or until the pumpkin is tender and slightly caramelized around the edges. Flip the pieces halfway through for even roasting.
 6. **Serve**: Enjoy the roasted pumpkin as a side dish, or use it in salads, grain bowls, or as a topping for soups.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 151kcal |
 | ----------- | ----------- |

@@ -23,7 +23,7 @@ Green beans with shallots is an ideal summer side dish because it highlights the
 6. **Season**: Taste and adjust the seasoning with salt and pepper if needed.
 7. **Serve**: Serve warm as a side dish.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 196kcal |
 | ----------- | ----------- |

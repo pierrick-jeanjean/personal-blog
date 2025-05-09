@@ -32,7 +32,7 @@ Garlic breadsticks are a delicious and comforting side that pairs perfectly with
 7. **Brush with garlic butter**: As soon as the breadsticks come out of the oven, brush them with the garlic butter. Sprinkle with fresh parsley and grated Parmesan cheese if desired.
 8. **Serve warm**: Enjoy the breadsticks warm, perfect for dipping into turnip soup.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

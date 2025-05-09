@@ -24,7 +24,7 @@ Grilled salmon is rich in omega-3 fatty acids, which support heart health and re
 4. **Grill the salmon**: Place the salmon fillets on the grill, skin-side down. Grill for about 4-6 minutes per side, depending on the thickness of the fillets, until the salmon is opaque and flakes easily with a fork.
 5. **Serve**: Remove the salmon from the grill and garnish with fresh herbs. Serve with your favorite sides, like grilled vegetables or a fresh salad.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 319kcal |
 | ----------- | ----------- |

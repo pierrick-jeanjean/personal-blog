@@ -15,7 +15,7 @@ Roasted duck is a delicious and nutritious dish. It's rich in protein, healthy f
 #### Instructions
 *To be filled in later*
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 293kcal |
 | ----------- | ----------- |

@@ -19,7 +19,7 @@ Courgette noodles are a healthy, low-carb alternative to pasta, and September is
 2. **Sauté the noodles**: Heat the olive oil in a large skillet over medium heat, add garlic and sauté until fragrant, then add the courgette noodles for 3 to 4 minutes until slightly softened
 3. **Drizzle with lemon juice**: Add lemon juice and serve it
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 165kcal |
 | ----------- | ----------- |

@@ -28,7 +28,7 @@ Roasted pork loin is a delicious and nutritious choice for a meal. It's a lean c
 5. **Roast the pork**: Place the seared pork loin on a rack in a roasting pan. Roast in the preheated oven for about 25 minutes per 450 grams, or until the internal temperature reaches 63°C. For a 680-gram pork loin, this will take approximately 40-45 minutes.
 6. **Rest and serve**: Remove the pork loin from the oven and let it rest for 5-10 minutes before slicing. This allows the juices to redistribute. Slice and serve warm
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 292 kcal |
 | ----------- | ----------- |

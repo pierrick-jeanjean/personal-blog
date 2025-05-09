@@ -27,7 +27,7 @@ Cranberry quinoa is a nutritious, gluten-free dish rich in protein and fiber, pr
 3. **Combine the ingredients**: Add the cooked quinoa and dried cranberries to the skillet. Stir to combine and heat through. Season with salt and pepper to taste.
 4. **Garnish and serve**: Garnish with fresh parsley if desired.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

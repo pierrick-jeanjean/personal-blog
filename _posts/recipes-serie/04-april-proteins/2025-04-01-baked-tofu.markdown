@@ -26,7 +26,7 @@ Eating baked tofu is a great choice because it's a rich source of plant-based pr
 5. **Bake the tofu**: Arrange the tofu in an even layer on a parchment-covered baking sheet. Bake for 15 minutes, then flip each piece to cook evenly on the other side. Return to the oven for another 15-20 minutes, or until the tofu reaches your desired level of crispiness.
 6. **Enjoy**: Serve the crispy baked tofu in salads, stir-fries, or as a snack!
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

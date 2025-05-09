@@ -26,7 +26,7 @@ Roasted new potatoes with Parmesan and fresh herbs are nutritious and delicious.
 4. **Add herbs and cheese**: Once the potatoes are done, toss them with the finely chopped herbs and grated Parmesan cheese.
 5. **Serve**: Serve immediately while hot and enjoy!
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

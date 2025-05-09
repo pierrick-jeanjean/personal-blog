@@ -25,7 +25,7 @@ Eating leek fondue in February in France is ideal because leeks are in peak seas
 4. **Add cream and season**: Stir in the heavy cream and continue to cook over low heat until the mixture is creamy and the leeks are fully cooked, about 5 minutes.Season with salt, pepper, and a pinch of nutmeg if using.
 5. **Serve**: Serve the leek fondue warm as a side dish. It pairs wonderfully with roasted meats, fish, or even as a topping for baked potatoes or pasta.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 210kcal |
 | ----------- | ----------- |

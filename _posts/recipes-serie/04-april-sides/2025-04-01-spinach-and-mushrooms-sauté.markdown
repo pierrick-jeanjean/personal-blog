@@ -27,7 +27,7 @@ Spinach and mushrooms are packed with nutrients. Spinach provides vitamins A, C,
 5. **Season** with salt and pepper to taste. If desired, add a squeeze of lemon juice or sprinkle with Parmesan cheese.
 6. **Serve** immediately as a side dish
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

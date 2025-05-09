@@ -29,7 +29,7 @@ Salt and pepper to taste
 6. **Baste with marinade**: Halfway through roasting, baste the chicken thighs with any remaining marinade for extra flavor.
 7. **Rest and serve**: Let the chicken thighs rest for a few minutes before serving. Garnish with additional fresh rosemary if desired.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

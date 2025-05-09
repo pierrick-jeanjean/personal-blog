@@ -25,7 +25,7 @@ Eating collard greens with lardons in November is a wonderful way to embrace the
 5. **Season**: Stir in the apple cider vinegar, and season with salt, pepper. Adjust the seasoning to taste.
 6. **Serve**: Return the cooked lardons to the pot, stir to combine, and serve hot.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 104kcal |
 | ----------- | ----------- |

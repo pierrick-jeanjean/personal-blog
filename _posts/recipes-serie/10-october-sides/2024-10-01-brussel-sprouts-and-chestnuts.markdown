@@ -24,7 +24,7 @@ Brussel sprouts and chestnuts is perfect for October in France because it uses f
 4. **Combine ingredients**: add the cooked Brussel sprouts to the pan and sauté for few minutes until they start to brown slightly, add the chestnuts and pour in the chicken stock, let the mixture simmer for 5 minutes
 5. **Season and serve**: Season with salt and pepper to taste, serve hot as a side dish, perfect for autumn meals
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 226kcal |
 | ----------- | ----------- |

@@ -24,7 +24,7 @@ Eating fennel and roasted chestnuts in November is perfect for the season. Fenne
 4. **Combine and cook**: Add the chestnuts to the pan with the vegetables. Stir to combine and let everything simmer together for another 15-20 minutes, until the chestnuts are tender and the flavors have melded.
 5. **Serve**: This dish pairs wonderfully with roasted meats like turkey, pork, or chicken. Enjoy!
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 355kcal |
 | ----------- | ----------- |

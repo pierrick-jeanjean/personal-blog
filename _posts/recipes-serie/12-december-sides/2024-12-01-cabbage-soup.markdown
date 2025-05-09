@@ -31,7 +31,7 @@ Cabbage soup is perfect for December in France because cabbage is in season, mak
 6. **Taste and adjust**: Taste the soup and adjust the seasoning as needed. Add more salt or pepper if desired.
 7. **Serve**: Ladle the soup into bowls and serve hot. You can garnish with fresh parsley or a drizzle of olive oil if desired.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 164kcal |
 | ----------- | ----------- |

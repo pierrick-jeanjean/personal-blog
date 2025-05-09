@@ -20,7 +20,7 @@ Eating celeriac purée in December is great because celeriac is in season, makin
 3. **Mash the celeriac**: Add the butter and milk to the pan. Use a potato masher or a stick blender to mash the celeriac until smooth and creamy. If needed, add more butter or milk to reach your desired consistency.
 4. **Season**: Season with salt and pepper to taste
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 243kcal |
 | ----------- | ----------- |

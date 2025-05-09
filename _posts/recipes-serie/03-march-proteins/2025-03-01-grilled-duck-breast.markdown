@@ -27,7 +27,7 @@ Grilled duck breast is a delicious and nutritious choice. It’s rich in high-qu
 3. **Grill the Duck**: Preheat the grill to 175°C. Place the duck breasts skin-side down on the grill. Cook for 7-9 minutes until the skin is crispy and golden brown. Flip the breasts and cook for an additional 3-5 minutes. The internal temperature should reach 74°C.
 4. **Rest and Serve**: Remove the duck from the grill and let it rest for up to 10 minutes. Slice and serve..
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 288 kcal |
 | ----------- | ----------- |

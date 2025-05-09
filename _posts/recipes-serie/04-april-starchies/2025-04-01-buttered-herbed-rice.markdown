@@ -26,7 +26,7 @@ Buttered herbed rice is a nutritious and flavorful dish. Rice provides energy th
 4. **Season**: Add salt and pepper to taste. Give it a final stir to combine everything well.
 5. **Serve**: Fluff the rice with a fork and serve warm.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

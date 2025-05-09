@@ -24,7 +24,7 @@ Grilled lamb chops are delicious and nutritious. They provide high-quality prote
 4. **Grill the Chops**: Remove the lamb chops from the marinade and let any excess drip off. Grill the chops for about 4-5 minutes per side for medium-rare, or until they reach your desired level of doneness.
 5. **Rest and serve**: Let the lamb chops rest for a few minutes before serving to allow the juices to redistribute
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 450kcal |
 | ----------- | ----------- |

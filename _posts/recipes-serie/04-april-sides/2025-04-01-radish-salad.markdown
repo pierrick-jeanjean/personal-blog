@@ -27,7 +27,7 @@ Radish salad is great because radishes are low in calories and high in nutrients
 4. **Add fresh dill**: Sprinkle the chopped dill over the salad and give it one last gentle toss.
 5. **Serve**: Divide the salad into three portions and serve immediately.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

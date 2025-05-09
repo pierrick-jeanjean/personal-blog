@@ -24,7 +24,7 @@ Eating roasted potatoes in January is great because they are hearty and comforti
 4. **Roast the potatoes**: Spread the potatoes in a single layer on a baking sheet. Roast in the preheated oven for about 25-30 minutes, or until they are golden brown and crispy on the outside and tender on the inside. Flip them halfway through to ensure even cooking.
 5. **Add fresh herbs**: Once the potatoes are done, sprinkle them with fresh herbs and give them a final toss.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 233kcal |
 | ----------- | ----------- |

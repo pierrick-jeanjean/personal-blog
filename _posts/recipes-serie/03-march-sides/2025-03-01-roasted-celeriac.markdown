@@ -25,7 +25,7 @@ Roasted celeriac is nutritious and delicious. It’s high in fiber, aiding diges
 4. **Roast**: Spread the seasoned celeriac cubes in a single layer on a baking sheet. Roast in the preheated oven for 25-30 minutes, or until the celeriac is golden brown and tender, stirring halfway through.
 5. **Serve**: Garnish with fresh parsley if desired and serve hot.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

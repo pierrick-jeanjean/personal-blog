@@ -27,7 +27,7 @@ Piperade is a vibrant Basque dish that combines bell peppers, onions, garlic, an
 6. Transfer the Dutch oven to the oven and let it cook for about 30 minutes until everything is fully cooked and soft.
 7. Serve hot as a side dish or with crusty bread.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 167kcal |
 | ----------- | ----------- |

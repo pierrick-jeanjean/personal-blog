@@ -26,7 +26,7 @@ Eating braised endives in France during January is a wonderful way to enjoy seas
 5. **Braise**: Cover the skillet and reduce the heat to low. Let the endives cook gently for about 20-30 minutes, turning occasionally, until they are tender and caramelized.
 6. **Finish and serve**: Once the endives are tender and golden, remove them from the skillet and serve warm. You can garnish with fresh herbs like parsley if desired.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 122kcal |
 | ----------- | ----------- |

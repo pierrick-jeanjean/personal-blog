@@ -25,7 +25,7 @@ Leek and mushroom sauté is perfect for October in France because it highlights 
 5. **Season and finish**: Season with salt and pepper to taste. If using, add a splash of white wine or vegetable broth and cook for another 2-3 minutes until the liquid has mostly evaporated and the flavors are well combined.
 6. **Serve**: Transfer the leek and mushroom sauté to a serving dish and enjoy as a side with your favorite main course.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 84kcal |
 | ----------- | ----------- |

@@ -21,7 +21,7 @@ Eating Jerusalem artichoke soup in December is a great idea because these vegeta
 2. **Cook artichokes**: Add the Jerusalem artichokes, water or vegetable stock, and sea salt to the pot. Bring to a boil, then reduce the heat and simmer, covered, for about 30 minutes or until the artichokes are soft.
 3. **Blend soup**: Remove the pot from the heat and let it cool slightly. Blend the mixture until completely smooth. Taste and adjust the seasoning if needed. Warm the soup gently before serving.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 224kcal |
 | ----------- | ----------- |

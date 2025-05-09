@@ -25,7 +25,7 @@ Eating carrot Vichy in February in France is a delightful way to enjoy seasonal 
 4. **Finish**: Add a squeeze of lemon juice and toss the carrots to coat them evenly in the glaze.
 5. **Garnish**: Sprinkle with chopped parsley or chives before serving.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 70kcal |
 | ----------- | ----------- |

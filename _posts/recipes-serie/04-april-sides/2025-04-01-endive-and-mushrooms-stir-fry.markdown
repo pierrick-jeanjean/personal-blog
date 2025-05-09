@@ -28,7 +28,7 @@ Eating an endive and mushroom stir-fry is great for your health. Endives are low
 5. **Season**: Stir in the soy sauce and chili-garlic sauce. Mix well to combine.
 6. **Serve**: Serve hot as a side dish or with rice or noodles for a complete meal.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

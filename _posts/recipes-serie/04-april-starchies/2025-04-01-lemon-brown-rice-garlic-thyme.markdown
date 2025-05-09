@@ -28,7 +28,7 @@ Eating Lemon Brown Rice with Garlic and Thyme is beneficial because it combines 
 2. **Prepare the flavoring**: In a small skillet, heat the olive oil over medium heat. Add the minced garlic, chopped thyme, and red chili flakes (if using). Cook for about 1-2 minutes, until the garlic is fragrant and just starting to brown. Remove from heat and stir in the lemon juice and zest.
 3. **Combine and serve**: Once the rice is cooked, fluff it with a fork. Stir in the garlic, thyme, and lemon mixture. Adjust seasoning with additional salt and pepper, if needed. Serve warm as a side dish or as a base for your favorite protein
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

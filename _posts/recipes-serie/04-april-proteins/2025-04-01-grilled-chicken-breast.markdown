@@ -26,7 +26,7 @@ Grilled chicken breast is an excellent choice for a healthy and delicious meal. 
 4. **Grill the chicken**: Remove the chicken from the marinade and discard the marinade. Place the chicken breasts on the grill and cook for about 6-7 minutes per side, or until the internal temperature reaches 75°C (165°F) and the chicken is no longer pink in the center.
 5. **Rest and serve**: Let the chicken rest for a few minutes before slicing. This helps retain the juices and keeps the chicken tender.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

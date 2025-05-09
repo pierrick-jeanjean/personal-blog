@@ -25,7 +25,7 @@ Creamy polenta is a comforting, gluten-free dish rich in carbohydrates and fiber
 4. **Stir in the butter and Parmesan cheese** until melted and well combined. Season with salt and pepper to taste.
 5. **Serve immediately**: Polenta tends to firm up as it cools, so serve it hot and creamy.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

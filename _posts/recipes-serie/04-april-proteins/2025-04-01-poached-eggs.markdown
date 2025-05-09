@@ -24,7 +24,7 @@ Poached eggs are a nutritious and low-calorie option, packed with high-quality p
 5. **Cook the eggs**: Gently slide the eggs into the center of the whirlpool. Cook for about 3 minutes for soft yolks or 4-5 minutes for firmer yolks. You can cook 2-3 eggs at a time, depending on the size of your pot.
 6. **Remove and Serve**: Use a slotted spoon to remove the eggs from the water. Dab them on a paper towel to remove excess water. Serve immediately with toast, salt, and pepper.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

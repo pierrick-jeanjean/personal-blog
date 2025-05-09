@@ -27,7 +27,7 @@ Honey garlic salmon is not only delicious but also packed with nutrients. Salmon
 4. **Add the marinade**: Pour the reserved marinade into the pan and let it simmer for a couple of minutes until it thickens slightly.
 5. **Serve**: Plate the salmon fillets and drizzle the thickened sauce over them. Garnish with chopped parsley.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

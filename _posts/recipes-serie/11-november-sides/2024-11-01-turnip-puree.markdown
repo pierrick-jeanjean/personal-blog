@@ -22,7 +22,7 @@ Eating turnip purée in November is perfect because turnips are in peak season, 
 2. **Drain and Purée**: Drain the turnips, reserving the cooking liquid. Discard the thyme sprigs. Transfer the turnips to a food processor.
 3. **Blend**: Add about 120ml of the reserved cooking liquid and the butter to the food processor. Season with plenty of salt and pepper. Purée until smooth. If the mixture is too thick, add more of the cooking liquid until you reach the desired consistency.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 248kcal |
 | ----------- | ----------- |

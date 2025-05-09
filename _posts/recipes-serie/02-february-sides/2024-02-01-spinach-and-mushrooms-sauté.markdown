@@ -26,7 +26,7 @@ Spinach and mushroom sauté is a nutritious side dish rich in vitamins, minerals
 5. **Season** with salt and pepper to taste.
 6. **Drizzle** with balsamic vinegar before serving.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 191kcal |
 | ----------- | ----------- |

@@ -30,7 +30,7 @@ Collard greens soup is nutritious and delicious. It's rich in vitamins A, C, and
 6. **Blend**: For a smoother texture, use an immersion blender to blend the soup until it reaches your desired consistency.
 7. **Serve**: Ladle the soup into bowls and enjoy!
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 244 kcal |
 | ----------- | ----------- |

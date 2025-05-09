@@ -26,7 +26,7 @@ Roasted swede is a perfect winter side dish in France. It's seasonal, fresh, and
 5. **Bake**: Roast in the preheated oven for about 30-40 minutes, or until the swede is tender and golden brown. Stir halfway through the cooking time to ensure even roasting.
 6. **Serve**: Once roasted, remove from the oven and serve hot.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 122kcal |
 | ----------- | ----------- |

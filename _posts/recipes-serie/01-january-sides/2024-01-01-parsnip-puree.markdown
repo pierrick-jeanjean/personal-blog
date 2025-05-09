@@ -25,7 +25,7 @@ Eating parsnip purée in January in France is perfect for the season. Parsnips a
 5. **Season**: Season the purée with salt, pepper, and any optional spices like nutmeg or garlic. Blend again to incorporate the seasoning.
 6. **Serve**: Transfer the parsnip purée to a serving dish. You can garnish it with a sprinkle of fresh herbs like parsley or chives if desired.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 215kcal |
 | ----------- | ----------- |

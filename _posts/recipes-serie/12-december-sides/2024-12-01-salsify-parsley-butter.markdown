@@ -22,7 +22,7 @@ Eating salsify with butter and parsley in December is ideal because salsify is i
 3. **Sauté the salsify**: In a large skillet, melt the butter over medium heat.Add the minced garlic (if using) and sauté for about 1 minute until fragrant.Add the blanched salsify to the skillet. Sauté for about 5-7 minutes, or until the salsify is golden brown and fully tender.
 4. **Finish and serve**: Season with salt and pepper to taste. Sprinkle with chopped parsley and toss to combine.Serve warm as a side dish.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 349kcal |
 | ----------- | ----------- |

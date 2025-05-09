@@ -27,7 +27,7 @@ Caramelized cauliflower is not only delicious but also packed with health benefi
 6. **Roast** in the preheated oven for 25-30 minutes, turning halfway through, until the cauliflower is golden brown and caramelized.
 6. **Garnish** with fresh parsley if desired and serve warm.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

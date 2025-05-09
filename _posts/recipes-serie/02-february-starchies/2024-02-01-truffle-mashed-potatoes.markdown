@@ -27,7 +27,7 @@ Mashed potatoes are a comforting and nutritious side dish. They provide energy t
 5. **Add ingredients**: In a small saucepan, heat the milk and cream. Gradually add the butter to the potatoes, mashing until incorporated. Slowly add the warm milk mixture, stirring until the potatoes are creamy.
 6. **Season and serve**: Season with salt and freshly ground black pepper to taste. Garnish with finely chopped chives and a dash of truffle oil.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 404kcal |
 | ----------- | ----------- |

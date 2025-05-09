@@ -22,7 +22,7 @@ Scrambled tofu is a nutritious and versatile dish. It's high in plant-based prot
 3. **Season**: Add turmeric powder, salt, and pepper. Mix well.
 4. **Cook**: Sauté for about 5-7 minutes until the tofu is heated through and slightly golden.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

@@ -22,7 +22,7 @@ Garlic mashed cauliflower is a delicious, low-carb alternative to mashed potatoe
 3. **Blend ingredients**: In a food processor, combine the steamed cauliflower, cooked garlic, Parmesan cheese, cream cheese, salt and pepper. Blend until smooth and creamy
 4. **Serve**: Transfer the mashed cauliflower to a serving bowl and enjoy!
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 198kcal |
 | ----------- | ----------- |

@@ -27,7 +27,7 @@ Roasted sweet potatoes are not only delicious but also packed with nutritional b
 5. **Roast** in the preheated oven for 25-30 minutes, or until the sweet potatoes are tender and slightly crispy on the edges.
 6. **Garnish** with fresh parsley if desired and serve warm.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

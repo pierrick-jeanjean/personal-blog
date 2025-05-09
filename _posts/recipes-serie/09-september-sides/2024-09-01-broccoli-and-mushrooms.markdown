@@ -24,7 +24,7 @@ Eating broccoli and mushrooms in September is beneficial because they are in sea
 6. **Cook**: Continue to cook for another 5-7 minutes until the broccoli is tender but still crisp.
 7. **Serve**: Serve hot as a side dish.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 180kcal |
 | ----------- | ----------- |

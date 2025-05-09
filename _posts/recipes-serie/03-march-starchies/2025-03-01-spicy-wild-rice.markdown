@@ -35,7 +35,7 @@ Spicy wild rice is not only delicious but also packed with nutrients. Wild rice 
 7. **Season** with salt and pepper to taste.
 8. **Garnish** with fresh cilantro before serving.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 308 kcal |
 | ----------- | ----------- |

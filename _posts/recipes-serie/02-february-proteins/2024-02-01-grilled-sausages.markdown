@@ -22,7 +22,7 @@ Grilled sausages are a flavorful and protein-rich option that can be enjoyed in 
 3. **Grill the sausages**: Place the sausages on the grill and cook for about 10-12 minutes, turning occasionally, until they are browned and cooked through.
 4. **Rest and serve**: Remove the sausages from the grill and let them rest for a few minutes before serving. Garnish with fresh herbs if desired..
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

@@ -29,7 +29,7 @@ Cornbread is a delightful and versatile dish that can be enjoyed as a side or a 
 6. **Bake** for 20-25 minutes, or until a toothpick inserted into the center comes out clean.
 Let it cool slightly before serving..
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

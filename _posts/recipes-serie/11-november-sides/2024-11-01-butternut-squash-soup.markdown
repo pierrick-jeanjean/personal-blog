@@ -26,7 +26,7 @@ Eating butternut squash soup in November is perfect for the season. The squash i
 3. **Blend the soup**: Use an immersion blender to puree the soup directly in the pot until smooth. Alternatively, you can transfer the soup in batches to a blender and blend until smooth. Be careful with hot liquids.
 4. **Season and Serve**: Season the soup with salt, pepper, and any optional spices you like. Serve hot, garnished with a dollop of crème fraîche, croutons, or toasted pumpkin seeds for added texture and flavor.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 101kcal |
 | ----------- | ----------- |

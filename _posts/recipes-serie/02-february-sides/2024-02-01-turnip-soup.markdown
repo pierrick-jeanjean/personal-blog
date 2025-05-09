@@ -27,7 +27,7 @@ Turnip soup is a nutritious and comforting dish, rich in vitamins C and K, fiber
 4. **Blend the soup**: Use an immersion blender to blend the soup until smooth and creamy. If you don’t have an immersion blender, you can carefully transfer the soup to a countertop blender in batches.
 5. **Serve**: Ladle the soup into bowls and garnish with fresh herbs or croutons if desired. Enjoy your warm, creamy turnip soup!
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | 155kcal |
 | ----------- | ----------- |

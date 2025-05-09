@@ -25,7 +25,7 @@ Grilled steak is a protein-rich option that provides essential nutrients like ir
 4. **Rest the steaks**: Remove the steaks from the grill and let them rest for 5 minutes before serving. This allows the juices to redistribute.
 5. **Serve with lemon wedges**: Optionally, serve with lemon wedges for a fresh, tangy finish.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |

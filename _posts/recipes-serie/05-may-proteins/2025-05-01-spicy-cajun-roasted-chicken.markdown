@@ -35,7 +35,7 @@ Spicy Cajun Roast Chicken is a flavorful and nutritious dish. The blend of spice
 6. **Roast the chicken**: Roast in the preheated oven for about 35-40 minutes, or until the internal temperature reaches 165°F (74°C) and the skin is crispy.
 7. **Rest the chicken**: Once cooked, remove the chicken from the oven and let it rest for a few minutes before serving.
 
-#### Calories (per serving):
+#### Calories (per serving)
 
 | **Calories** | kcal |
 | ----------- | ----------- |
