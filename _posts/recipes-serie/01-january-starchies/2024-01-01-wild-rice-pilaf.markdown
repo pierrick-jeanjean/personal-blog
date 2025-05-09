@@ -19,7 +19,6 @@ Eating wild rice pilaf in January is great because it’s a hearty, nutritious d
 - ¾ cups low-sodium chicken broth (or vegetable broth)
 
 #### Instructions
-
 1. **Sauté vegetables**: Melt the butter in a medium saucepan over medium heat. Add the chopped onion and diced carrot, and cook for about 5 minutes, stirring often. Add the minced garlic and cook for another 30 seconds.
 2. **Cook rice**: Stir in the wild rice blend, salt, and pepper. Add the chicken broth and bring to a boil. Once boiling, cover the saucepan with a tight-fitting lid and reduce the heat to a simmer. Cook for 40-45 minutes, or until the liquid is absorbed and the rice is tender.
 3. **Rest and fluff**: Remove the pot from heat and let it rest, covered, for 10 minutes. Then, remove the lid and gently fluff the rice with a fork.

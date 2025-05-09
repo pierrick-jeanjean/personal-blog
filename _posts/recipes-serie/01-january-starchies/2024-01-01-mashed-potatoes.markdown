@@ -18,7 +18,6 @@ Mashed potatoes are a comforting and nutritious side dish. They provide energy t
 - Fresh chives (finely chopped, for serving)
 
 #### Instructions
-
 1. **Prepare the potatoes**: Peel and cut the potatoes into evenly sized chunks.
 2. **Boil the potatoes**: Place the potatoes in a large pot and cover with cold water. Add a generous pinch of salt. Bring to a boil, then reduce to a simmer and cook until the potatoes are tender (about 15-20 minutes).
 3. **Drain and dry**: Drain the potatoes and return them to the pot. Cook over low heat for a few minutes to evaporate any remaining moisture.

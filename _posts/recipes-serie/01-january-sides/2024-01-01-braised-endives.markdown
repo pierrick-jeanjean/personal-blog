@@ -18,7 +18,6 @@ Eating braised endives in France during January is a wonderful way to enjoy seas
 - Optional: a splash of white wine or chicken broth
 
 #### Instructions
-
 1. **Prepare the endives**: Trim the bases of the endives and remove any damaged outer leaves. Rinse them under cold water and pat dry.
 2. **Caramelize the sugar**: In a large skillet, melt the butter over medium heat. Add the sugar and stir until it dissolves and starts to caramelize slightly.
 3. **Cook the endives**: Place the endives in the skillet, cut side down if halved, and cook until they start to brown, about 5 minutes.

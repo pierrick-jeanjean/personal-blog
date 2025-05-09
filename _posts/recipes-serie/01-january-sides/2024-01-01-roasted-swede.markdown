@@ -18,7 +18,6 @@ Roasted swede is a perfect winter side dish in France. It's seasonal, fresh, and
 - Optional: 1 clove garlic, minced
 
 #### Instructions
-
 1. **Preheat the oven**: Preheat your oven to 200°C (400°F).
 2. **Prepare the swede**: Peel the swede and cut it into evenly sized chunks.
 3. **Season the swede**: In a large bowl, toss the swede chunks with olive oil, honey, thyme, salt, and pepper. If you're using garlic, add it now.

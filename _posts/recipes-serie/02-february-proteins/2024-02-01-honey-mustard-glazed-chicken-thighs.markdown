@@ -20,7 +20,6 @@ Honey mustard chicken thighs are a delicious and nutritious meal. The sweet and 
 Salt and pepper to taste
 
 #### Instructions
-
 1. **Preheat** your oven to 200°C (400°F).
 2. **Prepare the marinade**: In a small bowl, whisk together the Dijon mustard, whole grain mustard, honey, olive oil, minced garlic, and chopped rosemary (if using).
 3. **Season the chicken thighs**: Pat the chicken thighs dry with paper towels. Season both sides with salt and pepper.

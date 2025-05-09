@@ -17,7 +17,6 @@ Eating roasted potatoes in January is great because they are hearty and comforti
 - Salt and pepper to taste
 
 #### Instructions
-
 1. **Preheat your oven** to 425°F (220°C).
 2. **Prepare the potatoes**: Wash and cut them into even-sized chunks (about 2 inches).
 3. **Season the potatoes**: In a large bowl, toss the potato chunks with olive oil, garlic powder, paprika, salt, and pepper. Make sure they are well coated.

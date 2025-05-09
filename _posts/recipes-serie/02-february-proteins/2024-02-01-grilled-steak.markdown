@@ -18,7 +18,6 @@ Grilled steak is a protein-rich option that provides essential nutrients like ir
 - Lemon wedges for serving (optional)
 
 #### Instructions
-
 1. **Season the steaks**: Pat the steaks dry with paper towels. Rub both sides with olive oil, salt, and pepper. Optionally, add minced garlic and fresh rosemary or thyme.
 2. **Preheat the grill**: Heat your grill to high heat.
 3. **Grill the steaks**: Place the steaks on the grill and cook for about 4-5 minutes per side for medium-rare, or until they reach your desired level of doneness.

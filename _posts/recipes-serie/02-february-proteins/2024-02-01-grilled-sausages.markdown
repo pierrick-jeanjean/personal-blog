@@ -16,7 +16,6 @@ Grilled sausages are a flavorful and protein-rich option that can be enjoyed in 
 - Fresh herbs for garnish (optional)
 
 #### Instructions
-
 1. **Preheat the grill**: Heat your grill to medium-high heat.
 2. **Prepare the sausages**: Brush the sausages with olive oil and season with salt and pepper.
 3. **Grill the sausages**: Place the sausages on the grill and cook for about 10-12 minutes, turning occasionally, until they are browned and cooked through.

@@ -17,7 +17,6 @@ Pan-seared salmon is a nutritious choice, packed with protein and omega-3 fatty 
 - Fresh dill or parsley for garnish (optional)
 
 #### Instructions
-
 1. **Season the salmon fillets**: Pat the salmon fillets dry with paper towels. Season both sides with salt and pepper.
 2. **Heat the olive oil** in a large skillet over medium-high heat.
 3. **Sear the salmon**: Place the salmon fillets skin-side down in the skillet. Cook for about 4-5 minutes, until the skin is crispy and the salmon is mostly cooked through.

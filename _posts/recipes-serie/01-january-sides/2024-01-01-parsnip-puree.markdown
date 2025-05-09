@@ -17,7 +17,6 @@ Eating parsnip purée in January in France is perfect for the season. Parsnips a
 - Optional: a pinch of nutmeg or garlic for extra flavor
 
 #### Instructions
-
 1. **Prepare the parsnips**: Peel and chop the parsnips into evenly sized pieces to ensure they cook uniformly.
 2. **Cook the parsnips**: Place the chopped parsnips in a large pot and cover them with water. Add a pinch of salt. Bring to a boil, then reduce the heat and simmer for about 15-20 minutes, or until the parsnips are tender when pierced with a fork.
 3. **Drain and dry**: Drain the parsnips well and return them to the pot. Place the pot back on the stove over low heat for a minute or two to evaporate any excess moisture.
