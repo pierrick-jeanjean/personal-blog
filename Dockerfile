@@ -1,0 +1,17 @@
+FROM ruby:3.1
+
+# Set working directory
+WORKDIR /srv/jekyll
+
+# Install dependencies
+COPY Gemfile Gemfile.lock* ./
+RUN bundle install
+
+# Copy the rest of your site
+COPY . .
+
+# Expose the default Jekyll port
+EXPOSE 4000
+
+# Serve the site
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
