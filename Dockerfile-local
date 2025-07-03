@@ -14,4 +14,4 @@ COPY . .
 EXPOSE 4000
 
 # Serve the site
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--livereload", "--future"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--livereload", "--incremental", "--future"]
