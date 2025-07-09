@@ -2,6 +2,7 @@
 layout: post
 title: Markdown cheatsheet
 categories: coding
+tags: [jekyll]
 ---
 
 To create content for my Jekyll blog, I needed to learn Markdown. While it’s not a complicated language, I often find it hard to remember the syntax. So, I decided to make a “cheat sheet” of the most commonly used symbols. Enjoy!

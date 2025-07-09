@@ -2,6 +2,7 @@
 layout: post
 title: Wales
 categories: travels
+tags: [europe]
 ---
 
 ## Food tour

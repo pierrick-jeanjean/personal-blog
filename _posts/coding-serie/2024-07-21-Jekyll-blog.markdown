@@ -2,6 +2,7 @@
 layout: post
 title: Jekyll blog
 categories: coding
+tags: [jekyll]
 ---
 
 Today, I’ve made the decision to start my own blog. I’ve always wanted a platform to share my discoveries and learnings from both work and my free time. To expedite the process, I researched static site generators and ultimately chose Jekyll due to its popularity.
