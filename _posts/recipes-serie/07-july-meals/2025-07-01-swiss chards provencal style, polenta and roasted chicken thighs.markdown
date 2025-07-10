@@ -2,7 +2,7 @@
 layout: post
 title:  Swiss chards provencal style, polenta and roasted chicken thighs
 categories: recipes
-tags: [july]
+tags: [07-july]
 ---
 
 #### Ingredients (for 3 persons)

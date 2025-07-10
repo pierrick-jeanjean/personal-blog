@@ -2,7 +2,7 @@
 layout: post
 title:  Honey glazed carrots, mashed potatoes and roasted chicken breasts
 categories: recipes
-tags: [july]
+tags: [07-july]
 ---
 
 #### Ingredients (for 3 persons)

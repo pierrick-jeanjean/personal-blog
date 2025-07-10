@@ -2,7 +2,7 @@
 layout: post
 title:  White asparagus with hollandaise, herb-roasted potatoes and grilled salmons
 categories: recipes
-tags: [june]
+tags: [06-june]
 ---
 
 #### Ingredients (for 3 persons)

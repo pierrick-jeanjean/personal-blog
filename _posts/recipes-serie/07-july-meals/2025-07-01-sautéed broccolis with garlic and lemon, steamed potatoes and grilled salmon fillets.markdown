@@ -2,7 +2,7 @@
 layout: post
 title:  Sautéed broccolis with garlic and lemon, steamed potatoes and grilled salmon fillets
 categories: recipes
-tags: [july]
+tags: [07-july]
 ---
 
 #### Ingredients (for 3 persons)

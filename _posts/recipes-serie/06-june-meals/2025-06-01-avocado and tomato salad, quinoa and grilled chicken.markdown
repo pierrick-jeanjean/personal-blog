@@ -2,7 +2,7 @@
 layout: post
 title:  Avocado and tomato salad, quinoa and grilled chicken breasts
 categories: recipes
-tags: [june]
+tags: [06-june]
 ---
 
 #### Ingredients (for 3 persons)
