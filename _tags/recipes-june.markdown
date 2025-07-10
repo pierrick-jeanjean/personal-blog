@@ -1,5 +1,5 @@
 ---
 layout: tag
 category: recipes
-tag: june
+tag: 06-june
 ---
