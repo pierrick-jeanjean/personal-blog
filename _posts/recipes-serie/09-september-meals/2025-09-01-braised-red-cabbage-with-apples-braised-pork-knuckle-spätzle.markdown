@@ -17,7 +17,7 @@ tags: [09-september]
 - 1 bay leaf
 - 1 pinch nutmeg
 - Salt and pepper to taste
-- Optional: 50ml red wine or cider
+- Optional: 50mL red wine or cider
 
 **For the buckweat crepe**:
 - 250 g spätzle (dry or fresh)
@@ -31,8 +31,8 @@ tags: [09-september]
 - 1 carrot, sliced
 - 1 bouquet garni (thyme, bay leaf, parsley)
 - 1 clove garlic
-- 500 ml water or light broth
-- Optional: 100 ml white wine
+- 500 mL water or light broth
+- Optional: 100 mL white wine
 
 ### Instructions
 

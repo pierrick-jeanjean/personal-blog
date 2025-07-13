@@ -12,7 +12,7 @@ tags: [08-august]
 - 1 clove garlic, finely minced
 - 30mL olive oil
 - 5g herbes de Provence
-- ½ cup water
+- 120 mL water
 - Salt and pepper to taste
 - Optional: 100 g lardons or 1 medium carrot (sliced)
 
