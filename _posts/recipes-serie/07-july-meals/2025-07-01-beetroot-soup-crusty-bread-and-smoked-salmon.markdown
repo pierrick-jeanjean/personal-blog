@@ -12,7 +12,7 @@ tags: [07-july]
 - 1 onion, chopped
 - 2 cloves garlic, minced
 - 15 mL olive oil
-- 1 L vegetable broth
+- 1000 mL vegetable broth
 - Salt and pepper to taste
 - 15 mL lemon juice
 - Dried aneth for garnish
