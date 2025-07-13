@@ -9,21 +9,21 @@ tags: [08-august]
 
 **For the celery stalk salad**:
 - 4–5 celery stalks, thinly sliced
-- 75g walnuts, roughly chopped
-- 30mL balsamic vinegar
-- 45mL olive oil
-- 5g Dijon mustard
+- 75 g walnuts, roughly chopped
+- 30 mL balsamic vinegar
+- 45 mL olive oil
+- 5 g Dijon mustard
 - Salt & pepper to taste
 
 **For the rustic country bread**:
 - 1 rustic country bread
 
 **For the mackerel spread**:
-- 175g canned mackerel (in white wine or oil), drained
-- 100g fresh cheese (like St Môret or cream cheese)
+- 175 g canned mackerel (in white wine or oil), drained
+- 100 g fresh cheese (like St Môret or cream cheese)
 - 1 small shallot, finely chopped
 - 5 cornichons, diced
-- 5mL lemon juice
+- 5 mL lemon juice
 - Black pepper to taste
 
 ### Instructions

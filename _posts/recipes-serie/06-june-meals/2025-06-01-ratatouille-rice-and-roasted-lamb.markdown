@@ -15,22 +15,22 @@ tags: [06-june]
 - 1.5 onions, diced
 - 3 tomatoes, diced
 - 5 cloves garlic, minced
-- 70mL olive oil
-- 10g dried thyme
-- 10g dried oregano
+- 70 mL olive oil
+- 10 g dried thyme
+- 10 g dried oregano
 - Salt and pepper to taste
 
 **For the rice**:
-- 300g long-grain rice
-- 700mL cups water
-- 5g salt
+- 300 g long-grain rice
+- 700 mL water
+- 5 g salt
 
 **For the roasted lamb**:
 - 6 lamb ribs  
-- 45mL olive oil
+- 45 mL olive oil
 - 5 cloves garlic, minced
-- 5g dried rosemary, chopped
-- 5g dried thyme, chopped
+- 5 g dried rosemary, chopped
+- 5 g dried thyme, chopped
 - Salt and pepper to taste
 
 ### Instructions

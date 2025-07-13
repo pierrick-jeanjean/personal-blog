@@ -11,17 +11,17 @@ tags: [07-july]
 - 3 medium beetroots, peeled and diced
 - 1 onion, chopped
 - 2 cloves garlic, minced
-- 15mL olive oil
-- 1L vegetable broth
+- 15 mL olive oil
+- 1 L vegetable broth
 - Salt and pepper to taste
-- 15mL lemon juice
+- 15 mL lemon juice
 - Dried aneth for garnish
 
 **For the crusty bread**:
 - 1 French baguette
 
 **For the smoked salmon**:
-- Smoked salmon (about 450g)
+- Smoked salmon (about 450 g)
 - Dried dill for garnish
 
 ### Instructions

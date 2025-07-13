@@ -8,25 +8,25 @@ tags: [07-july]
 #### Ingredients (for 3 persons)
 
 **For the swiss chards provencal style**:
-- 500g Swiss chard (leaves and stalks)
-- 2 ripe tomatoes (or 200g canned diced tomatoes)
+- 500 g Swiss chard (leaves and stalks)
+- 2 ripe tomatoes (or 200 g canned diced tomatoes)
 - 2 garlic cloves, minced
 - 1 small onion, chopped
-- 30mL olive oil
+- 30 mL olive oil
 - Salt, pepper, herbes de Provence (or thyme/basil)
 
 **For the polenta**:
-- 150g polenta (instant or regular)
-- 600ml water or chicken broth
-- 30g butter
-- 50g grated Parmesan (optional)
+- 150 g polenta (instant or regular)
+- 600 mL water or chicken broth
+- 30 g butter
+- 50 g grated Parmesan (optional)
 - Salt to taste
 
 **For the roasted chicken thighs**:
 - 3 chicken thighs
-- 30mL olive oil
-- 5g paprika
-- 5g dried thyme or rosemary
+- 30 mL olive oil
+- 5 g paprika
+- 5 g dried thyme or rosemary
 - Salt and pepper
 - 2 garlic cloves, crushed
 - Optional: lemon juice or zest

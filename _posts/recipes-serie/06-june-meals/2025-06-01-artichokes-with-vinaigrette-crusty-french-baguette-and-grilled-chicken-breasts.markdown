@@ -10,9 +10,9 @@ tags: [06-june]
 **For the artichokes with vinaigrette**:
 - 3 large artichokes
 - 1 lemon, halved
-- 60mL olive oil
-- 30mL red wine vinegar
-- 5g Dijon mustard
+- 60 mL olive oil
+- 30 mL red wine vinegar
+- 5 g Dijon mustard
 - 1 clove garlic, minced
 - Salt and pepper to taste
 - Fresh herbs (optional: parsley, chives)
@@ -22,7 +22,7 @@ tags: [06-june]
 
 **For the grilled chicken breasts**:
 - 3 chicken breasts
-- 30mL olive oil
+- 30 mL olive oil
 - Salt and pepper to taste
 - Optional: herbs and spices (e.g., thyme, rosemary, paprika)
 

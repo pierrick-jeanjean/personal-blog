@@ -10,20 +10,20 @@ tags: [06-june]
 **For the white asparagus with hollandaise**:
 - 15 spears of white asparagus
 - 3 egg yolks
-- 15mL lemon juice
-- 100g unsalted butter, melted
+- 15 mL lemon juice
+- 100 g unsalted butter, melted
 - Salt and pepper to taste
 
 **For the herb-roasted potatoes**:
-- 600g baby potatoes, halved
-- 30mL olive oil
-- 5g dried rosemary
-- 5g dried thyme
+- 600 g baby potatoes, halved
+- 30 mL olive oil
+- 5 g dried rosemary
+- 5 g dried thyme
 - Salt and pepper to taste
 
 **For the grilled salmons**:
-- 3 salmon fillets (about 150g each)
-- 30mL olive oil
+- 3 salmon fillets (about 150 g each)
+- 30 mL olive oil
 - 1 lemon, sliced
 - Salt and pepper to taste
 

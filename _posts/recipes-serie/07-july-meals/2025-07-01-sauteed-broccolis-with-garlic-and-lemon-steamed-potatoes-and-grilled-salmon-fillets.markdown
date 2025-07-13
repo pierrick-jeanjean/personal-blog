@@ -8,10 +8,10 @@ tags: [07-july]
 #### Ingredients (for 3 persons)
 
 **For the sautéed broccolis with garlic and lemon**:
-- 500g broccoli (cut into florets)
+- 500 g broccoli (cut into florets)
 - 3 garlic cloves (finely chopped)
 - Zest and juice of 1 lemon
-- 30mL olive oil
+- 30 mL olive oil
 - Salt and pepper to taste
 
 **For the steamed potatoes**:
@@ -21,7 +21,7 @@ tags: [07-july]
 
 **For the grilled salmon fillets**:
 - 3 salmon fillets (about 150–180 g each)
-- 15mL olive oil
+- 15 mL olive oil
 - Salt and pepper
 - Optional: a pinch of paprika or herbes de Provence
 - Lemon wedges for serving

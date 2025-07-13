@@ -8,24 +8,24 @@ tags: [07-july]
 #### Ingredients (for 3 persons)
 
 **For the honey glazed carrots**:
-- 450g carrots, peeled and cut into sticks
-- 40g honey
-- 30g butter
+- 450 g carrots, peeled and cut into sticks
+- 40 g honey
+- 30 g butter
 - Salt and pepper to taste
 
 **For the mashed potatoes**:
-- 600g potatoes, peeled and cut into chunks
-- 60ml milk
-- 30g butter
+- 600 g potatoes, peeled and cut into chunks
+- 60 mL milk
+- 30 g butter
 - Salt and pepper to taste
 
 **For the roasted chicken breasts**:
 - 3 boneless, skinless chicken breasts
-- 30mL olive oil
-- 5g garlic powder
-- 5g onion powder
-- 5g paprika
-- 5g dried thyme
+- 30 mL olive oil
+- 5 g garlic powder
+- 5 g onion powder
+- 5 g paprika
+- 5 g dried thyme
 - Salt and pepper to taste
 
 ### Instructions

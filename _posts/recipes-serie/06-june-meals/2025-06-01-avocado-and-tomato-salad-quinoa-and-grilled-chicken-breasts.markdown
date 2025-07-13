@@ -11,20 +11,20 @@ tags: [06-june]
 - 3 medium ripe tomatoes, diced
 - 2 large avocados, diced
 - 1/2 red onion, finely chopped
-- 45mL olive oil
-- 30mL lemon juice
+- 45 mL olive oil
+- 30 mL lemon juice
 - Salt and pepper to taste
 - dried basil or cilantro for garnish
 
 **For the quinoa**:
-- 180g quinoa
-- 475mL water
+- 180 g quinoa
+- 475 mL water
 - Salt to taste
 
 **For the grilled chicken breasts**:
 - 3 boneless, skinless chicken breasts
-- 45mL olive oil
-- 30mL lemon juice
+- 45 mL olive oil
+- 30 mL lemon juice
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - dried fresh herbs (optional)
