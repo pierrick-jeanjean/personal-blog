@@ -54,8 +54,8 @@ tags: [11-november]
 
 #### Calories (per serving)
 
-| **Calories** | 0 kcal |
+| **Calories** | 670 kcal |
 | ----------- | ----------- |
-| *Carbs* | 0g |
-| *Fat* | 0g |
-| *Protein* | 0g |
+| *Carbs* | 49g |
+| *Fat* | 32g |
+| *Protein* | 38g |

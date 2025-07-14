@@ -48,8 +48,8 @@ Plate a scoop of creamy polenta. Top with a roasted chicken thigh. Add a generou
 
 #### Calories (per serving)
 
-| **Calories** | 687 kcal |
+| **Calories** | 739 kcal |
 | ----------- | ----------- |
-| *Carbs* | 19.4g |
-| *Fat* | 52g |
-| *Protein* | 41.5g |
+| *Carbs* | 46g |
+| *Fat* | 46g |
+| *Protein* | 37g |

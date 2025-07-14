@@ -41,8 +41,8 @@ tags: [08-august]
 
 #### Calories (per serving)
 
-| **Calories** | 0 kcal |
+| **Calories** | 780 kcal |
 | ----------- | ----------- |
-| *Carbs* | 0g |
-| *Fat* | 0g |
-| *Protein* | 0g |
+| *Carbs* | 56g |
+| *Fat* | 48g |
+| *Protein* | 23g |

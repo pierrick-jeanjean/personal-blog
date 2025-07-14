@@ -42,8 +42,8 @@ Place the salmon diagonally off-center on the plate, pile up broccoli next to th
 
 #### Calories (per serving)
 
-| **Calories** | 609 kcal |
+| **Calories** | 650 kcal |
 | ----------- | ----------- |
-| *Carbs* | 55.3g |
-| *Fat* | 28.7g |
-| *Protein* | 36.2g |
+| *Carbs* | 46g |
+| *Fat* | 33g |
+| *Protein* | 44g |

@@ -44,8 +44,8 @@ tags: [12-december]
 
 #### Calories (per serving)
 
-| **Calories** | 0 kcal |
+| **Calories** | 790 kcal |
 | ----------- | ----------- |
-| *Carbs* | 0g |
-| *Fat* | 0g |
-| *Protein* | 0g |
+| *Carbs* | 44g |
+| *Fat* | 46g |
+| *Protein* | 36g |

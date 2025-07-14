@@ -52,8 +52,8 @@ On each plate, arrange 5 spears of white asparagus, a portion of herb-roasted po
 
 #### Calories (per serving)
 
-| **Calories** | 783 kcal |
+| **Calories** | 814 kcal |
 | ----------- | ----------- |
-| *Carbs* | 46.3g |
-| *Fat* | 53.9g |
-| *Protein* | 32.5g |
+| *Carbs* | 39g |
+| *Fat* | 55g |
+| *Protein* | 41g |

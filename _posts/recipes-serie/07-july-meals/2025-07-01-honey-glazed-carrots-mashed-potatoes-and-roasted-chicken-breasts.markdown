@@ -53,8 +53,8 @@ Arrange the mashed potatoes in the center of the plate, place the roast chicken 
 
 #### Calories (per serving)
 
-| **Calories** | 670 kcal |
+| **Calories** | 680 kcal |
 | ----------- | ----------- |
-| *Carbs* | 66.8g |
-| *Fat* | 23.1 |
-| *Protein* | 49.6g |
+| *Carbs* | 61g |
+| *Fat* | 30g |
+| *Protein* | 42g |

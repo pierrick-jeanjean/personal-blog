@@ -46,8 +46,8 @@ Serve the avocado and tomato Salad alongside the quinoa and grilled chicken.
 
 #### Calories (per serving)
 
-| **Calories** | 732 kcal |
+| **Calories** | 812 kcal |
 | ----------- | ----------- |
-| *Carbs* | 30.6g |
-| *Fat* | 47.8g |
-| *Protein* | 48.6g |
+| *Carbs* | 62g |
+| *Fat* | 45g |
+| *Protein* | 49g |

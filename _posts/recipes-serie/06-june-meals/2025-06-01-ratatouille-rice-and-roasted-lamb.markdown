@@ -53,8 +53,8 @@ Plate a portion of rice on each plate. Add a generous serving of Ratatouille on 
 
 #### Calories (per serving)
 
-| **Calories** | 880 kcal |
+| **Calories** | 1137 kcal |
 | ----------- | ----------- |
-| *Carbs* | 77g |
-| *Fat* | 49g |
-| *Protein* | 40g |
+| *Carbs* | 113g |
+| *Fat* | 63g |
+| *Protein* | 34g |

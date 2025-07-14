@@ -46,8 +46,8 @@ Serve the artichokes with vinaigrette, slices of crusty baguette, and grilled ch
 
 #### Calories (per serving)
 
-| **Calories** | 839 kcal |
+| **Calories** | 656 kcal |
 | ----------- | ----------- |
-| *Carbs* | 75.8g |
-| *Fat* | 35.5g |
-| *Protein* | 58g |
+| *Carbs* | 65g |
+| *Fat* | 23g |
+| *Protein* | 47g |

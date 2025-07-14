@@ -41,8 +41,8 @@ Ladle the beetroot soup into bowls, serve with slices of warm crusty bread on th
 
 #### Calories (per serving)
 
-| **Calories** | 688 kcal |
+| **Calories** | 602 kcal |
 | ----------- | ----------- |
-| *Carbs* | 76.1g |
-| *Fat* | 23g |
-| *Protein* | 48.6g |
+| *Carbs* | 62g |
+| *Fat* | 18g |
+| *Protein* | 42g |
