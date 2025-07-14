@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Braised red cabbage with apples, braised pork knuckle and spätzle
+title:  Braised red cabbage with apples, spätzle and braised pork knuckle
 categories: recipes
 tags: [09-september]
 ---
@@ -19,13 +19,13 @@ tags: [09-september]
 - Salt and pepper to taste
 - Optional: 50mL red wine or cider
 
-**For the buckweat crepe**:
+**For the spätzle**:
 - 250 g spätzle (dry or fresh)
 - 20 g butter
 - 1 small shallot, finely chopped
 - Optional: chopped parsley or grated Comté
 
-**For the grilled trout**:
+**For the braised pork knuckle**:
 - 1 large pork knuckle (approx. 900g), pre-cooked or smoked
 - 1 onion, quartered
 - 1 carrot, sliced

@@ -18,7 +18,7 @@ tags: [10-october]
 - 1 pinch sugar
 - Salt & pepper
 
-**For the roasted baby potatoes**:
+**For the butter-sautéed potatoes**:
 - 600 g potatoes (waxy variety like Charlotte)
 - 30 g butter
 - 15 mL olive oil
@@ -26,7 +26,7 @@ tags: [10-october]
 - Salt & pepper
 - Parsley (for garnish)
 
-**For the roasted duck breast**:
+**For the poached egg**:
 - 3 fresh eggs
 - 1 tsp white vinegar
 - Salt
