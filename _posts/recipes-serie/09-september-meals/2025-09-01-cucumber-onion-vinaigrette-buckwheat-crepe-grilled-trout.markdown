@@ -42,8 +42,8 @@ tags: [09-september]
 
 #### Calories (per serving)
 
-| **Calories** | 0 kcal |
+| **Calories** | 610 kcal |
 | ----------- | ----------- |
-| *Carbs* | 0g |
-| *Fat* | 0g |
-| *Protein* | 0g |
+| *Carbs* | 38g |
+| *Fat* | 28g |
+| *Protein* | 38g |

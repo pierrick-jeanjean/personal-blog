@@ -46,8 +46,8 @@ tags: [10-october]
 
 #### Calories (per serving)
 
-| **Calories** | 0 kcal |
+| **Calories** | 610 kcal |
 | ----------- | ----------- |
-| *Carbs* | 0g |
-| *Fat* | 0g |
-| *Protein* | 0g |
+| *Carbs* | 44g |
+| *Fat* | 28g |
+| *Protein* | 18g |

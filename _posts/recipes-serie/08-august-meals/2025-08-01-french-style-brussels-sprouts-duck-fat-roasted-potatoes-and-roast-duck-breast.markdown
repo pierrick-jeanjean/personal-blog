@@ -10,8 +10,8 @@ tags: [08-august]
 **For the French-style Brussels sprouts**:
 - 500 g Brussels sprouts
 - 1 clove garlic, finely minced
-- 30mL olive oil
-- 5g herbes de Provence
+- 30 mL olive oil
+- 5 g herbes de Provence
 - 120 mL water
 - Salt and pepper to taste
 - Optional: 100 g lardons or 1 medium carrot (sliced)
@@ -48,8 +48,8 @@ tags: [08-august]
 
 #### Calories (per serving)
 
-| **Calories** | 0 kcal |
+| **Calories** | 950 kcal |
 | ----------- | ----------- |
-| *Carbs* | 0g |
-| *Fat* | 0g |
-| *Protein* | 0g |
+| *Carbs* | 44g |
+| *Fat* | 66g |
+| *Protein* | 38g |
