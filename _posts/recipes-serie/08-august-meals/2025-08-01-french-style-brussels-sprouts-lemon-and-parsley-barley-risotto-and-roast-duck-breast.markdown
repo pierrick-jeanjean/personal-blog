@@ -2,7 +2,7 @@
 layout: post
 title:  French-style Brussels sprouts, lemon and parsley barley risotto and roast duck breast
 categories: recipes
-tags: [08-august, brussel-sprout, barley, duck]
+tags: [08-august]
 ---
 
 #### Ingredients (for 3 persons)

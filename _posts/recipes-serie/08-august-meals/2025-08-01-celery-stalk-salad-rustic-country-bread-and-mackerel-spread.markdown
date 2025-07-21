@@ -2,7 +2,7 @@
 layout: post
 title:  Celery stalk salad, rustic country bread and mackerel spread
 categories: recipes
-tags: [08-august, celery, bread, mackerel]
+tags: [08-august]
 ---
 
 #### Ingredients (for 3 persons)

@@ -2,7 +2,7 @@
 layout: post
 title:  Shredded white cabbage with vinaigrette, wheat couscous with olive oil and lemon and grilled sausage
 categories: recipes
-tags: [08-august, white-cabbage, wheat, pork]
+tags: [08-august]
 ---
 
 #### Ingredients (for 3 persons)

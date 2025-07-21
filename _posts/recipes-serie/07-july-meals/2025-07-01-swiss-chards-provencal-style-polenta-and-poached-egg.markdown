@@ -2,7 +2,7 @@
 layout: post
 title:  Swiss chards provencal style, polenta and poached egg
 categories: recipes
-tags: [07-july, swiss-chard, corn, egg]
+tags: [07-july]
 ---
 
 #### Ingredients (for 3 persons)

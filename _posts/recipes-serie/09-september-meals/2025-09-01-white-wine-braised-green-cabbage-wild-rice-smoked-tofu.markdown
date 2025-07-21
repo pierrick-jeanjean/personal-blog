@@ -2,7 +2,7 @@
 layout: post
 title:  White wine-braised green cabbage, wild rice and smoked tofu
 categories: recipes
-tags: [09-september, green-cabbage, rice, tofu]
+tags: [09-september]
 ---
 
 #### Ingredients (for 3 persons)

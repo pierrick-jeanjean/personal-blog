@@ -2,7 +2,7 @@
 layout: post
 title:  Sautéed broccolis with garlic and lemon, lemon-herb orzo and grilled salmon fillets
 categories: recipes
-tags: [07-july, broccoli, orzo, salmon]
+tags: [07-july]
 ---
 
 #### Ingredients (for 3 persons)

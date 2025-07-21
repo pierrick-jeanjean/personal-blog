@@ -2,7 +2,7 @@
 layout: post
 title:  Braised red cabbage with apples, spätzle and braised pork loin
 categories: recipes
-tags: [09-september, red-cabbage, spätzle, pork]
+tags: [09-september]
 ---
 
 #### Ingredients (for 3 persons)

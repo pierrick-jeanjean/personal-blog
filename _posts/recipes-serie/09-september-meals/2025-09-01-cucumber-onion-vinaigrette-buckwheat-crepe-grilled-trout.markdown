@@ -2,7 +2,7 @@
 layout: post
 title:  Cucumber and onion vinaigrette, buckwheat crepe and grilled trout
 categories: recipes
-tags: [09-september, cucumber, buckwheat, trout]
+tags: [09-september]
 ---
 
 #### Ingredients (for 3 persons)
