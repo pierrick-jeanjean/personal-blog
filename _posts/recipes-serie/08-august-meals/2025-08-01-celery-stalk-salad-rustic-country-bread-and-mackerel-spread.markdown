@@ -28,14 +28,26 @@ tags: [08-august]
 
 ### Instructions
 
-1. **Wash and slice** the celery into thin pieces.
-2. **Whisk together** vinegar, olive oil, mustard, salt, and pepper.*
-3. **Toss** celery, walnuts, and raisins in the vinaigrette.
-4. **Chill** for 15 minutes before serving
-5. **Mash** the mackerel with a fork.
-6. **Mix** in cheese, shallot, cornichons, lemon juice, and pepper.
-7. **Chill** for 30 minutes before serving.
+**Prepare the celery**: <br/>
+Wash thoroughly and slice it into thin, uniform pieces.
 
+**Make the vinaigrette**: <br/>
+Whisk together vinegar, olive oil, mustard, salt, and pepper until fully blended.
+
+**Combine ingredients for the salad**: <br/>
+Toss the sliced celery, chopped walnuts, and raisins in the vinaigrette.
+
+**Let the flavors meld**: <br/>
+Chill the salad in the refrigerator for 15 minutes before serving.
+
+**Prepare the mackerel**: <br/>
+Mash the mackerel with a fork until it reaches a smooth, spreadable texture.
+
+**Create the mackerel mixture**: <br/>
+Mix in cheese, finely chopped shallot, diced cornichons, lemon juice, and a dash of pepper.
+
+**Chill before serving**: <br/>
+Refrigerate the mackerel mixture for 30 minutes to enhance flavor and consistency
 
 #### Calories (per serving)
 
