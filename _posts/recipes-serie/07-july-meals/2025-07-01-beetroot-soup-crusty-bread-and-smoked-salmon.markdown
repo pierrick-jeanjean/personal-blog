@@ -2,7 +2,7 @@
 layout: post
 title:  Beetroot soup, crusty bread and smoked salmon
 categories: recipes
-tags: [07-july]
+tags: [07-july, beetroot, bread, salmon]
 ---
 
 #### Ingredients (for 3 persons)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Shredded white cabbage with vinaigrette, couscous with olive oil and lemon and grilled sausage
+title:  Shredded white cabbage with vinaigrette, wheat couscous with olive oil and lemon and grilled sausage
 categories: recipes
-tags: [08-august]
+tags: [08-august, white-cabbage, wheat, pork]
 ---
 
 #### Ingredients (for 3 persons)
@@ -15,7 +15,7 @@ tags: [08-august]
 - Salt and pepper to taste
 
 **For the couscous with olive oil and lemon**:
-- 150 g dry couscous (semoule de blé)
+- 150 g dry wheat couscous
 - 150 mL boiling vegetable broth or water
 - Zest and juice of 1 lemon
 - 15 mL extra virgin olive oil

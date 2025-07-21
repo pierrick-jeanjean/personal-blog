@@ -2,7 +2,7 @@
 layout: post
 title:  Grilled cauliflower steaks with chimichurri, rosemary-roasted potatoes and grilled ribeye steak
 categories: recipes
-tags: [08-august]
+tags: [08-august, cauliflower, potato, beef]
 ---
 
 #### Ingredients (for 3 persons)
