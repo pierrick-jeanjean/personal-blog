@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Swiss chards provencal style, polenta and roasted chicken thighs
+title:  Swiss chards provencal style, polenta and poached egg
 categories: recipes
 tags: [07-july]
 ---
@@ -22,14 +22,10 @@ tags: [07-july]
 - 50 g grated Parmesan (optional)
 - Salt to taste
 
-**For the roasted chicken thighs**:
-- 3 chicken thighs
-- 30 mL olive oil
-- 5 g paprika
-- 5 g dried thyme or rosemary
-- Salt and pepper
-- 2 garlic cloves, crushed
-- Optional: lemon juice or zest
+**For the poached egg**:
+- 3 fresh eggs
+- 1 tsp white vinegar
+- Salt
 
 ### Instructions
 
@@ -39,17 +35,17 @@ Wash and chop the chard (separate stalks and leaves). Blanch stalks for 5 min, t
 In a pan, sauté onion and garlic in olive oil. Add tomatoes and herbs, cook 5 min. Add chard, season, and simmer 10–15 min.
 3. **Cook the polenta**:
 Bring water/broth to a boil with a pinch of salt. Slowly whisk in polenta to avoid lumps. Cook, stirring, for 5–10 min (or as per package). Stir in butter and cheese until creamy.
-4. **Prepare the chicken**:
-Preheat oven to 200°C (400°F). Rub chicken with oil, spices, garlic, and herbs.
-5. **Roast the chicken**:
-Roast for 35–40 minutes until golden and cooked through. Optional: broil for 2–3 minutes for extra crispiness.
-6. **Putting it all together**
-Plate a scoop of creamy polenta. Top with a roasted chicken thigh. Add a generous spoonful of Blettes à la Provençale on the side. Garnish with fresh herbs or a lemon wedge.
+4. **Prep water**: 
+Bring a pot of water to a gentle simmer. Add vinegar.
+5. **Poach**: 
+Crack each egg into a small bowl. Create a whirlpool in the water and gently slide in the egg. Cook for 3 minutes.
+6. **Drain**: 
+Remove with a slotted spoon and place on paper towel. Trim any wispy edges if desired.
 
 #### Calories (per serving)
 
-| **Calories** | 739 kcal |
+| **Calories** | 405 kcal |
 | ----------- | ----------- |
-| *Carbs* | 46g |
-| *Fat* | 46g |
-| *Protein* | 37g |
+| *Carbs* | 23g |
+| *Fat* | 21 |
+| *Protein* | 28g |
