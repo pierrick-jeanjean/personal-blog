@@ -30,21 +30,28 @@ tags: [07-july]
 
 ### Instructions
 
-1. **Boil the carrots**: Boil the carrots in salted water until tender, about 5-7 minutes.
+**Boil the carrots**: <br/>
+Boil the carrots in salted water until tender, about 5-7 minutes.
 Drain the carrots and return them to the pan.
-2. **Cook the carrots**: Add the butter and honey, and cook over medium heat until the carrots are glazed, about 5 minutes.
+
+**Cook the carrots**: <br/>
+Add the butter and honey, and cook over medium heat until the carrots are glazed, about 5 minutes.
 Season with salt and pepper to taste
-3. **Boil the potatoes**:
+
+**Boil the potatoes**: <br/>
 Boil the potatoes in salted water until tender, about 15-20 minutes.
 Drain the potatoes and return them to the pot.
-4. **Mash the potatoes**:
+
+**Mash the potatoes**: <br/>
 Add the milk and butter, and mash until smooth.
 Season with salt and pepper to taste.
-4. **Prepare the chicken**:
+
+**Prepare the chicken**: <br/>
 Preheat your oven to 200°C (400°F).
 In a small bowl, mix the garlic powder, onion powder, paprika, dried thyme, salt, and pepper.
 Rub the chicken breasts with olive oil and then coat them evenly with the seasoning mixture.
-5. **Roast the chicken**:
+
+**Roast the chicken**: <br/>
 Place the chicken breasts on a baking sheet lined with parchment paper.
 Bake in the preheated oven for 20-25 minutes, or until the internal temperature reaches 75°C (165°F).
 Let the chicken rest for 5 minutes before serving.

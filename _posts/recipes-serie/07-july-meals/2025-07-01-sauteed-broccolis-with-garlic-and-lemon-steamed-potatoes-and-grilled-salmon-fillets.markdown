@@ -32,16 +32,22 @@ tags: [07-july]
 
 ### Instructions
 
-1. **Blanch the broccoli**: Steam or blanch the broccoli for 3–4 minutes until just tender but still bright green.
-2. **Sauté**:
+**Blanch the broccoli**: <br />
+Steam or blanch the broccoli for 3–4 minutes until just tender but still bright green.
+
+**Sauté**: <br/>
 In a large pan, heat olive oil over medium heat. Add garlic and sauté until golden. Add broccoli, lemon zest, and juice. Toss well to coat. Season with salt and pepper. Sauté for 2–3 more minutes. Serve warm.
-3. **Cook the orzo**:
+
+**Cook the orzo**: <br/>
 in salted boiling water until al dente (about 8–10 minutes). Drain and rinse briefly to cool slightly
-4. **Prepare the dressing**:
+
+**Prepare the dressing**: <br/>
 In a small bowl, whisk together olive oil, lemon juice, lemon zest, salt, and pepper. Toss the orzo with the prepared dressing
-5. **Prepare the salmon**:
+
+**Prepare the salmon**: <br/>
 Preheat a grill or grill pan over medium-high heat. Brush salmon with olive oil and season with salt, pepper, and optional herbs.
-6. **Grill the salmon**:
+
+**Grill the salmon**: <br/>
 Grill skin-side down for 4–5 minutes, then flip and cook another 3–4 minutes until just cooked through. Serve with lemon wedges.
 
 #### Calories (per serving)

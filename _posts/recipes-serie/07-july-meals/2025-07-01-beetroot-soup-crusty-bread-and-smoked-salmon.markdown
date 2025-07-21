@@ -26,15 +26,20 @@ tags: [07-july]
 
 ### Instructions
 
-1. **Sauté the onion/garlic and add beetroots**: Heat the olive oil in a large pot over medium heat. Add the onion and garlic, and sauté until softened.Add the diced beetroots and cook for a few minutes.
-2. **Simmer**:
+**Sauté the onion/garlic and add beetroots**: <br/>
+Heat the olive oil in a large pot over medium heat. Add the onion and garlic, and sauté until softened. Add the diced beetroots and cook for a few minutes.
+
+**Simmer**: <br/>
 Pour in the vegetable broth and bring to a boil. Reduce heat and simmer for about 30 minutes, until the beetroots are tender.
-3. **Blend**:
+
+**Blend**: <br/>
 Blend the soup until smooth using an immersion blender or in batches in a regular blender.
 Season with salt, pepper, and lemon juice. Garnish with dried dill before serving
-4. **Prepare the bread**:
+
+**Prepare the bread**: <br/>
 Preheat the oven to 350°F (175°C). Place the bread in the oven for about 10 minutes to warm it up and make it crispy.
-5. **Prepare the smoked salmon**:
+
+**Prepare the smoked salmon**: <br/>
 Arrange the smoked salmon on a serving platter. Garnish with dried dill.
 
 #### Calories (per serving)

@@ -29,17 +29,22 @@ tags: [07-july]
 
 ### Instructions
 
-1. **Blanch chards**:
+**Blanch chards**: <br/>
 Wash and chop the chard (separate stalks and leaves). Blanch stalks for 5 min, then add leaves for 2 min. Drain.
-2. **Sauté**:
+
+**Sauté**: <br/>
 In a pan, sauté onion and garlic in olive oil. Add tomatoes and herbs, cook 5 min. Add chard, season, and simmer 10–15 min.
-3. **Cook the polenta**:
+
+**Cook the polenta**: <br/>
 Bring water/broth to a boil with a pinch of salt. Slowly whisk in polenta to avoid lumps. Cook, stirring, for 5–10 min (or as per package). Stir in butter and cheese until creamy.
-4. **Prep water**: 
+
+**Prep water**: <br/>
 Bring a pot of water to a gentle simmer. Add vinegar.
-5. **Poach**: 
+
+**Poach**: <br/>
 Crack each egg into a small bowl. Create a whirlpool in the water and gently slide in the egg. Cook for 3 minutes.
-6. **Drain**: 
+
+**Drain**: <br/>
 Remove with a slotted spoon and place on paper towel. Trim any wispy edges if desired.
 
 #### Calories (per serving)
