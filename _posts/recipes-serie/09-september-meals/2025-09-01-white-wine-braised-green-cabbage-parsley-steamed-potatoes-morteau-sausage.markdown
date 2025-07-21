@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  White wine-braised cabbage, parsley steamed potatoes and Morteau sausage
+title:  White wine-braised green cabbage, parsley steamed potatoes and Morteau sausage
 categories: recipes
-tags: [09-september]
+tags: [09-september, green-cabbage, potato, pork]
 ---
 
 #### Ingredients (for 3 persons)

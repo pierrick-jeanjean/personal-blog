@@ -2,7 +2,7 @@
 layout: post
 title:  Pumpkin purée, steamed potatoes and duck leg confit
 categories: recipes
-tags: [09-september]
+tags: [09-september, pumpkin, potato, duck]
 ---
 
 #### Ingredients (for 3 persons)
