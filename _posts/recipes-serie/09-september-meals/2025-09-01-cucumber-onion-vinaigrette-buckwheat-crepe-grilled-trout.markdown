@@ -29,21 +29,40 @@ tags: [09-september, cucumber, buckwheat, trout]
 
 ### Instructions
 
-- **Combine** cucumber and onion slices in a bowl.
-- **Whisk** in a separate bowl vinegar, mustard (if using), olive oil, salt, and pepper.
-- **Pour over** the vegetables and toss gently.
-- **Let sit** for 15 minutes to allow flavors to meld
-- **Preheat** a grill pan or barbecue to medium heat.
-- **Brush** trout fillets with olive oil, season with salt, pepper, and lemon juice.
-- **Grill** skin-side down for 3–4 minutes, then flip and cook another 2–3 minutes.
-- **Sprinkle** with fresh herbs just before serving.
-- **Warm** each galette in a dry pan over medium heat for 1–2 minutes per side.
-- **Optionally**, brush lightly with butter for added flavor and crispness
+**Prepare the vegetable base**: <br/>
+Combine thinly sliced cucumber and onion in a mixing bowl.
+
+**Make the vinaigrette dressing**: <br/>
+In a separate bowl, whisk together vinegar, mustard (if using), olive oil, salt, and pepper until emulsified.
+
+**Dress the vegetables**: <br/>
+Pour the vinaigrette over the cucumber and onion mixture and toss gently to coat.
+
+**Let the salad marinate**: <br/>
+Allow it to sit for 15 minutes so the flavors can meld and the texture softens slightly.
+
+**Heat the grill for the fish**: <br/>
+Preheat a grill pan or barbecue to medium heat for even cooking.
+
+**Prep and season the trout fillets**: <br/>
+Brush with olive oil and sprinkle with salt, pepper, and a squeeze of lemon juice for brightness.
+
+**Grill the trout fillets**: <br/>
+Place skin-side down and cook for 3–4 minutes, then flip and cook another 2–3 minutes until done.
+
+**Add a herbaceous finish**: <br/>
+Sprinkle fresh herbs over the trout just before serving to enhance aroma and flavor.
+
+**Warm the galettes for serving**: <br/>
+Heat each one in a dry pan over medium heat for 1–2 minutes on each side.
+
+**Optional flavor upgrade**: <br/>
+Brush the galettes lightly with butter while warming for added richness and crispness.
 
 #### Calories (per serving)
 
-| **Calories** | 610 kcal |
+| **Calories** | 520 kcal |
 | ----------- | ----------- |
-| *Carbs* | 38g |
-| *Fat* | 28g |
-| *Protein* | 38g |
+| *Carbs* | 18g |
+| *Fat* | 31g |
+| *Protein* | 41g |

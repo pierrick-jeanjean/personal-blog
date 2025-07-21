@@ -9,8 +9,8 @@ tags: [09-september, pumpkin, potato, duck]
 
 **For the pumpkin purée**:
 - 750 g potiron (peeled and cubed)
-- 30 g butter
-- 100 mL milk or crème fraîche
+- 15 mL olive oil
+- 150 mL semi-skimmed milk or crème fraîche
 - Salt, pepper, nutmeg
 - Optional: 1 sprig of thyme for steaming
 
@@ -25,21 +25,40 @@ tags: [09-september, pumpkin, potato, duck]
 
 ### Instructions
 
-- **Steam** the pumpkin cubes with thyme for about 30 minutes until tender.
-- **Remove** thyme and mash the pumpkin with a presse-purée.
-- **Stir** in butter, milk or crème, salt, pepper, and a pinch of nutmeg.
-- **Reheat** gently before serving.
-- **Steam** the potatoes for 20–25 minutes until fork-tender.
-- **Season** with salt and drizzle with melted butter or a spoonful of duck fat from the confit
-- **Preheat** oven to 180°C.
-- **Place** duck legs skin-side up in a baking dish with garlic and thyme.
-- **Roast** for 20–25 minutes until the skin is crisp and golden.
-- **Spoon off** excess fat and serve hot
+**Steam the pumpkin with herbs**: <br/>
+Cook cubed pumpkin with thyme for about 30 minutes until fork-tender and aromatic.
+
+**Mash the pumpkin base**: <br/>
+Discard the thyme and mash the pumpkin using a presse-purée until smooth.
+
+**Enrich the purée**: <br/>
+Stir in butter, milk or crème, salt, pepper, and a pinch of nutmeg for creaminess and warmth.
+
+**Gently reheat for serving**: <br/>
+Warm the purée slowly over low heat to bring it to ideal serving temperature.
+
+**Steam the potatoes until tender**: <br/>
+Cook whole or halved potatoes for 20–25 minutes until easily pierced with a fork.
+
+**Finish with flavor**: <br/>
+Season the potatoes with salt and drizzle with melted butter or duck fat from the confit.
+
+**Preheat the oven for the duck legs**: <br/>
+Set it to 180°C to ensure the skin crisps while the meat remains succulent.
+
+**Prepare duck legs for roasting**: <br/>
+Place skin-side up in a baking dish with garlic and sprigs of thyme.
+
+**Roast the duck confit**: <br/>
+Bake for 20–25 minutes until the skin is golden, crackling, and irresistible.
+
+**Remove excess fat and serve hot**: <br/>
+Spoon off any surplus fat and plate immediately for a rich, comforting dish
 
 #### Calories (per serving)
 
-| **Calories** | 720 kcal |
+| **Calories** | 510 kcal |
 | ----------- | ----------- |
-| *Carbs* | 44g |
-| *Fat* | 38g |
-| *Protein* | 38g |
+| *Carbs* | 40g |
+| *Fat* | 25g |
+| *Protein* | 35g |
