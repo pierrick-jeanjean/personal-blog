@@ -11,7 +11,7 @@ tags: [07-july]
 - 3 medium beetroots, peeled and diced
 - 1 onion, chopped
 - 2 cloves garlic, minced
-- 15 mL olive oil
+- 10 mL olive oil
 - 1000 mL vegetable broth
 - Salt and pepper to taste
 - 15 mL lemon juice
@@ -21,7 +21,7 @@ tags: [07-july]
 - 1 French baguette
 
 **For the smoked salmon**:
-- Smoked salmon (about 450 g)
+- 300 g smoked salmon
 - Dried dill for garnish
 
 ### Instructions
@@ -36,13 +36,11 @@ Season with salt, pepper, and lemon juice. Garnish with dried dill before servin
 Preheat the oven to 350°F (175°C). Place the bread in the oven for about 10 minutes to warm it up and make it crispy.
 5. **Prepare the smoked salmon**:
 Arrange the smoked salmon on a serving platter. Garnish with dried dill.
-6. **Putting it all together**
-Ladle the beetroot soup into bowls, serve with slices of warm crusty bread on the side, and enjoy the smoked salmon as a delicious protein addition
 
 #### Calories (per serving)
 
-| **Calories** | 602 kcal |
+| **Calories** | 525 kcal |
 | ----------- | ----------- |
-| *Carbs* | 62g |
-| *Fat* | 18g |
-| *Protein* | 42g |
+| *Carbs* | 75.2g |
+| *Fat* | 10.4g |
+| *Protein* | 33.3g |
