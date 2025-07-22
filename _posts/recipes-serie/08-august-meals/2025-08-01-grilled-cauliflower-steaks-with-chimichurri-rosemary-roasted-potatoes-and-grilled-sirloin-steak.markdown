@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Grilled cauliflower steaks with chimichurri, rosemary-roasted potatoes and grilled ribeye steak
+title:  Grilled cauliflower steaks with chimichurri, rosemary-roasted potatoes and grilled sirloin steak
 categories: recipes
 tags: [08-august]
 ---
@@ -28,7 +28,7 @@ tags: [08-august]
 - 2 sprigs fresh rosemary
 - Salt & pepper
 
-**For the grilled ribeye steak**:
+**For the grilled sirloin steak**:
 - 3 sirloin steaks (~100 g each)
 - Salt flower & cracked pepper
 - 5 mL olive oil
