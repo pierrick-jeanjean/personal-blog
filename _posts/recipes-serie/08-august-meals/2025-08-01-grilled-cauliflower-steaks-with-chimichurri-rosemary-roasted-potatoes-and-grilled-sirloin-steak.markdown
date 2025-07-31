@@ -10,7 +10,7 @@ tags: [08-august]
 **For the grilled cauliflower steaks with chimichurri**:
 - 1 large cauliflower head (yields 3 steaks + florets)
 - 10 mL olive oil
-- Salt & pepper
+- Salt and pepper
 - Optional: pinch of smoked paprika
 - 15 g parsley (finely chopped)
 - 1 garlic clove (minced)
