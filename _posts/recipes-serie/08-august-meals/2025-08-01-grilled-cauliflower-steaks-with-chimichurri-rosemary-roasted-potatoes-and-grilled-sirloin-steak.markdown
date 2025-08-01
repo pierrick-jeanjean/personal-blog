@@ -38,7 +38,7 @@ tags: [08-august]
 ### Instructions
 
 **Prep the cauliflower into steaks**: <br/>
-Remove leaves and trim the stem, then slice into three thick steaks (1.5–2 cm). Save any loose florets for later use.
+Remove leaves and trim the stem, then slice into three thick steaks (1.5–2 cm). Save any loose florets for later use
 
 **Season the cauliflower**: <br/>
 Brush both sides with olive oil and sprinkle with salt, pepper, and paprika for flavor.
