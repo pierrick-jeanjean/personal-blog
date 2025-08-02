@@ -11,24 +11,24 @@ tags: [10-october]
 - 375 g endives (about 3 medium)
 - 2 small leeks (white part only)
 - 225 g potatoes (floury variety)
-- 900 ml skimmed milk
-- 75 ml crème fraîche
-- 15 g butter
+- 900 ml semi-skimmed milk
+- 50 ml crème fraîche
+- 5 g butter
 - 3 g curry powder (optional)
 - 1 pinch sugar
 - Salt & pepper
 
 **For the butter-sautéed potatoes**:
-- 600 g potatoes (waxy variety like Charlotte)
-- 15 mL olive oil
+- 450 g potatoes (waxy variety like Charlotte)
+- 5 mL olive oil
 - 1 garlic clove (optional)
 - Salt & pepper
 - Parsley (for garnish)
 
-**For the poached egg**:
-- 6 large eggs
-- 20 g butter
-- Salt & pepper to taste
+**For the scrambled egg**:
+- 3 large eggs
+- 10 g butter
+- Salt to taste
 
 ### Instructions
 
@@ -53,21 +53,19 @@ Heat oil and butter in a heavy pan and cook the cubes over medium heat for about
 **Finish the potatoes with flavor**: <br/>
 Add minced garlic during the final 2 minutes of cooking. Season with salt and pepper, then sprinkle with fresh chopped parsley.
 
-**Prep the poaching liquid**: <br/>
-Bring water to a gentle simmer in a pot and add a splash of vinegar to help the eggs hold their shape.
+**Whisk the eggs to a silky consistency**: <br/>
+Beat them in a bowl until smooth and evenly combined, with no streaks of white or yolk.
 
-**Poach the eggs gently**: <br/>
-Crack each egg into a small bowl, swirl the water into a whirlpool, and slide in the egg. Cook for about 
-3 minutes until just set.
+**Melt butter to prep the pan**: <br/>
+Use a nonstick skillet over medium-low heat, letting the butter coat the surface gently.
 
-**Drain and clean the poached eggs**: <br/>
-Lift each egg out with a slotted spoon, place on paper towel, and trim any wispy edges for a polished presentation.
-
+**Cook the eggs slowly and gently**: <br/>
+Pour in the whisked eggs and stir with a spatula until softly set—delicate, creamy curds are the goal.
 
 #### Calories (per serving)
 
-| **Calories** | 540 kcal |
+| **Calories** | 510 kcal |
 | ----------- | ----------- |
-| *Carbs* | 45.5g |
-| *Fat* | 26g |
-| *Protein* | 21g |
+| *Carbs* | 46 g |
+| *Fat* | 24 g |
+| *Protein* | 22 g |
