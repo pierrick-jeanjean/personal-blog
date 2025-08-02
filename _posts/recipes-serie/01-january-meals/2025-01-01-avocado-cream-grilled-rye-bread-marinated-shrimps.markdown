@@ -31,21 +31,43 @@ tags: [01-january]
 
 ### Instructions
 
-- **Peel** and pit the avocados, then cut into chunks.
-- In a blender, **combine** avocado, crème entière, fromage frais, lime juice, paprika, salt, and pepper.
-- **Blend** until smooth and creamy.
-- **Chill** for 30 minutes. Serve in verrines or small bowls, garnished with chopped basil.
-- Lightly **brush** bread slices with olive oil or butter.
-- **Grill** or toast until crisp and golden.
-- **Cut** into triangles or serve whole alongside the crème and shrimp.
-- In a bowl, **mix** olive oil, lemon juice, garlic, parsley, salt, pepper, and chili (if using).
-- **Add** shrimp and toss to coat. Cover and marinate in the fridge for 30–60 minutes.
-- **Sauté** in a hot pan for 2–3 minutes per side until pink and lightly golden. Serve warm or chilled.
+**Prepare the avocado base**: <br/>
+Peel and pit the avocados, then cut into rough chunks for easy blending.
+
+**Blend until creamy and smooth**: <br/>
+In a blender, combine avocado, crème entière, fromage frais, lime juice, paprika, salt, and pepper. Blitz until velvety.
+
+**Chill for optimal texture**: <br/>
+Transfer to verrines or small bowls. Refrigerate for 30 minutes to firm up and allow flavors to meld.
+
+**Garnish with basil and serve**: <br/>
+Top each portion with chopped fresh basil for a herbal lift. Serve chilled alongside crisped bread and shrimp.
+
+**Brush the bread slices**: <br/>
+Lightly coat with olive oil or softened butter—just enough for golden color.
+
+**Toast or grill until crisp**: <br/>
+Cook until golden and lightly crunchy, either under a grill or in a dry pan.
+
+**Cut and serve as accompaniment**: <br/>
+Slice into triangles or serve whole beside the avocado crème and shrimp, ideal for scooping or layering.
+
+**Prepare the shrimp marinade**: <br/>
+In a mixing bowl, combine olive oil, lemon juice, minced garlic, chopped parsley, salt, pepper, and chili (if using).
+
+**Marinate the shrimp**: <br/>
+Add raw peeled shrimp and toss until evenly coated. Cover and refrigerate for 30–60 minutes to absorb flavors.
+
+**Sauté quickly for perfect texture**: <br/>
+Heat a pan until hot. Sear shrimp for 2–3 minutes per side until pink and slightly golden.
+
+**Serve warm or chilled**: <br/>
+Shrimp can be plated warm for contrast or chilled for a refreshing note with the avocado crème.
 
 #### Calories (per serving)
 
-| **Calories** | 480 kcal |
+| **Calories** | 590 kcal |
 | ----------- | ----------- |
 | *Carbs*     | 38 g        |
-| *Fat*       | 28 g        |
-| *Protein*   | 22 g        |
+| *Fat*       | 37 g        |
+| *Protein*   | 26 g        |
