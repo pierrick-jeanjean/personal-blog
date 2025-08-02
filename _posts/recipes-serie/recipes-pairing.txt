@@ -1,0 +1,135 @@
+July, August, September, October, November, December, January
+
+=== VEGETABLES ===
+- Avocado
+  - cream
+- Beetroot
+  - soup
+- Broccoli
+  - sautéed with garlic and lemon
+- Brussels sprout
+  - balsamic glaze
+  - French style
+- Cabbage (green)
+  - white wine braised
+- Cabbage (red)
+  - braised with apple
+- Cabbage (white)
+  - shredded with vinaigrette
+- Carrot
+  - honey glazed
+  - Vichy
+- Cauliflower
+  - grilled steak with chimichurri
+- Celery
+  - stalk salad
+- Celeriac
+  - herb roasted
+  - purée
+- Cucumber
+  - and onion vinaigrette
+- Endive
+  - creamy and with leek soup
+- Fennel
+  - roasted
+- Jerusalem artichoke
+  - soup
+- Leek
+  - fondue
+- Lentil
+  - ragout
+- Parsnip
+  - purée
+- Pumpkin
+  - purée
+- Salsify
+  - sautéed in tomato sauce
+- Spinach
+  - sautéed and with mushrooms
+- Squash
+  - herb roasted
+- Swiss chard
+  - provencal style
+- Turnip
+  - roasted with herbs
+
+=== STARCHY FOODS ===
+- Baby potato 
+    – roasted
+    - crushed with shallot vinaigrette
+- Barley 
+  – lemon & parsley risotto
+- Bread
+  - [x] Duplicate: listed 4 times
+- Buckwheat 
+  – crepe
+- Farro
+  - lemon zest and thyme
+- Freekeh
+  - pilaf
+- Orzo 
+  – lemon-herb
+- Polenta
+  - Creamy with butter & cheese
+  - Plain
+- Potato
+  - Butter-sautéed
+  - Galette
+  - Gnocchi
+  - Gratin Dauphinois
+  - Mashed
+  - Rosemary roasted
+  - Steamed
+- Rice
+  - Herbed pilaf
+  - Wild
+- Semolina
+  - cake with parmesan and thyme
+- Spätzle
+- Sweet potato
+  - purée
+- Wheat
+  – couscous with olive oil & lemon
+
+=== PROTEIN SOURCES ===
+- Beef
+  - Roasted tenderloin
+  - Sirloin steak
+- Chicken
+  - Roasted breast
+  - Roasted breast with lemon
+- Cod
+  - roasted fillet with cherry tomatoes and lemon
+  - pan-seared
+- Duck
+  - Leg confit
+  - Roasted breast
+- Egg
+  - Poached
+  - Poached with red white wine shallot reduction
+  - Scrambled
+- Halloumi
+  - grilled
+  - grilled with rosemary and lemon oil
+- Lamb
+  - Grilled chops
+- Mackerel 
+  – spread
+- Pork
+  - Braised belly
+  - Braised loin
+  - Grilled sausage
+  - Savoyard sausage in white wine
+  - Smoked ham with maple spice glaze
+- Salmon
+  - Grilled fillet
+  - Smoked
+- Shrimps
+  - grilled
+- Tofu 
+  – smoked
+- Tomme de brebis
+  - baked with thyme and honey
+- Trout 
+  – grilled
+  - smoked rillettes
