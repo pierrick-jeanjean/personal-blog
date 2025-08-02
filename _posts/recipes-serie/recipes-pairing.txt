@@ -51,6 +51,8 @@ July, August, September, October, November, December, January
   - fondue
 - Lentil
   - ragout
+- onion
+  - gratinated soup
 - Parsnip
   - purée
 - Pumpkin
@@ -73,7 +75,7 @@ July, August, September, October, November, December, January
 - Barley 
   – lemon & parsley risotto
 - Bread
-  - [x] Duplicate: listed 4 times
+  - [x] Duplicate: listed 5 times
 - Buckwheat 
   – crepe
 - Farro
@@ -132,6 +134,7 @@ July, August, September, October, November, December, January
   - Braised belly
   - Braised loin
   - Grilled sausage
+  - Dry ham
   - Savoyard sausage in white wine
   - Smoked ham with maple spice glaze
 - Salmon
