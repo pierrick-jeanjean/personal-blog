@@ -1,6 +1,6 @@
 Prompt for finding meals
 Can you give me a list of <vegetable>-based sides that we usually eat in France in <month> ?
-Can you give me the most popular pairing for (see answer above) ?
+Can you give me the most popular pairing (starchy and protein) for (see answer above) ?
 
 Prompt to format the recipe like the others
 Format recipe steps with an action-based header followed by a colon, then a full sentence detailing the step in question
