@@ -1,3 +1,16 @@
+Prompt for finding meals
+Can you give me a list of <vegetable>-based sides that we usually eat in France in <month> ?
+Can you give me the most popular pairing for (see answer above) ?
+
+Prompt to format the recipe like the others
+Format recipe steps with an action-based header followed by a colon, then a full sentence detailing the step in question
+
+Prompt to calculate calories and macros and to adjust it
+calculate calories and macros of this recipe for 3 persons
+adapt it to be between 400 and 600 kcals while maximizing protein and minimizing fat if possible
+
+================================================================
+
 July, August, September, October, November, December, January
 
 === VEGETABLES ===
