@@ -32,20 +32,29 @@ tags: [11-november]
 
 **Boil root vegetables until tender**: <br/>
 Cook parsnips, potatoes, and garlic in salted water for about 20 minutes, until easily pierced.
+
 **Blend for a silky mash**: <br/>
 Drain and mash with butter and warm milk until smooth. Season with salt, pepper, and nutmeg. Keep warm.
+
 **Prepare gnocchi dough from boiled potatoes**: <br/>
 Boil whole potatoes in their skin. Peel and mash while still hot to retain texture.
+
 **Incorporate flour and egg yolk**: <br/>
 Mix with flour, egg yolk, and a pinch of salt. Knead briefly into a smooth, pliable dough.
+
 **Shape into classic gnocchi**: <br/>
 Roll into ropes, slice into 2 cm pieces, and use a fork to mark ridges if desired.
+
 **Boil and finish in butter**: <br/>
-Cook the gnocchi in salted water until they rise (2–3 minutes). Drain and sauté in butter until golden and crisp.
+Cook the gnocchi in salted water until they rise (2–3 minutes). Drain and sauté in butter until 
+golden and crisp.
+
 **Marinate lamb chops for depth**: <br/>
 Rub with garlic, rosemary, olive oil, salt, and pepper. Let sit for at least 30 minutes to infuse.
+
 **Sear or grill to perfection**: <br/>
 Cook the chops in a hot pan or on the grill for 3–4 minutes per side for medium-rare.
+
 **Let the meat rest before serving**: <br/>
 Allow chops to rest for 5 minutes to keep juices locked in.
 

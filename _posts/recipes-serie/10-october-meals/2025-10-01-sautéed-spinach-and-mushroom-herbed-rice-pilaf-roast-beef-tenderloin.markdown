@@ -38,32 +38,46 @@ tags: [10-october]
 
 **Start with a fragrant mushroom-spinach sauté**: <br/>
 Sauté shallot and garlic in butter and oil until soft and translucent.
+
 **Give the mushrooms some golden character**: <br/>
 Add them to the pan and cook until browned and moisture has evaporated.
+
 **Deglaze the pan for depth**: <br/>
 Splash in white wine (optional) and reduce slightly to concentrate flavors.
+
 **Finish with fresh spinach and warm spice**: <br/>
 Stir in spinach until wilted, and season with salt, pepper, and nutmeg.
+
 **Keep warm until ready to serve**: <br/>
 This savory side pairs beautifully with rice or filet.
+
 **Begin the rice with a herby foundation**: <br/>
 Heat oil and sauté onion, garlic, thyme, salt, and pepper for 3 minutes.
+
 **Stir in the rice until coated and glossy**: <br/>
 Then pour in broth and bring to a boil for full absorption.
+
 **Simmer low and slow**: <br/>
 Cover and cook on low for 15 minutes so flavors infuse deeply.
+
 **Add vibrant crunch**: <br/>
 Toss in diced bell pepper, cover, and cook 7–9 more minutes until rice is tender.
+
 **Brighten with fresh parsley**: <br/>
 Uncover and stir in chopped parsley, letting it rest 5 minutes before serving.
+
 **Prep your filet for a perfect roast**: <br/>
 Let it sit at room temp for 30 minutes to ensure even cooking.
+
 **Crank the oven to 200°C**: <br/>
 Get your pan blazing hot for a beautiful sear.
+
 **Sear with aromatics until deeply browned**: <br/>
 Use oil, garlic, and herbs to crisp the exterior and seal in juices.
+
 **Transfer to the oven and season boldly**: <br/>
 Place in a dish and roast 20–25 minutes for medium-rare perfection.
+
 **Let it rest under foil**: <br/>
 This 10-minute pause locks in moisture before slicing.
 

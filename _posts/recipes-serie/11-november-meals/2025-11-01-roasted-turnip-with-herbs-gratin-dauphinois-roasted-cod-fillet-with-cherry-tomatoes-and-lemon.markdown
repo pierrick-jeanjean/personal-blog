@@ -36,22 +36,32 @@ tags: [11-november]
 
 **Preheat the oven for roasting the vegetables**: <br/>
 Set it to 180°C (350°F) to begin preparation for the turnips, potatoes, and cod.
+
 **Season and prepare the turnips**: <br/>
 Peel and quarter the turnips, then toss with olive oil, honey, herbs, paprika, salt, and pepper.
+
 **Roast the turnips until golden**: <br/>
 Spread on a baking sheet and cook for 35–40 minutes, turning halfway for even browning.
+
 **Finish turnips with fresh herbs**: <br/>
 Sprinkle with chopped parsley just before serving to brighten the flavor.
+
 **Slice and season the potatoes**: <br/>
 Peel them thinly, rub a baking dish with garlic, then butter it thoroughly.
+
 **Layer and dress with cream**: <br/>
-Arrange the potato slices in layers, seasoning each one. Mix cream, milk, nutmeg, salt, and pepper, then pour over.
+Arrange the potato slices in layers, seasoning each one. Mix cream, milk, nutmeg, salt, and pepper, 
+then pour over.
+
 **Bake the gratin until tender and golden**: <br/>
 Cook in the oven for 1 hour to 1 hour 15 minutes until richly browned and easily pierced.
+
 **Prepare tomatoes and cod for roasting**: <br/>
 Place cherry tomatoes in a baking dish with garlic, thyme, olive oil, salt, and pepper.
+
 **Top with cod and citrus**: <br/>
 Lay fillets over the tomatoes and drizzle with lemon juice and zest to add brightness.
+
 **Bake until the fish flakes easily**: <br/>
 Roast for 15–20 minutes until the cod is opaque and cooked through.
 

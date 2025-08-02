@@ -40,24 +40,36 @@ tags: [12-december]
 
 **Prepare the leeks for the base**: <br/>
 Slice lengthwise, rinse thoroughly to remove grit, then cut into thin half-moons for even cooking.
+
 **Sauté gently until softened**: <br/>
-Melt butter over low heat in a sauté pan, add the leeks (and optional shallot), stir, cover, and cook for 25 minutes, stirring occasionally.
+Melt butter over low heat in a sauté pan, add the leeks (and optional shallot), stir, cover, and 
+cook for 25 minutes, stirring occasionally.
+
 **Finish with brightness and cream**: <br/>
-Add lemon juice, mustard, and crème fraîche. Season with salt and pepper, then cook uncovered for 5–10 minutes until creamy and tender.
+Add lemon juice, mustard, and crème fraîche. Season with salt and pepper, then cook uncovered for 
+5–10 minutes until creamy and tender.
+
 **Boil potatoes until tender**: <br/>
 Simmer in salted water for 15–20 minutes, then drain and let steam-dry briefly to remove excess moisture.
+
 **Crush and roast to golden perfection**: <br/>
 Preheat oven to 200°C (390°F), place potatoes on a tray, gently crush with a fork, drizzle with olive oil, season, and roast for 20–25 minutes.
+
 **Prepare a zingy vinaigrette**: <br/>
 Whisk together olive oil, vinegar or lemon juice, mustard, finely minced shallot, parsley, and optional citrus zest. Season to taste.
+
 **Dress the potatoes for serving**: <br/>
 Spoon vinaigrette over the warm roasted potatoes or serve it on the side for composed plating.
+
 **Season the cod fillets**: <br/>
 Pat dry and season both sides with salt and pepper to enhance the fish's natural flavor.
+
 **Sear the cod until golden**: <br/>
 Heat olive oil in a nonstick pan over medium-high heat. Add cod skin-side down (or presentation side) and cook for 3–4 minutes.
+
 **Baste with garlic butter for richness**: <br/>
 Flip the fillets, add butter and garlic to the pan, and spoon the butter over the fish for 2–3 minutes to finish cooking.
+
 **Add a bright finish and serve**: <br/>
 Squeeze lemon juice over the cod, sprinkle with parsley, and plate immediately while warm and flaky
 
