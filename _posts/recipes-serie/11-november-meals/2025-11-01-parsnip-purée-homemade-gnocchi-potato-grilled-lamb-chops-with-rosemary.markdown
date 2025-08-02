@@ -8,43 +8,51 @@ tags: [11-november]
 #### Ingredients (for 3 persons)
 
 **For the parsnip purée**:
-- 600 g parsnips, peeled and chopped
-- 1 small potato (about 150 g), peeled and chopped
+- 400 g parsnips, peeled & chopped
+- 150 g floury potato, peeled & chopped
 - 1 garlic clove
-- 30 g butter
-- 100 mL whole milk (adjust for texture)
-- Salt, pepper, and a pinch of nutmeg
+- 10 g butter (for flavor, reduced)
+- 60 mL whole milk (can be semi-skimmed if preferred)
+- Salt, pepper, nutmeg
 
 **For the homemade gnocchi potato**:
-- 500 g floury potatoes (e.g., Bintje)
-- 100 g all-purpose flour (plus extra for dusting)
+- 300 g floury potatoes
+- 60 g all-purpose flour
 - 1 egg yolk
 - Salt
 
 **For the grilled lamb chops with rosemary**
-- 6 lamb chops (2 per person)
+- 3 lean lamb chops (about 360 g total)
 - 2 garlic cloves, minced
-- 2 sprigs fresh rosemary, chopped
-- 30 mL olive oil
-- Salt and pepper
+- 2 sprigs rosemary, chopped
+- 10 mL olive oil (for brushing/marinade)
+- Salt & pepper
 
 ### Instructions
 
-- **Boil** parsnips, potato, and garlic in salted water until tender (about 20 minutes).
-- **Drain and mash** or blend with butter and warm milk until smooth.
-- **Season** with salt, pepper, and nutmeg. Keep warm.
-- **Boil** potatoes whole with skin until tender. Peel and mash while still warm.
-- **Mix** with flour, egg yolk, and a pinch of salt. Knead briefly until smooth.
-- **Roll into** ropes and cut into 2 cm pieces. Shape with a fork if desired.
-- **Boil** in salted water until they float (2–3 minutes). Drain and pan-sear in butter until golden.
-- **Marinate** lamb chops with garlic, rosemary, olive oil, salt, and pepper for at least 30 minutes.
-- **Sear in** a hot pan for 3–4 minutes per side (medium-rare), or grill if preferred.
-- **Rest** for 5 minutes before serving.
+**Boil root vegetables until tender**: <br/>
+Cook parsnips, potatoes, and garlic in salted water for about 20 minutes, until easily pierced.
+**Blend for a silky mash**: <br/>
+Drain and mash with butter and warm milk until smooth. Season with salt, pepper, and nutmeg. Keep warm.
+**Prepare gnocchi dough from boiled potatoes**: <br/>
+Boil whole potatoes in their skin. Peel and mash while still hot to retain texture.
+**Incorporate flour and egg yolk**: <br/>
+Mix with flour, egg yolk, and a pinch of salt. Knead briefly into a smooth, pliable dough.
+**Shape into classic gnocchi**: <br/>
+Roll into ropes, slice into 2 cm pieces, and use a fork to mark ridges if desired.
+**Boil and finish in butter**: <br/>
+Cook the gnocchi in salted water until they rise (2–3 minutes). Drain and sauté in butter until golden and crisp.
+**Marinate lamb chops for depth**: <br/>
+Rub with garlic, rosemary, olive oil, salt, and pepper. Let sit for at least 30 minutes to infuse.
+**Sear or grill to perfection**: <br/>
+Cook the chops in a hot pan or on the grill for 3–4 minutes per side for medium-rare.
+**Let the meat rest before serving**: <br/>
+Allow chops to rest for 5 minutes to keep juices locked in.
 
 #### Calories (per serving)
 
-| **Calories** | 790 kcal |
+| **Calories** | 580 kcal |
 | ----------- | ----------- |
-| *Carbs* | 44g |
-| *Fat* | 46g |
-| *Protein* | 38g |
+| *Carbs* | 48g |
+| *Fat* | 24g |
+| *Protein* | 35g |
