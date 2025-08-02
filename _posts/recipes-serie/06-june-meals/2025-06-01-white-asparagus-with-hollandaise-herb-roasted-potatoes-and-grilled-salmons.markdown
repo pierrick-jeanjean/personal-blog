@@ -1,10 +1,3 @@
----
-layout: post
-title:  White asparagus with hollandaise, herb-roasted potatoes and grilled salmons
-categories: recipes
-tags: [06-june]
----
-
 #### Ingredients (for 3 persons)
 
 **For the white asparagus with hollandaise**:
@@ -12,8 +5,6 @@ tags: [06-june]
 - 3 egg yolks
 - 15 mL lemon juice
 - 100 g unsalted butter, melted
-- Salt and pepper to taste
-
 **For the herb-roasted potatoes**:
 - 600 g baby potatoes, halved
 - 30 mL olive oil

@@ -1,10 +1,3 @@
----
-layout: post
-title:  Artichokes with vinaigrette, crusty French baguette and grilled chicken breasts
-categories: recipes
-tags: [06-june]
----
-
 #### Ingredients (for 3 persons)
 
 **For the artichokes with vinaigrette**:

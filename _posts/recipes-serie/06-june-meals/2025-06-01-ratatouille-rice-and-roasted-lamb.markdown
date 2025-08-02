@@ -1,10 +1,3 @@
----
-layout: post
-title:  Ratatouille, rice and roasted lamb
-categories: recipes
-tags: [06-june]
----
-
 #### Ingredients (for 3 persons)
 
 **For the ratatouille**:
